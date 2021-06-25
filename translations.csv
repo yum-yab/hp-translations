@@ -1,16 +1,16 @@
 english,german
 Beast,Magische Tierwesen
 Being,Zauberwesen
-Halfblood,Halbblut/ halbblütig
-Halfbreed,"Halbblut"/ Halbmensch
+Halfblood,|Halbblut, halbblütig|
+Halfbreed,|"Halbblut", Halbmensch|
 Mudblood,Schlammblut
 Muggle,Muggel
-Pureblood,reinblütig/ Reinblut
+Pureblood,|reinblütig, Reinblut|
 Spirit,Geist/Gespenst
 Wand Carriers,Zauberstabträger
 Wizard,Zauberer
 Witch,Hexe
-Bloody Baron/ The,Blutige Baron/ Der
+|Bloody Baron, The|,|Blutige Baron, Der|
 Bodrod the Bearded,Bodrod der Bärtige
 Bran the Bloodthirsty,Bran der Blutdürstige
 Buckbeak / Witherwings,Seidenschnabel / Federflügel
@@ -22,7 +22,7 @@ Grey Lady,Graue Dame
 Merchieftainess Murcus,Seehäuptlingin Murcus
 Moaning Myrtle,Maulende Myrte
 Nearly Headless Nick,Fast Kopfloser Nick
-Norbert/ the Norwegian Ridgeback,Norbert norwegische Stachelbuckel
+|Norbert, the Norwegian Ridgeback|,Norbert norwegische Stachelbuckel
 Padfoot,Tatze
 Prongs,Krone
 Scabbers,Krätze
@@ -31,7 +31,7 @@ Wormtail,Wurmschwanz
 Cyclops,Zyklop
 Death Eater,Todesser
 International Association of Quidditch,Internationaler Quidditchverband
-Order of the Phoenix/ The,Orden des Phönix/ Der
+|Order of the Phoenix, The|,|Orden des Phönix, Der|
 S.P.E.W. - Society for the Promotion of Elfish Welfare,B.ELFE.R. - Bund für Elfenrechte
 SSS - Society for the Support of Squibs,GUS - Gesellschaft zur Unterstützung von Squibs
 Society for Distressed Witches,Vereinigung für verzweifelte Hexen
@@ -47,8 +47,8 @@ Non-Tradeable Substance,Nichtverkäufliche Substanzen
 Registry of Proscribed Charmable Objects,Liste Verbotener Verhexbarer Gegenstände
 Werewolf Code of Conduct,Benimmregeln für Werwölfe
 Azkaban,Askaban
-Burrow/ The,Der Fuchsbau
-Chamber of Secrets/ The,Die Kammer des Schreckens
+|Burrow, The|,Der Fuchsbau
+|Chamber of Secrets, The|,Die Kammer des Schreckens
 Department for the Regulation and Control of Magical Creatures,Abteilung zur Führung und Aufsicht Magischer Geschöpfe
 Department of International Magical Cooperation,Abteilung für Internationale Magische Zusammenarbeit
 Department of Magical Accidents and Catastrophes,Abteilung für Magische Unfälle und Katastrophen
@@ -66,11 +66,11 @@ Hogwarts - School for Witchcraft and Wizardry,Hogwarts - Schule für Hexerei und
 Honeydukes,Honigtopf
 Hospital Wing,Krankenflügel
 Improper Use of Magic Office,Büro gegen den Missbrauch der Magie
-International Confederation of Wizards/ British Seats,Internationale Vereinigung der Zauberer/ britische Sektion
+|International Confederation of Wizards, British Seats|,|Internationale Vereinigung der Zauberer, britische Sektion|
 International Magical Office of Law,Internationales Büro für magisches Recht
 Junk shop,Kramladen
 Knockturn Alley,Nokturngasse
-Leaky Chauldron/ The,Zum Tropfenden Kessel
+|Leaky Chauldron, The|,Zum Tropfenden Kessel
 Ministry of Magic,Zaubereiministerium
 Misuse of Muggle Artefacts Office,Büro gegen den Missbrauch von Muggelartefakten
 Office of House-Elf Relocation,Amt für die Neuzuteilung von Hauselfen
@@ -100,7 +100,7 @@ Broomstick,Fliegender Besen
 Apparition,Apparieren
 Floo Network,Flohnetzwerk
 Flying Carpet,Fliegender Teppich
-Knight Bus/ The,Fahrender Ritter
+|Knight Bus, The|,Fahrender Ritter
 Port Key,Portschlüssel
 Abyssinian Shrivelfig,Abessinische Schrumpelfeige
 Acromantula Venom,Acromantula-Gift
@@ -109,7 +109,7 @@ Asphodel,Affodillwurzel
 Aquavirius Maggots,Aquaviriusmaden
 Armadillo bile,Gürteltiergalle
 Bats' spleens,Fledermausmilz
-Belladonna/ essence of,Belladonna-Essenz
+|Belladonna, essence of|,Belladonna-Essenz
 Bicorn horn,Zweihorn-Horn
 Blood Blisterpod,Blutblasenschote
 Boomslang Skin,Baumschlangenhaut
@@ -165,29 +165,29 @@ Unicorn hair,Einhornhaar
 Valerian root,Baldrianwurzel
 Venomous Tentacula,Venemosa Tentacula
 Wartcap powder,Warzhautpulver
-Whomping Willow/ The,Die Peitschende Weide
+|Whomping Willow, The|,Die Peitschende Weide
 Wolfsbane,Wolfswurz
 Wormwood,Wermut
 Barnabas the Barmy,Barnabas der Bekloppte
 Boris the Bewildered,Boris der Bekloppte
 Ritchie Coote,Richie Coote
 Gerda Court,Gerda Gouda
-The Dark Lord,Dunkle Lord/ Der
+The Dark Lord,|Dunkle Lord, Der|
 Dedalus Diggel,Dädalus Diggel
-Marjorie "Marge" Dursley/,Magda Dursley
+|Marjorie "Marge" Dursley,|,Magda Dursley
 Egbert the Egregious,Egbert der Ungeheuerliche
 Emeric the Evil,Emmerich der Böse
 Colonel Fubster,Oberst Stumper
 Marvolo Gaunt,Vorlost Gaunt
-Miranda Goshawk/,Miranda Habicht
-Hermione Granger/,Hermine Granger
+|Miranda Goshawk,|,Miranda Habicht
+|Hermione Granger,|,Hermine Granger
 Gregory the Smarmy,Gregor der Kriecher
 Gregorovitch,Gregorowitsch
 Grubbly-Plank,Wilhelmina Raue-Pritsche
-Alberic Grunnion/,Alberich Grunnion
+|Alberic Grunnion,|,Alberich Grunnion
 Half-Blood Prince,Halbblutprinz
-Mafalda Hopkirk/,Mafalda Hopfkirch
-Arsenius Jigger/,Arsenius Bunsen
+|Mafalda Hopkirk,|,Mafalda Hopfkirch
+|Arsenius Jigger,|,Arsenius Bunsen
 Silvanus Kettleburn,Silvanus Kesselbrand
 Lachlan the Lanky,Lachlan der Lulatsch
 Cuthbert Mockridge,Knutbert Mockridge
@@ -195,7 +195,7 @@ Arnold Peasegood,Arnold Friedlich
 Tom Marvolo Riddle,Tom Vorlost Riddle
 Rita Skeeter,Rita Kimmkorn
 Snuffles,Schnuffel
-Erica Stainwright/,Erica Fleckenstein
+|Erica Stainwright,|,Erica Fleckenstein
 Emeric Switch,Emeric Wendel
 Tilden Toots,Krautwig Kross
 Quentin Trimble,Quirin Sumo
@@ -210,7 +210,7 @@ Head Polo,Kopfpolo
 Headless Hunt,Jagd der Kopflosen
 Triwizard Tournament,Trimagisches Turnier
 Accidental Magic Reversal Department,Abteilung für die Umkehr verunglückter Zauberei
-Accidental Magic Reversal Squad/ The,Magisches Unfallumkehr-Kommando
+|Accidental Magic Reversal Squad, The|,Magisches Unfallumkehr-Kommando
 Apparation Test Centre,Appariertestzentrum
 Auror Headquarters,Aurorenzentrale
 Beast Division,Tierwesenbehörde
@@ -253,7 +253,7 @@ Werewolf Registry,Werwolf-Register
 Werewolf Support Services,Werwolf-Unterstützungsamt
 Wizengamot,Zaubergamot
 Wizengamot Administration Services,Zaubergamot-Verwaltungsdienst
-The Adventures of Martin Miggs/ the Mad Muggle,Die Abenteuer von Martin Miggs/ dem mickrigen Muggel
+|The Adventures of Martin Miggs, the Mad Muggle|,|Die Abenteuer von Martin Miggs, dem mickrigen Muggel|
 Achievements in Charming,Große Errungenschaften der Zauberkunst
 Advanced Rune Translation,Runenübersetzung für Fortgeschrittene
 Ancient Runes Made Easy,Alte Runen leicht gemacht
@@ -263,29 +263,29 @@ An Appraisal of Magical Education in Europe,Handbuch der europäischen Magieraus
 Asiatic Anti-Venoms,Asiatische Antidotes
 Basic Hexes for the Busy and Vexed,Zaubern für Dummies
 Beating the Bludgers – A Study of Defensive Strategies in Quidditch,Klatscher klatschen: Verteidigungsstrategien im Quidditch
-Beaters´ Bible/ The,Die Treiberfibel
-Beginner's Guide to Transfiguration/ A - Emeric Switch,Verwandlungen für Anfänger - Emeric Wendel
+|Beaters´ Bible, The|,Die Treiberfibel
+|Beginner's Guide to Transfiguration, A - Emeric Switch|,Verwandlungen für Anfänger - Emeric Wendel
 Break with a Banshee - Gilderoy Lockhart,Tanz mit einer Todesfee - Gilderoy Lockhart
 Broken Balls: When Fortunes Turn Foul,Zerbrochene Träume: Wenn sich das Schicksal wendet
 Charm Your Own Cheese,So zaubern Sie Ihren eigenen Käse
 Common Magical Ailments and Afflictions,Magische Hauskrankheiten und Gebrechen
-A Compendium of Common Curses and their Counter-Actions,Handbuch gängiger Flüche und Gegenflüche/ Ein
+A Compendium of Common Curses and their Counter-Actions,|Handbuch gängiger Flüche und Gegenflüche, Ein|
 Confronting the Faceless,Im Angesicht des Gesichtslosen
 The Daily Prophet,Der Tagesprophet
-The Dark Arts Outsmarted/ The,Die dunklen Künste überlistet
-Death Omens: What to Do When You Know the Worst is Coming,Omen des Todes – Was tun/ wenn Sie wissen/ dass das Schlimmste bevorsteht
+|The Dark Arts Outsmarted, The|,Die dunklen Künste überlistet
+Death Omens: What to Do When You Know the Worst is Coming,|Omen des Todes – Was tun, wenn Sie wissen, dass das Schlimmste bevorsteht|
 Defensive Magical Theory,Theorie magischer Verteidigung
 Dragon Breeding for Pleasure and Profit,Drachenzucht für Haus und Hof
 Dragon Species of Great Britain and Ireland,Drachenarten Großbritanniens und Irlands
 Dreadful Denizens of the Deep,Grausige Wesen der Tiefe
-Dream Oracle/ The,Traumorakel/ Das
+|Dream Oracle, The|,|Traumorakel, Das|
 Enchantment in Baking,Magie beim Backen
 Fantastic Beasts and where to find them - Newt Scamander,Phantastische Tierwesen und wo sie zu finden sind - Newt Scamander
 Flying with the Cannons,Fliegen mit den Cannons
 Fowl or Foul? A Study of Hippogriff Brutality,Tollheit oder Tollwut? Die Übergriffe von Hippogreifen
-From Egg to Inferno/ A Dragon Keeper's Guide,Vom Ei zum Inferno: Ein Handbuch für Drachenhalter
+|From Egg to Inferno, A Dragon Keeper's Guide|,Vom Ei zum Inferno: Ein Handbuch für Drachenhalter
 Gadding with Ghouls - Gilderoy Lockhart,Gammeln mit Ghulen - Gilderoy Lockhart
-Guide to Advanced Transfiguration/ A - Emeric Switch,Lehrbuch der Verwandlung für Fortgeschrittene - Emeric Wendel
+|Guide to Advanced Transfiguration, A - Emeric Switch|,Lehrbuch der Verwandlung für Fortgeschrittene - Emeric Wendel
 A Guide to Medieval Sorcery,Führer durch die mittelalterliche Hexenkunst
 Handbook of Do-it-Yourself Broomcare,Handbuch der Besenpflege
 The Handbook of Hippogriff Psychology,Handbuch der Hippogreif-Psychologie
@@ -301,7 +301,7 @@ Madcap Magic for Wacky Warlocks,Magische Mätzchen für tumbe Zauberer
 Magical Me - Gilderoy Lockhart,Zauberisches Ich - Gilderoy Lockhart
 Magical Mediterranean Water-Plants and Their Properties,Magische Wasserpflanzen des Mittelmeeres und ihre Wirkungen
 Magick Moste Evile,Gar böse Zauberey
-Men Who Love Dragons Too Much,Männer/ die Drachen zu sehr lieben
+Men Who Love Dragons Too Much,|Männer, die Drachen zu sehr lieben|
 The Monster Book of Monsters,Das Monsterbuch der Monster
 Moste potente Potions,Höchst potente Zaubertränke
 My Life as a Muggle - Daisy Hookum,Mein Leben als Muggel - Daisy Hookum
@@ -312,7 +312,7 @@ Numerology and Grammatica,Numerologie und Grammatika
 Olde and Forgotten Bewitchments and Charmes,Alte und vergessene Hexereien und Zaubereien
 One Minute Feast – It's Magic!,Festessen in einer Minute - Das ist Hexerei!
 Partial Vanishment,partielles Verschwinden
-Powers You Never Knew You Had and What To Do With Them Now You've Wised Up,Kräfte Ihres Inneren/ von denen Sie nie wussten/ und was sie damit anfangen
+Powers You Never Knew You Had and What To Do With Them Now You've Wised Up,|Kräfte Ihres Inneren, von denen Sie nie wussten, und was sie damit anfangen|
 Practical Defensive Magic and its Use Against the Dark Arts,Praktische Defensive Magie und ihr Einsatz gegen die dunklen Künste
 Predicting the Unpredictable: Insulate Yourself against Shocks,Die Vorhersage des Unvorhersagbaren - So schützen sie sich vor Schocks
 The Quibbler,Der Klitterer
@@ -331,16 +331,16 @@ Unfogging the Future - Cassandra Vablatsky,Die Entnebelung der Zukunft - Kassand
 Voyages with Vampires - Gilderoy Lockhart,Abstecher mit Vampiren - Gilderoy Lockhart
 Wanderings with Werewolves - Gilderoy Lockhart,Wanderungen mit Werwölfen - Gilderoy Lockhart
 Weird Wizarding Dilemmas and Their Solutions,Tausend knifflige Zauberrätsel
-Where There's a Wand/ There's a Way,Großes Selbsthilfebuch für Zauberer
+|Where There's a Wand, There's a Way|,Großes Selbsthilfebuch für Zauberer
 Witch Weekly,Die Hexenwoche
-Wonder of the Wigtown Wanderers/ The,Das Wunder der Wigtown Wanderers
+|Wonder of the Wigtown Wanderers, The|,Das Wunder der Wigtown Wanderers
 Year with the Yeti - Gilderoy Lockhart,Ein Jahr bei einem Yeti - Gilderoy Lockhart
 Anti-Burglar Buzzer,Diebstahlschutz-Summer
 Anti-Jinx Varnish,Anti-Fluch-Lackierung
 Auto-Answer Quill,Selbstantwortende Schreibfeder
 Basic Blaze box,Vorhölle Sparbox
 Bertie Bott's Every Flavour Beans,Bertie Botts Bohnen jeder Geschmacksrichtung
-Best Blowing Gum/ Drooble's,Druhbels Bester Blaskaugummi
+|Best Blowing Gum, Drooble's|,Druhbels Bester Blaskaugummi
 Blood-flavoured Lollipops,Lutscher mit Blutgeschmack
 Bluebottle,Bulle
 Broomstick,Fliegender Besen
@@ -351,10 +351,10 @@ Chocolate Frog,Schokofrosch
 Clankers,Klirrer
 Cleansweep,Sauberwisch
 Cockroach Clusters,Kakerlakenschwarm
-Crystal Ball/ Orb,Kristallkugel
+|Crystal Ball, Orb|,Kristallkugel
 Cutting Quill,schneidende Schreibfeder
 Dark Detector,Antiobskurant
-Daydream Charms/ Patented,Tagtraum-Zauber/ Patentierte
+|Daydream Charms, Patented|,|Tagtraum-Zauber, Patentierte|
 Decoy Detonator,Bluffknaller
 Deflagration Deluxe,Inferno de Luxe
 Dr Ubbly's Oblivious Unction,Dr. Salbaders amnesische Salbe
@@ -365,10 +365,10 @@ Ever-Bashing Boomerang,Bissige Bumerangs
 Everlasting Candles,Immer währende Kerzen
 Extendable Ears,Langziehohren
 Fanged Frisbee,Fangzähniges Frisbee
-Firebolt/ The,Feuerblitz/ Der
+|Firebolt, The|,|Feuerblitz, Der|
 Firewhisky,Feuerwhisky
 Fizzing Whizzbees,Zischende Wissbies
-Fleetwood's High-Finish Handle Polish/,Fleetwoods Hochglanzpolitur
+|Fleetwood's High-Finish Handle Polish,|,Fleetwoods Hochglanzpolitur
 Floo Powder,Flohpulver
 Flying Carpet,Fliegender Teppich
 Foe-Glas,Feindglas
@@ -383,14 +383,14 @@ Invisibility cloak,Tarnumhang
 Jelly Slugs,Gummischnecken
 Licorice wand,Lakritz-Zauberstab
 Lunascope,Lunaskop
-Marauder's Map/ The,Karte des Rumtreibers
+|Marauder's Map, The|,Karte des Rumtreibers
 Mead,Met
-Mirror of Erised/ The,Spiegel Nerhegeb/ Der
+|Mirror of Erised, The|,|Spiegel Nerhegeb, Der|
 Mrs Skower's All-Purpose Magical Mess-Remover,Mrs Skowers magischer Allzweckreiniger
 Mulled mead,Heißer Honigmet 
 Oak-matured Mead,Im Eichenfass gereifter Met 
 Omniocular,Omniglas
-Orb/ Crystal Ball,Kristallkugel
+|Orb, Crystal Ball|,Kristallkugel
 Pensieve,Denkarium
 Peppermint Creames,Pfefferminz-Pralinen
 Philosopher's StoneSourcerer's Stone,Der Stein der Weisen
@@ -399,7 +399,7 @@ Port Key,Portschlüssel
 Probity Probe,Seriositätssonde
 Pumpkin Juice,Kürbissaft
 Punching Telescope,boxendes Teleskop
-Put-Outer/ Unlighter,Entleuchter/ Ausmacher/Deluminator
+|Put-Outer, Unlighter|,|Entleuchter, Ausmacher/Deluminator|
 Quick-Quotes Quill,Flotte-Schreibe-Feder
 Regurgitating Public Toilet,Wiederausspuckende Toilette
 Remembrall,Erinnermich
@@ -417,11 +417,11 @@ Spectrespecs,Gespensterbrille
 Spell-Checking quill,Rechtschreibchecker
 sugar-spun quills,Aus Zucker gesponnene Federhalter
 Tail-Twig Clippers,Reisig-Knipszange
-Toots/ Hoots 'n Roots,Kross/ Spross und Schoss
+|Toots, Hoots 'n Roots|,|Kross, Spross und Schoss|
 Toothflossing Stringmints,Zahnweiß-Pfefferminzlakritze
 Treacle Fudge,Sirupbonbons
 U-No-Poo,Du scheißt nie mehr
-Unlighter/ Put-Outer,Entleuchter/Deluminator/ Ausmacher/
+|Unlighter, Put-Outer|,|Entleuchter/Deluminator, Ausmacher,|
 Vanishing Cabinet,Verschwindekabinett
 Wand,Zauberstab
 Weasley's Wildfire Whizbangs,Weasleys wildfeurige Wunderknaller
@@ -494,7 +494,7 @@ Wizard,Zauberer
 Wrackspurt,Schlickschlupf
 Astronomy,Astronomie
 Charms,Zauberkunst
-Defense Against the Dark Arts/ DADA,Verteidigung gegen die dunklen Künste
+|Defense Against the Dark Arts, DADA|,Verteidigung gegen die dunklen Künste
 Herbology,Kräuterkunde
 History of Magic,Geschichte der Zauberei
 Potions,Zaubertränke
@@ -508,7 +508,7 @@ T - Troll,T - Troll
 O.W.L. - Ordinary Wizarding Level,ZAG - Zauberergrad
 N.E.W.T. - Nastily Exhausting Wizarding Test,UTZ - Unheimlich toller Zauberer
 Dumbledore's Army,Dumbledores Armee
-Governor of Hogwarts School,Schulrat/ Schulbeirat
+Governor of Hogwarts School,|Schulrat, Schulbeirat|
 Head Boy / Head Girl,Schulsprecher
 Headmaster / Headmistress,Schulleiter / Schulleiterin
 High Inquisitor,Großinquisitorin
@@ -548,7 +548,7 @@ Conjunctivitus Curse,Bindehautentzündungs-Fluch
 Conjurus spells,Beschwörungs-Zauber
 Cushioning Charm,Polsterungs-Zauber
 Dark Magic,Schwarze Magie
-Daydream Charm/ Patented,Tagtraum-Zauber
+|Daydream Charm, Patented|,Tagtraum-Zauber
 Deflating Draft,Abschwell-Trank
 Disarmament Charm,Entwaffnungs-Zauber
 Disillusion Charm,Desillusionierungs-Zauber
@@ -620,15 +620,15 @@ Stupefy,Stupor
 Stunnigng Spell,Schock-Zauber
 Substantive Charm,Substantiv-Zauber
 Summoning Charm,Aufrufe-Zauber
-Sunshine/ daisies/ butter mellow. Turn this stupid/ fat rat yellow!,Eidotter/ Gänsekraut und Sonnenschein/ gelb soll diese dumme/ fette Ratte sein! (HP I/6)
+|Sunshine, daisies, butter mellow. Turn this stupid, fat rat yellow!|,|Eidotter, Gänsekraut und Sonnenschein, gelb soll diese dumme, fette Ratte sein! (HP I/6)|
 Swelling Solution,Schwell-Lösung
 Switching Spell,Verwandlungs-Zauber
 Thief's Curse,Klau-Fluch
 Thief's Downfall,Diebesfall
 Tickling Charm,Kitzel-Zauber
-Toenail-growing hex,Verwünschung/ die Zehennägel alarmierend schnell wachsen lässt
+Toenail-growing hex,|Verwünschung, die Zehennägel alarmierend schnell wachsen lässt|
 Tongue-Tying Curse,Zunge-Fessel-Fluch
-Toots/ Hoots 'n Roots,Kross/ Spross und Schoss
+|Toots, Hoots 'n Roots|,|Kross, Spross und Schoss|
 Transforming Spell,Verwandlungs-Zauber
 Transmogrifian Torture,Transmutations-Tortur
 Trip Jinx,Stolper-Fluch
@@ -640,13 +640,13 @@ Unplottable,Unortbar
 Vanishing Spell,Verschwinde-Zauber
 Wit-sharpening Potion,Gripsschärfungs-Trank
 Wolfsbane Potion,Wolfsbann-Trank
-A Chauldron Full of Hot Strong Love,Ein Kessel voller heißer/ starker Liebe
+A Chauldron Full of Hot Strong Love,|Ein Kessel voller heißer, starker Liebe|
 Barnabus Finkley Prize for Exceptional Spell-Casting,Barnabus-Finkley-Preis für Außergewöhnliche Zauberei
 Concealment and Disguise,Tarnung und Maskierung
 Erised stra ehru oyt ube cafru oyt on wohsi I show not your face but your heart's desire,Nerhegeb Z Reh Nie Drebaz Tilt Naniedth CinNicht dein Antlitz aber dein Herzbegehren
 Harry for President,Harry vor für Gryffindor
 He who must not be named,Er dessen Name nicht genannt werden darf
-I solemnly swear that I'm up to no good. Mischief managed!,Ich schwöre feierlich/ ich bin ein Tunichtgut.Missetat begangen! (HPIII/10)
+I solemnly swear that I'm up to no good. Mischief managed!,|Ich schwöre feierlich, ich bin ein Tunichtgut.Missetat begangen! (HPIII/10)|
 Master of Death,Gebieter des Todes
 Potter stinks,Potter stinkt
 Purveyors of Aids to Magical Mischief-Makers,Hilfsmittel für die Magischen Tunichtgut GmbH
