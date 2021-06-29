@@ -49,7 +49,7 @@ def get_csv_from_site(uri):
             continue
 
         english, german = elements[0].text, elements[1].text
-        result.append((english.replace(",", "/").strip("\n"), german.replace(",", "/").strip("\n")))
+        result.append((english.strip("\n"), german.strip("\n")))
 
     return result
 
@@ -57,7 +57,7 @@ def get_csv_from_site(uri):
 if __name__ == "__main__":
 
     with open("./translations.csv", "w+") as csvfile:
-        writer = csv.writer(csvfile, quotechar='|', quoting=csv.QUOTE_MINIMAL)
+        writer = csv.writer(csvfile, quoting=csv.QUOTE_MINIMAL)
         writer.writerow(("english", "german"))
         for uri in uris:
             print(f"Handling URI {uri}")
