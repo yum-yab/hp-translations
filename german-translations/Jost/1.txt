@@ -1,0 +1,217 @@
+
+Der Inhalt:
+Petunia heiratet nicht Vernon Dursley, sondern einen Wissenschaftler, Professor an der Uni Oxford. Harry wächst mit wissenschaftlicher Literatur und Science-Fiction-Büchern auf und ist ein überzeugter Rationalist. Dann kommt er nach Hogwarts und versucht, Magie auf wissenschaftliche Art und Weise zu erforschen …
+
+Die Fanfiction:
+Das Original heißt "Harry Potter and the Methods of Rationality". Es hat 122 Kapitel und ist seit März 2015 fertiggestellt.
+
+Der Autor:
+Eliezer Yudkowsky lebt in Kalifornien und forscht im Bereich der künstlichen Intelligenz. Er beschäftigt sich ausführlich mit rationalem Denken und schreibt darüber unter anderem auf „Less Wrong“.
+
+Die Übersetzung:
+Die Übersetzung ist vom Originalautor genehmigt. Übersetzt von mir; in späteren Kapiteln habe ich einige Hilfe von Alex, Arne und Martin bekommen.
+
+Die Wissenschaften:
+Die in der FF erwähnten wissenschaftlichen Fakten, Modelle und Methoden sind auf dem aktuellen Stand der Wissenschaft. Ich habe mich dazu entschieden, zu einigen im Kapitel angesprochenen Punkten eine kurze Erläuterung (teils mit weiterführenden Links) hinzuzufügen. Diese Bemerkungen findet ihr jeweils unter dem Text des Kapitels.
+
+… und jetzt, nach dieser ausführlichen Einleitung, das erste Kapitel:
+
+
+---------------   1. Ein äußerst unwahrscheinlicher Tag   ---------------
+
+
+Im Mondlicht glitzert ein winziger Silbersplitter, eine zarte Spur…
+(schwarzer Umhang, zu Boden fallend)
+… Blut fließt in Strömen und jemand schreit ein Wort.
+
+---
+
+Jedes Stückchen Wand wird von Bücherschränken verdeckt. Jeder Bücherschrank hat sechs Ebenen, die fast bis an die Decke reichen. Einige von ihnen sind bis an den Rand gefüllt mit dicken Wälzern über Naturwissenschaften, Mathematik, Geschichte und all das. Andere beherbergen Science-Fiction-Taschenbücher in Zweierreihen, die hintere auf alten Pappkartons oder Holzplatten höhergestellt, so dass man die Titel über die Bücher der vorderen Reihe hinweg lesen kann. Doch selbst das reicht nicht aus. Die Bücher quellen über, belegen Tische, Sofas und bilden kleine Stapel unter den Fenstern.
+
+Dies ist das Wohnzimmer des Hauses, welches vom außergewöhnlichen Professor Michael Verres-Evans, seiner Ehefrau Petunia Evans-Verres und ihrem Adoptivsohn Harry James Potter-Evans-Verres bewohnt wird.
+
+Auf dem Wohnzimmertisch liegen ein Brief sowie ein unfrankierter Briefumschlag aus vergilbtem Pergament, der in smaragdgründer Tinte an Mr H. Potter adressiert ist.
+
+Der Professor und seine Frau reden in scharfem Ton miteinander, schreien jedoch nicht. Schreien hält der Professor für unzivilisiert.
+
+„Du machst Witze“, sagte Michael zu Petunia. Sein Tonfall ließ vermuten, wie sehr er fürchtete, dass es ihr Ernst war.
+
+„Meine Schwester war eine Hexe“, wiederholte Petunia. Sie sah ängstlich aus, blieb aber standhaft. „Ihr Mann war ein Zauberer.“
+
+„Das ist absurd!“, sagte Michael scharf. „Sie waren auf unserer Hochzeit – sie haben uns zu Weihnachten besucht …“
+
+„Ich wollte nicht, dass du es erfährst“, flüsterte Petunia. „Aber es ist wahr. Ich habe Sachen gesehen …“
+
+Der Professor verdrehte seine Augen. „Liebling, ich weiß, dass du mit dem Skeptizismus nicht vertraut bist. Es mag dir nicht klar sein, wie leicht es einem erfahrenen Magier fällt, das scheinbar Unmögliche vorzutäuschen. Erinnerst du dich, wie ich Harry beigebracht habe, Löffel zu verbiegen? Wenn es so erschien, als ob sie immer ahnen konnten, was du gerade dachtest – diese Technik nennt sich kalte Deutung oder cold reading –“
+
+„Es geht nicht um verbogene Löffel.“
+
+„Worum geht es dann?“
+
+Petunia biss sich auf die Lippen. „Ich kann es dir nicht einfach erzählen. Du würdest mich –“ Sie schluckte. „Also. Michael. Ich war nicht – nicht immer so …“ Sie zeigte auf sich selbst, als ob sie auf ihren wohlgeformten Körper deuten wollte. „Lily hat das getan. Weil ich – weil ich sie angefleht habe. Jahrelang habe ich sie angefleht. Lily war immer schöner als ich und ich … ich war gemein zu ihr, deswegen, und dann konnte sie zaubern, kannst du dir vorstellen wie ich mich gefühlt habe? Und ich habe sie angefleht, ein bisschen Magie auf mich anzuwenden, damit ich auch hübsch wäre, selbst wenn ich nicht zaubern konnte, so könnte ich wenigstens hübsch sein.“
+
+Tränen sammelten sich in Petunias Augen.
+
+„Und Lily weigerte sich immer und dachte sich die lächerlichsten Ausreden aus; dass die Welt untergehen würde, wenn sie nett zu ihrer Schwester wäre oder dass ein Zentaur es ihr verboten hatte – die lächerlichsten Dinge und dafür hasste ich sie. Und als ich gerade meinen Abschluss hatte, ging ich mit diesem Jungen aus, Vernon Dursley, er war dick und der einzige Junge, der auf dem College mit mir sprach. Er sagte, er wolle Kinder haben und sein erster Sohn würde Dudley heißen. Und ich dachte mir, was für Eltern nennen ihr Kind Dudley Dursley? Es war, als ob ich meine ganze Zukunft klar vor mir sehen würde und ich konnte es nicht ertragen. Und ich schrieb meiner Schwester und teilte ihr mit, wenn sie mir nicht helfen würde, dann würde ich einfach …“
+
+Petunia brach ab.
+
+„Auf jeden Fall“, sagte Petunia mit schwacher Stimme, „gab sie nach. Sie erzählte mir, dass es gefährlich wäre und ich sagte ihr, dass mich das nicht interessierte und nahm diesen Zaubertrank und war wochenlang krank, aber als es mir wieder besser ging, wurde meine Haut rein und mein Körper formte sich und … ich war schön, die Leute waren nett zu mir“, ihre Stimme gab nach, „und danach konnte ich meine Schwester nicht mehr hassen, besonders nachdem ich hörte, was die Magie ihr am Ende angetan hatte …“
+
+„Liebling“, sagt Michael sanft, „du wurdest krank, hast durch die Bettruhe ein wenig zugenommen und deine Haut wurde von selbst rein. Oder weil du krank warst, hast du dich anders ernährt –“
+
+„Sie war eine Hexe“, wiederholte Petunia. „Ich habe es gesehen.“
+
+„Petunia“, sagte Michael. Seine Stimme nahm einen leicht genervten Unterton an. „Du weißt, dass es nicht wahr sein kann. Muss ich dir wirklich erklären, warum?“
+
+Petunia rang mit den Händen. Sie schien den Tränen nahe zu sein. „Schatz, ich weiß, dass ich keine Diskussionen mit dir gewinnen kann, aber bitte vertrau mir hierbei –“
+
+„Papa! Mama!“
+
+Beide erstarrten und blickten Harry an, als ob sie vollkommen vergessen hätten, dass sich eine dritte Person im Raum befand.
+
+Harry atmete tief durch. „Mama, deine Eltern konnten nicht zaubern, nicht wahr?“
+
+„Stimmt“, sagte Petunia verwirrt.
+
+„Also wusste keiner in deiner Familie über Zauberei Bescheid, als Lily ihren Brief bekam. Was hat euch überzeugt?“
+
+„Ähm …“, sagte Petunia. „Sie haben nicht einfach einen Brief geschickt. Sie haben einen Lehrer von Hogwarts geschickt. Er“, Petunias Augen zuckten zu Michael rüber, „er hat uns etwas Magie vorgeführt.“
+
+„Dann müsst ihr euch darüber nicht streiten“, sagte Harry fest. Er hoffte, dass sie dieses Mal, nur dieses eine Mal, endlich auf ihn hören würden. „Wenn es wahr ist, dann können wir einfach einen Lehrer von Hogwarts herholen und die Zauberei mit eigenen Augen sehen und dann muss Papa zugeben, dass es wahr ist. Und wenn nicht, dann muss Mama zugeben, dass es falsch ist. Dafür gibt es Experimente, damit wir die Sache klären können ohne uns zu streiten.“
+
+Der Professor wandte sich ihm zu und sah ihn, herablassend wie immer, an. „Ach, nun komm schon, Harry. Zauberei? Ist das dein Ernst? Obwohl du sagst, dass Rationalität dir am Wichtigsten ist und du so viel darüber liest? Ich hätte nicht gedacht, dass du das ernst nehmen würdest, mein Sohn, selbst wenn du erst zehn bist. Magie ist so ziemlich die unwissenschaftlichste Sache, die es gibt!“
+
+Harrys Mund verzog sich verbittert. Er wurde gut behandelt, vermutlich besser als die meisten Väter ihre leiblichen Kinder behandelten. Harry wurde auf die beste Grundschule geschickt – und als das nicht ausreichte, wurde er mit Tutoren aus dem unerschöpflichen Pool der verarmten Studenten versorgt. Immer wurde er dazu ermutigt sich in seine Interessensgebiete zu vertiefen, alle Bücher, die ihn interessierten, bekam er gekauft, durfte an allen mathematischen oder naturwissenschaftlichen Wettbewerben teilnehmen. Er bekam fast alles, was er begehrte, aber ernst genommen wurde er nicht. Von einem festangestellten Professor, der in Oxford Biochemie lehrte, konnte man wohl kaum erwarten, dass er den Ratschlägen eines kleinen Jungen Gehör schenkte. Natürlich würde er Interesse vortäuschen; so verhielt sich ein Guter Vater nun einmal und wenn man überzeugt war, ein Guter Vater zu sein, dann machte man das halt so. Aber einen Zehnjährigen ernst nehmen? Wohl kaum.
+
+Manchmal hätte Harry seinen Vater am liebsten angeschrien.
+
+„Mama“, sagte Harry. „Wenn du diese Diskussion mit Papa gewinnen willst, schlag in Kapitel zwei des ersten Buches von Richard Feynmans ‚Vorlesungen über Physik‘ nach. Dort erklärt er, wie die Philosophen eine ganze Menge darüber gesagt haben, was die Naturwissenschaften unbedingt erfordern, aber dass das alles falsch sei; denn die einzige Regel in den Naturwissenschaften ist, dass letzlich die Beobachtung entscheidet und dass man die Welt nur ansehen muss und beschreiben, was man sieht. Ähm … mir fällt gerade nicht ein, wo man nachschlagen könnte, dass es ein Ideal der Naturwissenschaften ist, Dinge mithilfe von Experimenten zu klären, statt mit Gewalt oder Streit …“
+
+Seine Mutter sah zu ihm runter und lächelte. „Danke, Harry. Aber“, sie hob den Kopf und sah ihren Ehemann an, „ich will keinen Streit mit deinem Vater gewinnen. Ich will, dass mein Mann – dass er seiner Frau, die ihn liebt, zuhört und ihr dieses eine Mal vertraut.“
+
+Harry schloss die Augen. Hoffnungslos. Seine Eltern waren beide ein hoffnungsloser Fall.
+
+Jetzt fingen sie wieder mit diesem Streit an: Seine Mutter wollte erreichen, dass sein Vater sich schuldig fühlte und sein Vater wollte, dass seine Mutter sich dumm fühlte. Beide versuchten einfach nur zu gewinnen, aber keiner schien willig, sich auf einen Versuch zu einigen, mit dem sie die Wahrheit herausfinden könnten.
+
+„Ich gehe in mein Zimmer“, kündigte Harry an. Seine Stimme zitterte etwas. „Versucht bitte, euch nicht zu sehr darüber zu streiten, Mama und Papa, schließlich werden wir es bald herausfinden, nicht wahr?“
+
+„Natürlich, Harry“, sagte sein Vater, seine Mutter gab ihm einen liebevollen Kuss und schließlich stritten sie weiter, während Harry die Treppe hoch zu seinem Zimmer ging.
+
+Er schloss die Tür hinter sich und versuchte nachzudenken.
+
+Das Merkwürdige war, dass er eigentlich auf Vaters Seite sein sollte. Niemand hatte jemals irgendwelche Hinweise auf Zauberei entdeckt, obwohl seine Mutter behauptete, dass dort draußen eine ganze magische Welt wäre. Wie konnte man so etwas geheim halten? Durch noch mehr Zauberei? Das kam ihm sehr suspekt vor. Außerdem passte Zauberei an sich überhaupt nicht zu den Naturgesetzen, zu einem Universum, das vollkommenen mathematischen Regeln folgte. Harry glaubte nicht, dass sein Vater all das wirklich verstand – obwohl der Professor sehr skeptisch erschien, wusste er doch sehr wenig über Rationalität. Vermutlich verspürte sein Vater nur eine instinktive Abneigung gegen das Wort Zauberei.
+
+Dennoch war dies ein Fall, in dem die instinktive Abscheu seines Vaters auf sicheren Füßen stand. Es sollte doch offensichtlich sein, dass seine Mutter scherzte, log oder wahnsinnig war – nach aufsteigender Schrecklichkeit geordnet. Wenn sie den Brief selbst geschickt hätte, dann würde das erklären, warum keine Briefmarke auf dem Umschlag klebte. Ein bisschen Wahnsinn war sehr, sehr viel weniger unwahrscheinlich, als dass das Universum tatsächlich solchen Regeln folgte.
+
+Doch seitdem er den mutmaßlichen Brief der Hogwarts-Schule für Hexerei und Zauberei gesehen hatte, war ein Teil von Harry fest davon überzeugt, dass es Zauberei gab.
+
+Harry massierte sich die Schläfen und verzog das Gesicht. Glaub nicht alles, was du denkst, so lautete die rationalistische Version des Sprichwortes. Schenke nicht jedem närrischen Gedanken Glauben, der deinem Kopf entspringt.
+
+Aber diese bizarre Gewissheit … Harry bemerkte, dass er einfach davon ausging, dass ein Lehrer von Hogwarts auftauchen, seinen Zauberstab schwingen und zaubern würde. Die bizarre Gewissheit versuchte nicht einmal, sich gegen Falsifizierung zu wehren – sie entwickelte keine Erklärungen, warum kein Lehrer kommen würde oder warum der Lehrer nur Löffel verbiegen würde.
+
+Woher kommst du, du seltsame, kleine Gewissheit? Harry richtete den Gedanken direkt an sein Gehirn. Warum glaube ich das, was ich glaube?
+
+Normalerweise konnte Harry diese Frage sehr gut beantworten, aber in diesem einen Fall hatte er keine Ahnung, was sein Gehirn sich dabei dachte.
+
+Harry zuckte mit den Schultern, nahm ein Blatt liniertes Papier von seinem Tisch und begann zu schreiben. Wenn man Hunger hat, muss man essen; wenn man Durst hat, muss man trinken; und wenn man eine Hypothese hat, muss man sie eben überprüfen.
+
+Sehr geehrte Stellvertretende Schulleiterin Minerva McGonagall, schrieb Harry. Er setzte ab, drückte einige Millimeter Graphit aus seinem Druckbleistift und ersetzte das Blatt durch ein neues. Hier war eine sorgfältige Schönschrift angebracht.
+
+Sehr geehrte Stellvertretende Schulleiterin Minerva McGonagall,
+
+Oder wer hierfür zuständig ist:
+
+Ich empfing kürzlich Ihr Aufnahmeschreiben, adressiert an Mr H. Potter. Es mag Ihnen nicht bewusst sein, dass meine biologischen Eltern, James Potter und Lily Potter (geb. Evans), tot sind. Ich wurde von Lilys Schwester, Petunia Evans-Verres, und ihrem Ehemann, Michael Verres-Evans, adoptiert.
+
+Ich möchte sehr gerne Hogwarts besuchen, vorausgesetzt, dass ein solcher Ort tatsächlich existiert. Nur meine Mutter Petunia sagt, sie wisse von Zauberei, kann diese jedoch selbst nicht anwenden. Mein Vater ist höchst skeptisch. Ich selbst bin mir unsicher. Ich weiß außerdem nicht, wo ich die im Aufnahmeschreiben genannten Bücher und Ausrüstungsgegenstände erwerben kann.
+
+Mutter erwähnte, dass damals zu Lily Potter (zu der Zeit Lily Evans) ein Hogwartsmitarbeiter kam, um ihrer Familie zu demonstrieren, dass Zauberei existiert und, so nehme ich an, um Lily bei der Beschaffung der Schulsachen zu helfen. Wenn Sie für meine Familie das Gleiche tun könnten, wäre dies äußerst hilfreich.
+
+Mit freundlichen Grüßen
+Harry James Potter-Evans-Verres
+
+Harry ergänzte seine Absenderadresse, faltete den Brief und steckte ihn in einen Briefumschlag, den er an Hogwarts adressierte. Nach weiterem Nachdenken holte er eine Kerze und versiegelte den Umschlag mit Wachs, in welches er mit der Spitze seines Taschenmessers die Initialien H.J.P.E.V. einprägte. Wenn er solchem Wahnsinn verfiel, würde er es zumindest stilvoll tun.
+
+Dann öffnete er seine Zimmertür und ging hinunter. Sein Vater saß im Wohnzimmer und las ein Buch über höhere Mathematik um zu zeigen, wie klug er war; seine Mutter war in der Küche und kochte ein Lieblingsgericht seines Vaters um zu zeigen, wie liebevoll sie war. Es sah nicht so aus, als ob sie überhaupt miteinander reden würden. So beängstigend ein Streit auch sein konnte – nicht streiten war in gewisser Weise deutlich schlimmer.
+
+„Mama“, sagte Harry in die angespannte Stille hinein, „ich werde die Hypothese testen. Wie schicke ich Hogwarts gemäß deiner Theorie eine Eule?“
+
+Seine Mutter drehte sich an der Spüle um und sah ihn schockiert an. „Ich – ich weiß nicht, ich glaube, man braucht eine magische Eule.“
+
+Das hätte wieder sein Misstrauen wecken müssen – oh, also kann man deine Theorie nicht überprüfen – aber die seltsame Gewissheit in Harry schien gewillt, sich noch weiter hervorzutrauen.
+
+„Nun, irgendwie ist der Brief hierher gelangt“, sagte Harry, „also werde ich ihn einfach draußen durch die Luft wedeln und ‚Brief an Hogwarts!‘ rufen und dann abwarten, ob eine Eule kommt und ihn holt. Papa, möchtest du zuschauen?“
+
+Sein Vater schüttelte kurz den Kopf und las weiter. Natürlich, dachte Harry sich. Zauberei war eine unwürdige Sache, an die nur dumme Menschen glaubten; wenn sein Vater so weit gegangen wäre, die Hypothese zu testen oder auch nur beim Test zuzusehen, hätte er diesen unrühmlichen Glauben ernst genommen. Nun, so wurden viele wissenschaftliche Entwicklungen behindert.
+
+Erst als Harry aus der Hintertür auf den Hof stolperte, wurde ihm bewusst, dass er, selbst wenn ein Eule erschien und den Umschlag mitnahm, Schwierigkeiten haben würde, seinen Vater davon zu überzeugen.
+
+Aber – naja – das kann nicht tatsächlich passieren, oder? Egal was mein Gehirn glaubt. Wenn wirklich eine Eule kommt und diesen Umschlag nimmt, werde ich viel wichtigere Sorgen haben als die, wie ich es Papa beibringe.
+
+Harry atmete tief ein und hob den Briefumschlag hoch in die Luft.
+
+Er schluckte.
+
+Brief an Hogwarts! zu rufen, während man im eigenen Hinterhof stand und einen Umschlag in die Luft hielt, war … ziemlich peinlich, jetzt wo er darüber nachdachte.
+
+Nein. Ich bin besser als Papa. Ich werde wissenschaftlich vorgehen, selbst wenn ich mir dabei dumm vorkomme.
+
+„Brief …“, sagte Harry, aber ihm entwich nur ein geflüstertes Krächzen.
+
+Harry nahm seinen Mut zusammen und schrie zum leeren Himmel hinauf, „Brief an Hogwarts! Kann ich eine Eule dafür bekommen?“
+
+„Harry?“, fragte eine verwirrte Frauenstimme, eine der Nachbarinnen.
+
+Harry riss seine Hand herunter als ob er ins Feuer gefasst hätte und versteckte den Briefumschlag hinter seinem Rücken als ob es Drogengeld wäre. Sein ganzes Gesicht brannte rot vor Scham.
+
+Das Gesicht einer alten Frau blickte über den Zaun, wirre graue Haare schauten unter ihrem Haarnetz hervor. Mrs Figg, die gelegentlich auf ihn aufpasste. „Was machst du da, Harry?“
+
+"Nichts", sagte Harry mit zugeschnürter Kehle. „Nur – nur eine wirklich lächerliche Theorie testen …“
+
+„Hast du dein Aufnahmeschreiben von Howarts bekommen?“
+
+Harry erstarrte.
+
+Der Teil seines Gehirns, der noch nicht überzeugt war, schrie Verschwörung! so laut er nur konnte. Sie steckt auch mit drin!
+
+Der andere Teil von ihm stellte viel gelassener fest, sie sollte vermutlich auf dich aufpassen..
+
+„Ja“, sagten Harrys Lippen, nachdem seine Zunge sich aus der Erstarrung gelöst hatte. „Ich habe einen Brief von Hogwarts bekommen. Sie schreiben, dass sie bis zum 31. Juli meine Eule erwarten, aber –“
+
+„Aber du hast gar keine Eule. Du Armer! Ich kann mir gar nicht vorstellen, was die sich dabei nur gedacht haben, dir einfach den Standardbrief zu schicken.“
+
+Ein runzliger Arm streckte sich über den Zaun und öffnete erwartend eine Hand. Harry, der inzwischen kaum noch klar denken konnte, gab ihr den Umschlag.
+
+„Überlass' es einfach mir, mein Lieber“, sagte Mrs Figg, „und ich schicke dir gleich jemanden vorbei.“
+
+Das Gesicht verschwand vom Zaun.
+
+Harry stand einfach nur da, schockiert.
+
+Das war… unerwartet…
+
+Der zweifelnde Teil von ihm stellte fest, dass er immer noch nichts gesehen hatte, was gegen die bekannten Naturgesetze verstieß. Sicherlich war eine kleine Verschwörung sehr viel weniger unwahrscheinlich, als dass das Universum tatsächlich solchen Regeln folgte.
+
+Doch das war auch eine Technik der Rationalität – festzustellen, wann man verwirrt war. Abzuwarten und zu sagen: Moment mal, das fühlt sich nicht ganz richtig an, mein Modell der Welt hat nicht vorhergesagt, dass so etwas passieren könnte. Selbst wenn Harry die Ereignisse dieses Tages auf plötzlichen Wahnsinn oder unbegründete Verschwörungen zurückführte, wurde nicht alles wieder normal. Dadurch wären die Ereignisse dieses Tages trotzdem nicht erklärbar. Dadurch würde er sich nicht weniger verwirrt fühlen. Es bestand kein Zweifel, dass etwas sehr, sehr, sehr Seltsames geschah.
+
+Harry schaute in den Himmel und begann zu lachen. Er konnte nicht anders.
+
+Das ist der unwahrscheinlichste Tag meines Lebens.
+
+
+------------------------------
+
+Cold Reading:
+Mehrere Techniken, mit deren Hilfe aus winzigen Hinweisen Rückschlüsse auf den Gesprächspartner gezogen werden können, was für diesen wie Gedankenlesen aussehen kann.
+Cold Reading in der deutschen Wikipedia
+
+Richard Feynman:
+Seine ‚Vorlesungen über Physik‘ (meist kurz die Feynman-Lectures genannt) werden weithin als die besten Einführungsvorlesungen in die Physik betrachtet. Feynman (der 1965 den Physik-Nobelpreis bekam) schafft es, „dem Leser die Augen zu öffnen und den Geist anzuspornen; er eröffnet riesige Ozeane voller Entdeckungen und lässt sie gleichzeitig so erreichbar erscheinen.“ (Zitat von Bart Alder)
+Die Feynman-Lectures in der deutschen Wikipedia
+
+---
+
+So, das war also das Einführungskapitel, in dem wir schon einen kleinen Vorgeschmack von Harry bekommen haben. Im nächsten Kapitel geht's dann richtig los …
+Eure Meinung/Gedanken/… interessieren mich sehr!
+ 

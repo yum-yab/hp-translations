@@ -1,0 +1,552 @@
+
+Bayes' Theorem 
+
+Harry starrte zur grauen Decke des kleinen Zimmers hinauf, von wo aus er auf dem tragbaren, aber weichen Bett lag, das man ihm hingestellt hatte.
+ Er hatte eine ganze Menge von Professor Quirrells Snacks gegessen - komplizierte Konfekte aus Schokolade und anderen Substanzen, bestäubt mit glitzernden Streuseln und geschmückt mit winzigen Zuckerperlen, die sehr teuer aussahen und sich in der Tat als ziemlich lecker erwiesen.
+ Harry hatte sich auch nicht im Geringsten schuldig gefühlt, das hatte er sich verdient. Er hatte nicht versucht zu schlafen.
+ Harry hatte das Gefühl, dass es ihm nicht gefallen würde, was passierte, wenn er die Augen schloss.
+ Er hatte nicht versucht, zu lesen. Er wäre nicht in der Lage gewesen, sich zu konzentrieren. Seltsam, wie Harrys Gehirn einfach immer weiterzulaufen schien und nie abschaltete, egal wie müde es wurde.
+ Es wurde immer dümmer, aber es weigerte sich, abzuschalten. 
+
+Aber da war, da war wirklich und wahrhaftig ein Gefühl des Triumphs.
+
+ Anti-Dark-Lord-Harry-Programm, +1 Punkt deckte es nicht annähernd ab. Harry fragte sich, was der Sprechende Hut jetzt sagen würde, wenn er ihn auf den Kopf setzen könnte.
+ Kein Wunder, dass Professor Quirrell Harry vorgeworfen hatte, den Weg eines Dunklen Lords einzuschlagen.
+ Harry war zu langsam gewesen, er hätte die Parallele sofort erkennen müssen - verstehen, dass der Dunkle Lord an diesem Tag nicht gewonnen hatte.
+ Sein Ziel war es, Kampfkunst zu lernen, und doch ging er ohne eine einzige Unterrichtsstunde. Harry war mit der Absicht in den Zaubertrankkurs gegangen, Zaubertrank zu lernen. Er war ohne eine einzige Stunde gegangen. Und Professor Quirrell hatte es gehört und mit beängstigender Präzision verstanden, die Hand ausgestreckt und Harry von diesem Weg abgebracht, dem Weg, der dazu führte, dass er eine Kopie von Du-weißt-schon-wer wurde.
+
+ Es klopfte an der Tür.
+ "Der Unterricht ist vorbei", sagte Professor Quirrells leise Stimme. Harry näherte sich der Tür und wurde plötzlich nervös.
+ Dann ließ die plötzliche Anspannung, das Gefühl des Unheils nach, als er Professor Quirrells Schritte hörte, die sich von der Tür entfernten.
+
+ Was um alles in der Welt hat das zu bedeuten? Ist es das, wofür er letztendlich gefeuert wird? 
+
+Harry öffnete die Tür und sah, dass Professor Quirrell nun einige Körperlängen entfernt wartete.
+
+ Spürt Professor Quirrell es auch? 
+
+Sie gingen über die nun menschenleere Podium zu Professor Quirrells Pult, an das sich Professor Quirrell anlehnte; und Harry blieb, wie zuvor, kurz vor dem Podest stehen.
+
+ "Also", sagte Professor Quirrell. Irgendwie hatte er etwas Freundliches an sich, auch wenn sein Gesicht immer noch seine übliche Ernsthaftigkeit behielt.
+ "Worüber wollten Sie mit mir sprechen, Mr. Potter?"
+
+ Ich habe eine geheimnisvolle dunkle Seite. 
+
+Aber Harry konnte es nicht einfach so ausplaudern.
+ "Professor Quirrell", sagte Harry, "bin ich jetzt weg vom Weg, ein Dunkler Lord zu werden?"
+
+ Professor Quirrell sah Harry an.
+ "Mr. Potter", sagte er feierlich, nur mit einem leichten Grinsen,
+ "ein Ratschlag. Es gibt so etwas wie eine Vorstellung, die zu perfekt ist.
+ Echte Menschen, die gerade fünfzehn Minuten lang verprügelt und gedemütigt wurden, stehen nicht auf und verzeihen ihren Feinden gnädig. So etwas macht man, wenn man versucht, alle davon zu überzeugen, dass man nicht dunkel ist, nicht -"
+
+ "Ich kann das nicht glauben! Sie haben keine Beweise das Ihre Theorie stützt!"
+
+ "Das war eine Spur zu viel der Entrüstung."
+
+ "Was in aller Welt muss ich tun, um Sie zu überzeugen?"
+
+ "Um mich davon zu überzeugen, dass Sie keine Ambitionen haben, ein Dunkler Lord zu werden?", sagte Professor Quirrell, der nun ausgesprochen amüsiert aussah.
+ "Ich nehme an, Sie könnten einfach Ihre rechte Hand heben."
+
+ "Was?" sagte Harry ausdruckslos. "Aber ich kann meine rechte Hand heben, ob ich nun - oder nicht."
+ Harry hielt inne und kam sich ziemlich dumm vor.
+
+ "In der Tat", sagte Professor Quirrell.
+ "Sie können es genauso gut so oder so machen. Es gibt nichts, was Sie tun können, um mich zu überzeugen, denn ich würde wissen, dass es genau das ist, was Sie zu tun versuchen.
+ Und wenn wir noch genauer sein wollen, dann ist es zwar kaum möglich, dass es vollkommen gute Menschen gibt, auch wenn ich noch nie einen getroffen habe, aber es ist dennoch unwahrscheinlich, dass jemand fünfzehn Minuten lang verprügelt wird und dann aufsteht und eine große Welle der freundlichen Vergebung für seine Angreifer empfindet.
+ Andererseits ist es weniger unwahrscheinlich, dass ein kleines Kind sich dies als die Rolle vorstellt, die es spielen muss, um seinen Lehrer und seine Klassenkameraden davon zu überzeugen, dass es nicht der nächste Dunkle Lord ist.
+ Die Bedeutung einer Handlung liegt nicht in dem, was diese Handlung an der Oberfläche ähnelt, Mr. Potter, sondern in den Geisteszuständen, die diese Handlung mehr oder weniger wahrscheinlich machen."
+
+ Harry blinzelte. Er hatte gerade die Dichotomie zwischen der Repräsentativitätsheuristik und der Bayes'schen Definition von Beweisen von einem Zauberer erklärt bekommen.
+
+ "Aber andererseits", sagte Professor Quirrell, "kann jeder seine Freunde beeindrucken wollen. Das muss nicht dunkel sein. Also, ohne dass es eine Art Eingeständnis ist, Mr. Potter, sagen Sie mir ehrlich. Welcher Gedanke ging Ihnen in dem Moment durch den Kopf, als Sie sich jegliche Rache verboten haben? War dieser Gedanke ein echter Impuls zur Vergebung? Oder war es ein Bewusstsein dafür, wie Ihre Mitschüler die Tat sehen würden?"
+
+ Manchmal machen wir unser eigenes Phönixlied.
+
+ Aber Harry sprach es nicht laut aus. Es war klar, dass Professor Quirrell ihm nicht glauben würde und ihn wahrscheinlich weniger respektieren würde, weil er eine so durchsichtige Lüge aussprach.
+ Nach ein paar Momenten des Schweigens lächelte Professor Quirrell zufrieden.
+
+ "Ob Sie es glauben oder nicht, Mr. Potter", sagte der Professor,
+ "Sie brauchen keine Angst zu haben, dass ich Ihr Geheimnis entdeckt habe.
+ Ich werde Ihnen nicht sagen, dass Sie aufgeben sollen, der nächste Dunkle Lord zu werden. Wenn ich die Zeit zurückdrehen könnte und diesen Ehrgeiz irgendwie aus dem Verstand meines kindlichen Ichs entfernen könnte, würde das Ich der jetzigen Zeit nicht von der Veränderung profitieren.
+ Solange ich dachte, das sei mein Ziel, trieb es mich an, zu studieren und zu lernen und mich zu verbessern und stärker zu werden.
+ Wir werden zu dem, was wir sein sollen, indem wir unseren Wünschen folgen, wohin auch immer sie führen. Das ist die Einsicht von Salazar. Bitten Sie mich, Ihnen die Bibliotheksabteilung zu zeigen, in der sich dieselben Bücher befinden, die ich als Dreizehnjähriger gelesen habe, und ich werde Ihnen gerne den Weg zeigen."
+
+ "Um Himmels willen", sagte Harry und setzte sich auf den harten Marmorboden, dann legte er sich wieder auf den Boden und starrte hinauf zu den fernen Bögen der Decke. Näher konnte er nicht kommen um verzweifelt zusammenzubrechen, ohne sich zu verletzen.
+
+ "Immer noch zu viel Empörung", bemerkte Professor Quirrell.
+
+ Harry schaute nicht hin, aber er konnte das unterdrückte Lachen in seiner Stimme hören. Dann wurde Harry klar.
+ "Eigentlich glaube ich zu wissen, was Sie hier verwirrt", sagte Harry.
+ "Genau darüber wollte ich mit Ihnen sprechen. Professor Quirrell, ich glaube, dass das, was Sie sehen, meine geheimnisvolle dunkle Seite ist."
+
+ Es gab eine Pause.
+
+ "Ihre... dunkle Seite..."
+
+ Harry setzte sich auf. Professor Quirrell betrachtete ihn mit einem der seltsamsten Gesichtsausdrücke, die Harry je auf einem Gesicht gesehen hatte, ganz zu schweigen von jemandem, der so würdevoll war wie Professor Quirrell.
+
+ "Das passiert, wenn ich wütend werde", erklärte Harry.
+ "Mir läuft das Blut aus Adern, alles wird kalt, alles scheint völlig klar.
+ Im Nachhinein betrachtet habe ich das schon eine Weile - in meinem ersten Jahr an der Muggelschule hat jemand versucht, mir in der Pause den Ball wegzunehmen, und ich habe ihn hinter meinem Rücken gehalten und ihm in den Solarplexus getreten, von dem ich gelesen hatte, dass er ein Schwachpunkt ist, und die anderen Kinder haben mich danach nicht mehr belästigt.
+ Und ich habe eine Mathelehrerin gebissen, als sie meine Dominanz nicht akzeptieren wollte. Aber erst in letzter Zeit hatte ich genug Stress, um zu bemerken, dass es eine tatsächliche, Sie wissen schon, mysteriöse dunkle Seite ist und nicht nur ein Aggressionsmanagement-Problem, wie der Schulpsychologe sagte.
+ Und ich habe keine supermagischen Kräfte, wenn es passiert, das war eines der ersten Dinge, die ich überprüft habe."
+
+ Professor Quirrell rieb sich die Nase.
+ "Lassen Sie mich darüber nachdenken", sagte er. 
+Harry wartete eine ganze Minute lang schweigend. Er nutzte diese Zeit, um aufzustehen, was schwieriger war, als er erwartet hatte.
+ "Nun", sagte Professor Quirrell nach einer Weile.
+ "Ich nehme an, es gibt etwas, das Sie sagen könnten, das mich überzeugen würde."
+
+ "Ich habe schon geahnt, dass meine dunkle Seite wirklich nur ein anderer Teil von mir ist und dass die Antwort nicht darin besteht, niemals wütend zu werden, sondern zu lernen, die Kontrolle zu behalten, indem man sie akzeptiert, ich bin nicht dumm oder so und ich habe diese Geschichte oft genug gesehen, um zu wissen, worauf sie hinausläuft, aber es ist schwer und Sie scheinen die Person zu sein, die mir helfen kann."
+
+ "Nun... ja... sehr scharfsinnig von Ihnen, Mr. Potter, muss ich sagen... diese Seite von Ihnen ist, wie Sie anscheinend schon vermutet haben, Ihre Tötungsabsicht, die, wie Sie sagen, ein Teil von Ihnen ist..."
+
+ "Und trainiert werden muss", sagte Harry, um das Muster zu vervollständigen.
+
+ "Und trainiert werden muss, ja." Dieser seltsame Ausdruck war immer noch auf Professor Quirrells Gesicht.
+ "Mr. Potter, wenn Sie wirklich nicht der nächste Dunkle Lord werden wollen, was war dann der Ehrgeiz, von dem der Sprechende Hut Sie zu überzeugen versuchte, ihn aufzugeben, der Ehrgeiz, für den Sie nach Slytherin sortiert wurden?"
+
+ "Ich wurde nach Ravenclaw sortiert!"
+
+ "Mr. Potter", sagte Professor Quirrell, jetzt mit einem viel üblicher aussehenden trockenen Lächeln,
+ "ich weiß, dass Sie daran gewöhnt sind, dass jeder um Sie herum ein Narr ist, aber bitte verwechseln Sie mich nicht mit einem von ihnen.
+ Die Wahrscheinlichkeit, dass der Sprechende Hut seinen ersten Streich seit achthundert Jahren spielen würde, während er auf Ihrem Kopf sitzt, ist so gering, dass es nicht der Rede wert ist.
+ Ich nehme an, es ist kaum möglich, dass Sie mit den Fingern geschnippt und eine einfache und clevere Methode erfunden haben, um die Anti-Manipulations-Zauber des Hutes zu umgehen, obwohl mir selbst keine solche Methode einfällt.
+ Aber die bei weitem wahrscheinlichste Erklärung ist, dass Dumbledore beschlossen hat, dass er mit der Wahl des Hutes für den Jungen-der-lebte nicht zufrieden war.
+ Das ist für jeden, der auch nur einen Funken gesunden Menschenverstand hat, offensichtlich, also ist dein Geheimnis in Hogwarts sicher."
+
+ Harry öffnete den Mund, dann schloss er ihn wieder mit einem Gefühl der völligen Hilflosigkeit.
+ Professor Quirrell hatte sich geirrt, aber auf so überzeugende Weise, dass Harry anfing zu glauben, dass es angesichts der Beweise, die Professor Quirrell zur Verfügung standen, einfach das rationale Urteil war.
+ Es gab Zeiten, nie vorhersehbare Zeiten, aber doch manchmal, in denen man unwahrscheinliche Beweise bekam und die beste denkbare Vermutung falsch war.
+ Wenn man einen medizinischen Test hatte, der nur ein Mal unter tausend falsch war, würde er manchmal trotzdem falsch sein.
+
+ "Darf ich Sie bitten, nie zu wiederholen, was ich gleich sagen werde?", fragte Harry.
+
+ "Aber sicher", sagte Professor Quirrell. "Betrachten Sie mich als gebeten."
+
+ Harry war auch nicht dumm. "Kann ich davon ausgehen, dass Sie ja gesagt haben?"
+
+ "Sehr gut, Mr. Potter. Das dürfen Sie in der Tat so betrachten."
+
+ "Professor Quirrell -"
+
+ "Ich werde nicht wiederholen, was Sie gleich sagen werden", sagte Professor Quirrell und lächelte.
+
+ Sie lachten beide, dann wurde Harry wieder ernst.
+ "Der Sprechende Hut schien tatsächlich zu denken, dass ich als Dunkler Lord enden würde, wenn ich nicht nach Hufflepuff ginge", sagte Harry.
+ "Aber ich will keiner sein."
+
+ "Mr. Potter...", sagte Professor Quirrell. "Verstehen Sie das nicht falsch.
+ Ich verspreche, dass Sie nicht nach der Antwort benotet werden. Ich möchte nur Ihre eigene, ehrliche Antwort wissen. Warum nicht?"
+
+ Harry hatte wieder dieses hilflose Gefühl. 
+Du sollst kein Dunkler Lord werden war ein so offensichtlicher Lehrsatz in seinem Moralsystem, dass es schwer war, die eigentlichen Beweisschritte zu beschreiben.
+
+ "Ähm, Menschen würden verletzt werden?"
+
+ "Sicherlich wollen Sie Menschen verletzen", sagte Professor Quirrell.
+ "Sie wollten heute diesen Rüpeln wehtun. Ein Dunkler Lord zu sein bedeutet, dass Leute, die man verletzen will, verletzt werden."
+
+ Harry rang nach Worten und entschied sich dann, einfach das Offensichtliche zu sagen.
+ "Erstens, nur weil ich jemandem wehtun will, heißt das nicht, dass es richtig ist -"
+
+ "Was macht etwas richtig, wenn nicht, dass Sie es wollen?"
+
+ "Ah", sagte Harry, "Präferenzutilitarismus."
+
+ "Wie bitte?", sagte Professor Quirrell.
+
+ "Das ist die ethische Theorie, dass das Gute das ist, was die Präferenzen der meisten Menschen befriedigt -"
+
+ "Nein", sagte Professor Quirrell. Seine Finger rieben über seinen Nasenrücken.
+ "Ich glaube, das ist nicht ganz das, was ich zu sagen versucht habe.
+ Mr. Potter, am Ende tun die Menschen alle das, was sie tun wollen. Manchmal geben die Leute den Dingen, die sie tun wollen, Namen wie 'richtig', aber wie könnten wir überhaupt nach etwas anderem handeln als unseren eigenen Wünschen?"
+
+ "Nun, offensichtlich", sagte Harry.
+ "Ich könnte nicht nach moralischen Erwägungen handeln, wenn sie nicht die Macht hätten, mich zu bewegen.
+ Aber das bedeutet nicht, dass mein Wunsch, diese Slytherins zu verletzen, die Macht hat, mich mehr zu bewegen als moralische Überlegungen!"
+
+ Professor Quirrell blinzelte.
+
+ "Ganz zu schweigen davon", sagte Harry, "ein Dunkler Lord zu sein, würde bedeuten, dass auch eine Menge unschuldiger Zuschauer verletzt werden!"
+
+ "Warum ist das für Sie so wichtig?" sagte Professor Quirrell.
+ "Was haben sie denn für dich getan?"
+
+ Harry lachte. "Oh, das war jetzt ungefähr so subtil wie Atlas Shrugged."
+
+ "Wie bitte?" sagte Professor Quirrell wieder.
+
+ "Das ist ein Buch, das meine Eltern mich nicht lesen lassen wollten, weil sie dachten, es würde mich verderben, also habe ich es natürlich trotzdem gelesen und war beleidigt, dass sie dachten, ich würde auf so offensichtliche Fallen hereinfallen.
+ Blah blah blah, Appell an mein Überlegenheitsgefühl, andere Leute versuchen, mich unten zu halten, blah blah blah."
+
+ "Sie meinen also, ich soll meine Fallen weniger offensichtlich machen?", fragte Professor Quirrell. Er tippte mit einem Finger auf seine Wange und sah nachdenklich aus. "Daran kann ich arbeiten."
+ Sie lachten beide.
+ "Aber um bei der aktuellen Frage zu bleiben", sagte Professor Quirrell, "was haben all diese anderen Leute für Sie getan?"
+
+ "Andere Leute haben sehr viel für mich getan!" sagte Harry.
+ "Meine Eltern nahmen mich auf, als meine Eltern starben, weil sie gute Menschen waren, und ein Dunkler Lord zu werden, bedeutet, das zu verraten!"
+
+ Professor Quirrell war eine Zeit lang still.
+"Ich gestehe", sagte Professor Quirrell leise, "als ich in Ihrem Alter war, wäre mir dieser Gedanke nie gekommen."
+
+ "Das tut mir leid", sagte Harry.
+
+ "Das muss es nicht", sagte Professor Quirrell. "Es ist lange her, und ich habe meine elterlichen Probleme zu meiner eigenen Zufriedenheit gelöst.
+ Sie werden also von dem Gedanken an die Missbilligung Ihrer Eltern zurückgehalten? Heißt das, wenn sie bei einem Unfall sterben würden, gäbe es nichts mehr, was Sie davon abhalten würde -"
+
+ "Nein", sagte Harry. "Einfach nein. Es ist ihr Impuls zur Freundlichkeit, der mich beschützt hat. Dieser Impuls ist nicht nur in meinen Eltern. Und dieser Impuls ist es, der verraten werden würde."
+
+ "Auf jeden Fall, Mr. Potter, haben Sie meine ursprüngliche Frage nicht beantwortet", sagte Professor Quirrell schließlich. "Was ist Ihr Ziel?"
+
+ "Oh", sagte Harry. "Ähm..."
+ Er ordnete seine Gedanken.
+ "Alles Wichtige, was es über das Universum zu wissen gibt, zu verstehen, dieses Wissen anzuwenden, um allmächtig zu werden, und diese Macht zu nutzen, um die Realität umzuschreiben, weil ich einige Einwände gegen die Art und Weise habe, wie sie jetzt funktioniert."
+
+ Es gab eine kleine Pause.
+
+ "Verzeihen Sie mir, wenn das eine dumme Frage ist, Mr. Potter", sagte Professor Quirrell, "aber sind Sie sicher, dass Sie nicht gerade gestanden haben, ein Dunkler Lord sein zu wollen?"
+
+ "Das ist nur der Fall, wenn man seine Macht für das Böse einsetzt", erklärte Harry.
+ "Wenn man die Macht für das Gute einsetzt, ist man ein Lichtlord."
+
+ "Ich verstehe", sagte Professor Quirrell.
+ Er tippte sich mit einem Finger auf die andere Wange.
+ "Ich nehme an, damit kann ich arbeiten. Aber Mr. Potter, obwohl das Ausmaß Ihres Ehrgeizes selbst eines Salazar würdig ist, wie genau wollen Sie vorgehen, um es zu erreichen? Ist Schritt 1, ein großer Kampfzauberer zu werden, oder Oberhaupt der Unaussprechlichen, oder Zaubereiminister, oder -"
+
+ "Schritt eins ist, Wissenschaftler zu werden."
+
+ Professor Quirrell schaute Harry an, als ob er sich gerade in eine Katze verwandelt hätte.
+
+ "Ein Wissenschaftler", sagte Professor Quirrell nach einer Weile. 
+Harry nickte.
+ "Ein Wissenschaftler?!", wiederholte Professor Quirrell.
+
+ "Ja", sagte Harry. "Ich werde meine Ziele durch die Macht ... der Wissenschaft erreichen!"
+
+ "Ein Wissenschaftler!", sagte Professor Quirrell. Auf seinem Gesicht zeichnete sich echte Empörung ab, und seine Stimme war stärker und schärfer geworden.
+ "Du könntest der beste von allen meinen Schülern sein! Der größte Kampfzauberer, der in den letzten fünf Jahrzehnten aus Hogwarts hervorgegangen ist!
+ Ich kann mir nicht vorstellen, dass du deine Tage in einem weißen Laborkittel damit verbringst, sinnlose Experimente mit Ratten zu tun!"
+
+ "Hey!", sagte Harry.
+ "Es gibt mehr als das in der Wissenschaft! Nicht, dass es falsch wäre, an Ratten zu experimentieren, natürlich. Aber Wissenschaft ist die Art und Weise, wie man das Universum versteht und kontrolliert -"
+
+ "Narr", sagte Professor Quirrell mit einer Stimme von stiller, bitterer Intensität.
+ "Sie sind ein Narr, Harry Potter."
+ Er fuhr sich mit einer Hand über das Gesicht, und als diese Hand vorüber war, wurde sein Gesicht ruhiger.
+ "Oder, was wahrscheinlicher ist, Sie haben ihre wahre Ambition noch nicht gefunden. Darf ich Ihnen dringend empfehlen, stattdessen zu versuchen, ein Dunkler Lord zu werden? Ich werde alles tun, was ich kann, um Ihnen dabei zu helfen, als eine Angelegenheit des öffentlichen Dienstes."
+
+ "Sie mögen die Wissenschaft nicht", sagte Harry langsam. "Warum nicht?"
+
+ "Diese dummen Muggel werden uns eines Tages alle umbringen!" Professor Quirrells Stimme war lauter geworden.
+ "Sie werden es beenden! Alles beenden!"
+
+ Harry fühlte sich hier ein wenig verloren. "Wovon reden wir hier, von Atomwaffen?"
+
+ "Ja, Atomwaffen!" Professor Quirrell brüllte jetzt fast.
+ "Selbst Er, der nicht genannt werden darf, hat sie nie benutzt, vielleicht weil er nicht über einen Haufen Asche herrschen wollte!
+ Sie hätten nie gebaut werden dürfen! Und es wird mit der Zeit nur noch schlimmer werden!"
+ Professor Quirrell stellte sich aufrecht hin, statt sich auf seinen Schreibtisch zu stützen.
+ "Es gibt Tore, die man nicht öffnet, es gibt Siegel, die man nicht bricht! Die Narren, die nicht widerstehen können, sich einzumischen, werden schon früh von den geringeren Gefahren getötet, und die Überlebenden wissen alle, dass es Geheimnisse gibt, die man mit niemandem teilt, dem die Intelligenz und die Disziplin fehlt, sie selbst zu entdecken!
+ Jeder mächtige Zauberer weiß das! Selbst die schrecklichsten dunklen Zauberer wissen das! Und diese idiotischen Muggel können es scheinbar nicht herausfinden!
+ Die eifrigen kleinen Narren, die das Geheimnis der Atomwaffen entdeckt haben, haben es nicht für sich behalten, sie haben es ihren dummen Politikern erzählt und jetzt müssen wir unter der ständigen Bedrohung der Vernichtung leben!"
+
+ Das war eine ganz andere Sicht der Dinge, als die, mit der Harry aufgewachsen war.
+ Es war ihm nie in den Sinn gekommen, dass Atomphysiker eine Verschwörung des Schweigens gebildet haben sollten, um das Geheimnis der Atomwaffen vor allen zu bewahren, die nicht klug genug waren, Atomphysiker zu sein.
+ Der Gedanke war faszinierend, wenn auch nicht mehr. Hätten sie geheime Passwörter gehabt? Hätten sie Masken gehabt? 
+
+(Tatsächlich gab es, soweit Harry wusste, alle möglichen unglaublich zerstörerischen Geheimnisse, die Physiker für sich behielten, und das Geheimnis der Kernwaffen war das einzige, das in die freie Wildbahn entwichen war. Die Welt würde für ihn so oder so gleich aussehen.)
+
+ "Darüber werde ich nachdenken müssen", sagte Harry zu Professor Quirrell.
+ "Das ist eine neue Idee für mich. Und eines der verborgenen Geheimnisse der Wissenschaft, das von einigen wenigen Lehrern an ihre Doktoranden weitergegeben wird, ist, wie man es vermeidet, neue Ideen sofort die Toilette hinunterzuspülen, wenn man eine hört, die einem nicht gefällt."
+
+ Professor Quirrell blinzelte wieder.
+
+ "Gibt es irgendeine Art von Wissenschaft, die Sie gutheißen?", fragte Harry.
+ "Medizin, vielleicht?"
+
+ "Raumfahrt", sagte Professor Quirrell.
+
+ "Aber die Muggel scheinen das einzige Projekt zu verzögern, das es der Zaubererwelt ermöglichen könnte, von diesem Planeten zu entkommen, bevor sie ihn in die Luft jagen."
+
+ Harry nickte.
+ "Ich bin auch ein großer Fan des Raumfahrtprogramms. Wenigstens haben wir so viel gemeinsam."
+
+ Professor Quirrell sah Harry an.
+ In den Augen des Professors flackerte etwas auf.
+ "Ich will Ihr Wort, Ihr Versprechen und Ihren Schwur, niemals über das Folgende zu sprechen."
+
+ "Sie haben es", sagte Harry sofort.
+
+ "Sehen Sie zu, dass Sie Ihren Schwur halten, sonst wird Ihnen das Ergebnis nicht gefallen", sagte Professor Quirrell.
+ "Ich werde jetzt einen seltenen und mächtigen Zauber sprechen, nicht auf Sie, sondern auf das Klassenzimmer um uns herum.
+ Steh still, damit die Grenzen des Zaubers nicht berührt wird, sobald er gewirkt wurde. Du darfst nicht mit der Magie interagieren, die ich aufrechterhalte.
+ Schau nur zu. Ansonsten werde ich den Zauber beenden."
+ Professor Quirrell hielt inne.
+ "Und versuchen Sie, nicht umzufallen."
+
+ Harry nickte, verwirrt und erwartungsvoll.
+
+ Professor Quirrell hob seinen Zauberstab und sagte etwas, das Harrys Ohren und sein Verstand überhaupt nicht erfassen konnten, Worte, die das Bewusstsein umgingen und im Nichts verschwanden.
+
+ Der Marmor in einem kurzen Radius um Harrys Füße blieb unverändert. 
+Der übrige Marmor des Bodens verschwand, die Wände und die Decke verschwanden. 
+
+Harry stand auf einem kleinen Kreis aus weißem Marmor inmitten eines endlosen Feldes von Sternen, die furchtbar hell und unerschütterlich brannten.
+ Es gab keine Erde, keinen Mond und keine Sonne, die Harry erkannte. 
+
+Professor Quirrell stand an der gleichen Stelle wie zuvor, schwebend inmitten des Sternenfeldes. Die Milchstraße war bereits als große Lichtwolke zu sehen und wurde immer heller, je mehr sich Harrys Augen an die Dunkelheit gewöhnten.
+ Der Anblick zerrte an Harrys Herz, wie nichts, was er je gesehen hatte.
+
+ "Sind wir ... im Weltraum ...?"
+
+ "Nein", sagte Professor Quirrell. Seine Stimme war traurig und ehrfürchtig. "Aber es ist ein wahres Abbild."
+
+ Tränen traten in Harrys Augen.
+ Er wischte sie krampfhaft weg, er würde das nicht verpassen, weil irgendein dummes Wasser seine Sicht trübte.
+
+ Die Sterne waren nicht länger winzige Juwelen in einer riesigen Samtkuppel, wie sie es am Nachthimmel der Erde waren.
+ Hier gab es keinen Himmel darüber, keine umgebende Sphäre. Nur Punkte von perfektem Licht gegen perfekte Schwärze, eine unendliche und leere Leere mit unzähligen winzigen Löchern, durch die der Glanz aus irgendeinem unvorstellbaren Reich jenseits schien.
+
+ Im Weltraum sahen die Sterne furchtbar, furchtbar, furchtbar weit weg aus. Harry wischte sich immer wieder über die Augen, wieder und wieder.
+
+ "Manchmal", sagte Professor Quirrell mit einer Stimme, die so leise war, dass sie fast nicht zu hören war, "wenn diese fehlerhafte Welt ungewöhnlich hassenswert erscheint, frage ich mich, ob es vielleicht einen anderen Ort gibt, weit weg, wo ich hätte sein sollen.
+ Ich kann mir nicht vorstellen, wie dieser Ort aussehen könnte, und wenn ich ihn mir nicht einmal vorstellen kann, wie kann ich dann glauben, dass er existiert? Und doch ist das Universum so unendlich groß, und vielleicht könnte es trotzdem existieren? 
+
+Aber die Sterne sind so so unglaublich weit weg. Es würde sehr, sehr lange dauern, dorthin zu gelangen, selbst wenn ich den Weg kennen würde. Und ich frage mich, wovon ich träumen würde, wenn ich diese lange, lange Zeit schlafen würde …"
+
+ Obwohl es sich wie ein Sakrileg anfühlte, gelang Harry ein Flüstern.
+ "Bitte lassen Sie mich eine Weile hier bleiben."
+
+ Professor Quirrell nickte und stellte sich mitten in die Sterne.
+ Es war leicht, den kleinen Marmorkreis, auf dem man stand, und den eigenen Körper zu vergessen und zu einem Punkt des Bewusstseins zu werden, der vielleicht still war, vielleicht aber auch in Bewegung.
+ Da alle Entfernungen unberechenbar waren, konnte man das nicht sagen. 
+
+Es gab eine Zeit ohne Zeit. 
+
+Und dann verschwanden die Sterne, und das Klassenzimmer kehrte zurück.
+
+ "Es tut mir leid", sagte Professor Quirrell, "aber wir bekommen gleich Gesellschaft."
+
+ "Ist schon gut", flüsterte Harry. "Es war genug."
+
+ Er würde diesen Tag nie vergessen, und das nicht wegen der unwichtigen Dinge, die vorher passiert waren.
+
+ Er würde lernen, wie man diesen Zauber wirkt, und wenn es das Letzte war, was er je lernte. 
+
+Dann sprangen die schweren Eichentüren des Klassenzimmers aus den Angeln und schlitterten mit einem hohen Schrei über den Marmorboden.
+
+ "QUIRINUS! WIE KANNST DU ES WAGEN!"
+
+ Wie eine riesige Gewitterwolke wehte ein uralter und mächtiger Zauberer in den Raum, ein Blick von solch glühender Wut auf seinem Gesicht, dass der strenge Blick, den er zuvor auf Harry geworfen hatte, wie nichts erschien.
+ Es gab einen Ruck der Verwirrung in Harrys Geist, als der Teil, der schreiend vor dem furchterregendsten Ding, das er je gesehen hatte, wegrennen wollte, einen Teil von ihm an seinen Platz drehte, der den Schock verkraften konnte.
+
+ Keine von Harrys Facetten war glücklich darüber, dass ihre Sternenbetrachtung unterbrochen wurde.
+ "Schulleiter Albus Percival -" begann Harry in eisigem Tonfall zu sagen.
+
+ WUMM. Professor Quirrells Hand landete hart auf seinem Schreibtisch.
+ "Mr. Potter!", bellte Professor Quirrell.
+ "Dies ist der Schulleiter von Hogwarts und Sie sind ein einfacher Schüler! Sie werden ihn in angemessener Weise ansprechen!"
+ Harry schaute Professor Quirrell an.
+ Professor Quirrell warf Harry einen strengen Blick zu. Keiner der beiden lächelte.
+
+Dumbledores lange Schritte waren vor der Stelle zum Stillstand gekommen, wo Harry vor dem Podium und Professor Quirrell an seinem Schreibtisch standen.
+ Der Schulleiter starrte die beiden schockiert an.
+
+ "Es tut mir leid", sagte Harry in sanftmütigem, höflichem Ton.
+ "Schulleiter, danke, dass Sie mich beschützen wollen, aber Professor Quirrell hat das Richtige getan."
+
+ Langsam veränderte sich Dumbledores Gesichtsausdruck von etwas, das Stahl verdampfen lassen würde, zu etwas, das einfach nur wütend war.
+
+ "Ich habe Schüler sagen hören, dass dieser Mann dich von älteren Slytherins missbrauchen ließ! Dass er dir verboten hat, dich zu wehren!"
+
+ Harry nickte.
+ "Er wusste genau, was mit mir los war, und er hat mir gezeigt, wie ich es in Ordnung bringen kann."
+
+ "Harry, wovon redest du?"
+
+ "Ich habe ihm beigebracht, wie man verliert", sagte Professor Quirrell trocken. "Das ist eine wichtige Lebenskompetenz."
+
+ Es war offensichtlich, dass Dumbledore immer noch nicht verstand, aber seine Stimme hatte sich im Tonfall gesenkt.
+
+ "Harry ...", sagte er langsam. "Wenn es eine Drohung des Verteidigungsprofessors gibt, die dich davon abhalten soll, dich zu beschweren -"
+
+ Du Verrückter, glaubst Sie wirklich, dass ich nach dem heutigen Tag -
+
+ "Schulleiter", sagte Harry und versuchte, beschämt auszusehen, "das Problem ist nicht, dass ich über beleidigende Professoren schweige."
+
+ Professor Quirrell gluckste.
+ "Nicht perfekt, Mr. Potter, aber gut genug für Ihren ersten Tag. Schulleiter, sind Sie lange genug geblieben, um von den einundfünfzig Punkten für Ravenclaw zu hören, oder sind Sie gleich nach dem ersten Teil hinausgestürmt?"
+
+ Ein kurzer Blick der Bestürzung ging über Dumbledores Gesicht, gefolgt von Überraschung.
+ "Einundfünfzig Punkte für Ravenclaw?"
+
+ Professor Quirrell nickte.
+ "Damit hat er nicht gerechnet, aber es schien angemessen.
+ Sagen Sie Professor McGonagall, dass ich denke, dass die Geschichte, was Mr. Potter durchgemacht hat, um die verlorenen Punkte zurückzugewinnen, genauso gut geeignet ist, ihren Standpunkt zu verdeutlichen.
+ Nein, Schulleiter, Mr. Potter hat mir nichts gesagt. Es ist leicht zu erkennen, welcher Teil der heutigen Ereignisse ihr Werk ist, so wie ich weiß, dass der letzte Kompromiss Ihr eigener Vorschlag war.
+ Allerdings frage ich mich, wie um alles in der Welt Mr. Potter die Oberhand sowohl über Snape als auch über Sie gewinnen konnte und dann Professor McGonagall
+die Oberhand über ihn."
+
+ Irgendwie gelang es Harry, sein Gesicht zu beherrschen.
+ War es so offensichtlich für einen echten Slytherin? Dumbledore trat näher an Harry heran und musterte ihn genau.
+
+ "Deine Gesichtsfarbe sieht ein bisschen ungesund aus, Harry", sagte der alte Zauberer. Er schaute sich Harrys Gesicht genau an.
+ "Was hast du heute zu Mittag gegessen?"
+
+ "Was?" sagte Harry, sein Verstand schwankte in plötzlicher Verwirrung.
+ Warum sollte Dumbledore nach frittiertem Lammfleisch und dünn geschnittenem Brokkoli fragen, wenn das so ziemlich die letzte wahrscheinliche Ursache für - 
+
+Der alte Zauberer richtete sich auf.
+ "Dann ist es ja egal. Ich denke, du bist in Ordnung."
+
+ Professor Quirrell hustete, laut und absichtlich.
+ Harry schaute den Professor an und sah, dass Professor Quirrell Dumbledore scharf anstarrte.
+ "Ah-hem!" sagte Professor Quirrell wieder. Dumbledore und Professor Quirrell sahen sich in die Augen, und etwas schien zwischen ihnen zu passieren.
+ "Wenn Sie es ihm nicht sagen", sagte Professor Quirrell dann, "werde ich es tun, auch wenn Sie mich dafür feuern."
+
+ Dumbledore seufzte und wandte sich wieder Harry zu.
+ "Ich entschuldige mich dafür, in Ihre geistige Privatsphäre eingedrungen zu sein, Mr. Potter", sagte der Schulleiter förmlich.
+ "Ich hatte keine andere Absicht, als festzustellen, ob Professor Quirrell das Gleiche getan hat."
+
+ Wie bitte? 
+
+Die Verwirrung dauerte genau so lange, wie Harry brauchte, um zu verstehen, was gerade passiert war.
+
+ "Sie - !"
+
+ "Sachte, Mr. Potter", sagte Professor Quirrell. Sein Gesicht war jedoch hart, als er Dumbledore anstarrte.
+
+ "Die Legilimation wird manchmal mit dem gesunden Menschenverstand verwechselt", sagte der Schulleiter.
+ "Aber sie hinterlässt Spuren, die ein anderer geschickter Legilimens erkennen kann. Das war alles, wonach ich gesucht habe, Mr. Potter, und ich habe Ihnen eine irrelevante Frage gestellt, um sicherzustellen, dass Sie nicht an etwas Wichtiges denken, während ich suche."
+
+ "Sie hötten vorher fragen sollen!"
+
+ Professor Quirrell schüttelte den Kopf.
+ "Nein, Mr. Potter, der Schulleiter hatte eine gewisse Berechtigung für seine Bedenken, und hätte er um Erlaubnis gefragt, hätten Sie genau an die Dinge gedacht, die Sie nicht sehen wollten."
+ Professor Quirrells Stimme wurde schärfer.
+ "Ich bin eher besorgt, Herr Schulleiter, dass Sie es nicht für nötig hielten, es ihm nachträglich zu sagen!"
+
+ "Sie haben es jetzt schwieriger gemacht, seine geistige Privatsphäre bei zukünftigen Gelegenheiten zu bestätigen", sagte Dumbledore.
+ Er bedachte Professor Quirrell mit einem kalten Blick.
+ "War das Ihre Absicht, frage ich mich?"
+
+ Professor Quirrells Ausdruck war unerbittlich.
+ "Es gibt zu viele Legilimens in dieser Schule. Ich bestehe darauf, dass Mr. Potter Unterricht in Okklumentik erhält. Gestatten Sie mir, sein Tutor zu sein?"
+
+ "Auf keinen Fall", sagte Dumbledore sofort.
+
+ "Das habe ich auch nicht gedacht. Da Sie ihn also meiner kostenlosen Dienste beraubt haben, werden Sie für Mr. Potters Nachhilfe durch einen lizenzierten Okklumentik-Lehrer bezahlen."
+
+ "Solche Dienste sind nicht billig", sagte Dumbledore und sah Professor Quirrell etwas überrascht an. "Obwohl ich gewisse Verbindungen habe -"
+
+ Professor Quirrell schüttelte entschieden den Kopf.
+ "Nein. Mr. Potter wird seinen Kundenbetreuer bei Gringotts bitten, einen neutralen Lehrmeister zu empfehlen.
+Bei allem Respekt, Schulleiter Dumbledore, nach den Ereignissen von heute Morgen muss ich dagegen protestieren, dass Sie oder Ihre Freunde Zugang zu Mr. Potters Gedanken haben. Außerdem muss ich darauf bestehen, dass der Lehrer einen unbrechbaren Schwur abgelegt, nichts zu verraten, und dass er zustimmt, sich sofort nach jeder Sitzung zu verpflichten sich die Erinnerung löschen zu lassen."
+
+Dumbledore runzelte die Stirn. 
+"Solche Dienste sind extrem teuer, wie Sie sehr wohl wissen, und ich kann nicht umhin, mich zu fragen, warum Sie sie für notwendig halten." 
+
+"Wenn Geld das Problem ist", meldete sich Harry zu Wort, "dann habe ich einige Ideen, wie man schnell viel Geld verdienen kann -" 
+
+"Danke, Quirinus, Ihre Weisheit ist jetzt ganz offensichtlich, und es tut mir leid, dass ich sie bestritten habe. Auch Ihre Sorge um Harry Potter gereicht Ihnen zur Ehre."
+
+"Gern geschehen", sagte Professor Quirrell. "Ich hoffe, Sie haben nichts dagegen, wenn ich ihn weiterhin in den Mittelpunkt meiner Aufmerksamkeit stelle." 
+
+Professor Quirrells Gesicht war jetzt sehr ernst und sehr still. 
+Dumbledore sah Harry an. 
+
+"Es ist auch mein eigener Wunsch", sagte Harry.
+
+"So soll es also sein...", sagte der alte Zauberer langsam. Etwas Seltsames ging über sein Gesicht. 
+"Harry... du musst dir darüber im Klaren sein, dass, wenn du diesen Mann zu deinem Lehrer und deinem Freund, deinem ersten Mentor wählst, du ihn auf die eine oder andere Weise verlieren wirst, und die Art und Weise, wie du ihn verlierst, kann es dir erlauben oder auch nicht, ihn jemals zurückzubekommen." 
+
+Daran hatte Harry nicht gedacht. Aber da war dieser Fluchauf der Verteidigungsposition ... einer, der offenbar seit Jahrzehnten mit perfekter Regelmäßigkeit funktionierte …
+
+"Wahrscheinlich", sagte Professor Quirrell leise, "aber solange ich lebe, wird er den vollen Nutzen aus mir ziehen können."
+
+Dumbledore seufzte. 
+"Ich nehme an, es ist zumindest ökonomisch, da Sie als Verteidigungsprofessor bereits auf eine unbekannte Art und Weise dem Untergang geweiht sind." 
+
+Harry musste sich anstrengen, seinen Gesichtsausdruck zu unterdrücken, als ihm klar wurde, worauf Dumbledore eigentlich hinauswollte. 
+
+"Ich werde Madam Pince darüber informieren, dass es Mr. Potter erlaubt ist, Bücher über Okklumentik zu erhalten", sagte Dumbledore. 
+
+"Es gibt eine Vorschulung, die Sie selbst durchführen müssen", sagte Professor Quirrell zu Harry. "Und ich schlage vor, dass Sie sich damit beeilen." 
+
+Harry nickte. 
+
+"Dann verabschiede ich mich jetzt von Ihnen", sagte Dumbledore. Er nickte
+sowohl Harry als auch Professor Quirrell zu und entfernte sich, etwas langsam gehend. 
+
+"Können Sie den Zauberspruch noch einmal sprechen?" sagte Harry in dem Moment, als Dumbledore weg war. 
+
+"Heute nicht", sagte Professor Quirrell leise, "und morgen auch nicht, fürchte ich. Es verlangt mir viel ab, ihn zu sprechen, aber weniger, ihn aufrechtzuerhalten, und deshalb ziehe ich es normalerweise vor, ihn so lange wie möglich aufrechtzuerhalten. Dieses Mal habe ich es aus einem Impuls heraus getan. Hätte ich nachgedacht und gemerkt, dass wir unterbrochen werden könnten -"
+
+Dumbledore war jetzt Harrys unbeliebteste Person auf der ganzen Welt. 
+Sie seufzten beide. 
+
+"Selbst wenn ich ihn nur einmal sehe", sagte Harry, "werde ich nie aufhören, Ihnen dankbar zu sein." 
+
+Professor Quirrell nickte. 
+
+"Haben Sie schon vom Pionierprogramm gehört?" sagte Harry. "Das waren Sonden, die an verschiedenen Planeten vorbeiflogen und Bilder machten. Zwei der Sonden landeten auf Flugbahnen, die sie aus dem Sonnensystem heraus und in den interstellaren Raum führten. Also brachten sie eine goldene Plakette an den Sonden an, auf der ein Mann und eine Frau abgebildet waren und die zeigte, wo unsere Sonne in der Galaxie zu finden war." 
+
+Professor Quirrell schwieg einen Moment lang, dann lächelte er.
+"Sagen Sie, Mr. Potter, können Sie erraten, welcher Gedanke mir durch den Kopf ging, als ich die siebenunddreißig Punkte auf der Liste der Dinge zusammenstellte, die ich als Dunkler Lord niemals tun würde? Versetzen Sie sich in meine Lage - stellen Sie sich vor, Sie wären an meiner Stelle - und raten Sie." 
+
+Harry stellte sich vor, wie er eine Liste mit siebenunddreißig Dingen durchging, die er als Dunkler Lord nicht tun dürfte. 
+"Sie sind zu dem Schluss gekommen, dass es nicht viel Sinn hätte, überhaupt ein Dunkler Lord zu werden, wenn Sie die ganze Liste ständig befolgen müssten", sagte Harry. 
+
+"Ganz genau", sagte Professor Quirrell. Er grinste. "Also werde ich gegen Regel zwei verstoßen - die da lautete: 'Gib nicht an' - und Ihnen von etwas erzählen, das ich getan habe. Ich wüsste nicht, wie das Wissen Schaden anrichten könnte. Und ich vermute stark, dass Sie es sowieso herausgefunden hätten, sobald wir uns gut genug kennen würden.
+Nichtsdestotrotz... ...möchte ich Ihren Eid haben, niemals über das zu sprechen, was ich jetzt erzähle." 
+
+"Sie haben ihn!" Harry hatte das Gefühl, dass das richtig gut werden würde. 
+
+"Ich habe ein Muggel-Magazin abonniert, das mich über Fortschritte in der Raumfahrt auf dem Laufenden hält. Von Pioneer 10 habe ich erst erfahren, als sie von seinem Start berichteten. Aber als ich entdeckte, dass auch Pioneer 11 das Sonnensystem für immer verlassen würde", sagte Professor Quirrell, sein Grinsen war das breiteste, das Harry bisher von ihm gesehen hatte, "habe ich mich bei der NASA eingeschlichen und diese hübsche goldene Plakette mit einem netten kleinen Zauber belegt, der dafür sorgen wird, dass sie viel länger hält, als sie es sonst tun würde. "
+......... 
+"Ja", sagte Professor Quirrell, der jetzt etwa einen Meter fünfzig größer zu sein schien, "ich dachte mir, dass Sie so reagieren würden."
+......... 
+"Mr. Potter?"
+
+"...mir fällt nichts ein, was ich sagen könnte." 
+
+"'Sie haben gewonnen' scheint angemessen", sagte Professor Quirrell. 
+
+"Sie haben gewonnen", sagte Harry sofort.
+
+"Sehen Sie?", sagte Professor Quirrell. "Wir können uns nur vorstellen, was für einen Riesenhaufen Ärger Sie bekommen hätten, wenn Sie das nicht hättest sagen können."
+
+Sie lachten beide. Ein weiterer Gedanke kam Harry in den Sinn. "Sie haben doch keine zusätzlichen Informationen auf die Platte geschrieben, oder?" 
+
+"Zusätzliche Informationen?", sagte Professor Quirrell und klang dabei so, als wäre ihm die Idee noch nie in den Sinn gekommen und er war ziemlich
+intrigiert. 
+
+Was Harry ziemlich misstrauisch machte, wenn man bedenkt, dass es weniger als eine Minute gedauert hatte, bis Harry auf diese Idee kam. 
+
+"Vielleicht haben Sie eine holografische Botschaft eingebaut, wie in Star Wars?", sagte Harry. "Oder ... hm. Ein Porträt scheint den Informationsgehalt eines ganzen menschlichen Gehirns zu speichern ... Sie hätten der Sonde keine zusätzliche Masse hinzufügen können, aber vielleicht hätten Sie etwas vorhandenes in ein Porträt von sich selbst verwandeln können? Oder Sie könnten einen Freiwilligen gefunden haben, der an einer unheilbaren Krankheit stirbt, ihn in die NASA eingeschleust und mit einem Zauber dafür gesorgt, dass sein Geist auf der Plakette landet -"
+
+"Mr. Potter", sagte Professor Quirrell mit plötzlich scharfer Stimme, "ein Zauber, der den Tod eines Menschen erfordert, würde vom Ministerium sicherlich als Dunkle Künste eingestuft werden, ungeachtet der Umstände. Schüler sollten nicht gehört werden, wenn sie über solche Dinge reden." 
+
+Und das Erstaunliche an der Art und Weise, wie Professor Quirrell das sagte, war, wie perfekt es die plausible Abstreitbarkeit aufrechterhielt. Es war in genau dem passenden Tonfall für jemanden gesagt worden, der nicht bereit war, über solche Dinge zu diskutieren und der Meinung war, dass Schüler sich davon fernhalten sollten. 
+
+Harry wusste ehrlich gesagt nicht, ob Professor Quirrell nur damit wartete, darüber zu sprechen, bis Harry gelernt hatte, seinen Geist zu schützen oder ob es ehrlich gemeint war. 
+
+"Verstanden", sagte Harry. "Ich werde mit niemandem sonst über diese Idee sprechen." 
+
+"Bitte seien Sie in dieser Angelegenheit diskret, Mr. Potter", sagte Professor Quirrell. "Ich ziehe es vor, durch mein Leben zu gehen, ohne öffentliches Aufsehen zu erregen. Sie werden in den Zeitungen nichts über Quirinus Quirrell finden, bis ich beschlossen habe, dass es für mich an der Zeit war, Verteidigung in Hogwarts zu unterrichten."
+
+Das wirkte ein wenig traurig, aber Harry verstand. Dann wurde Harry die Tragweite bewusst. 
+
+"Also, wie viele tolle Sachen haben Sie gemacht, von denen sonst niemand weiß -"
+
+"Oh, einiges", sagte Professor Quirrell. "Aber ich denke, das ist genug für heute, Mr. Potter, ich gestehe, ich bin ein bisschen müde -" 
+
+"Das verstehe ich. Und ich danke Ihnen. Für alles." 
+
+Professor Quirrell nickte, aber er lehnte sich fester auf seinen Schreibtisch. 
+
+Harry verabschiedete sich schnell.
+ 

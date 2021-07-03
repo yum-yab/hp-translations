@@ -1,0 +1,451 @@
+
+Kapitel 25: Keine Lösungen vorschlagen
+
+Um neues Leben zu erforschen und J. K. Rowling!
+
+Anmerkung: Da die Wissenschaft in dieser Geschichte üblicherweise korrekt ist, füge ich eine Warnung ein, dass in Kapitel 22-25 Harry viele Möglichkeiten übersieht, von denen die wichtigste ist, dass es viele magische Gene geben könnte, sie sich jedoch alle auf dem selben Chromosom befinden (was natürlicherweise nicht passieren würde, doch das Chromosom könnte konstruiert worden sein). In diesem Fall ergäbe sich ein mendelsches Vererbungs-Muster, doch das magische Chromosom könnte noch immer durch Kreuzung mit seinem nicht magischen Homolog geschwächt werden. (Harry hat über Mendel und Chromosomen in Büchern über Wissenschaftsgeschichte gelesen, doch er versteht nicht genug von tatsächlicher Genetik, um von Chromosomen-Kreuzungen zu wissen. Hey, er ist erst elf.)* Dennoch, obwohl ein modernes Wissenschafts-Journal noch einiges mehr zu bemängeln fände, ist alles, was Harry als starken Beleg präsentiert, auch tatsächlich einer – die anderen Möglichkeiten sind unwahrscheinlich.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+2. Akt:
+
+(Die Sonne strahlte von der verzauberten Decke in die Große Halle hinab, erleuchtete die Schüler als säßen sie unter freiem Himmel, glänzte auf ihren Tellern und Schüsseln als sie, erfrischt vom Schlaf der Nacht, ihr Frühstück einnahmen, in Vorbereitung ihrer Pläne für den Sonntag.)
+
+Also. Es gab nur eine Sache, die einen zu einem Zauberer machte.
+
+Das war nicht überraschend, wenn man darüber nachdachte. Die hauptsächliche Tätigkeit von DNS bestand darin, Ribosomen mitzuteilen, wie man Aminosäuren zu Proteinen verkettete. Die konventionelle Physik schien vollkommen dazu fähig, Aminosäuren zu beschreiben und egal wie viele Aminosäuren man auch miteinander verkettete, die konventionelle Physik besagte, dass nie und nimmer Magie daraus wurde.
+
+Und doch schien Magie vererblich zu sein, war abhängig von DNS.
+
+Dann war dies wahrscheinlich nicht der Fall, weil die DNS nicht-magische Aminosäuren zu magischen Proteinen verkettete.
+
+Viel eher hatte die ausschlaggebende DNS-Sequenz, an sich, überhaupt nichts damit zu tun, einem die Magie zu verleihen.
+
+Die Magie kam von anderswo.
+
+(Am Ravenclaw-Tisch saß ein Junge, der ins Leere hinein starrte, während seine rechte Hand automatisch irgendwelche unwichtige Nahrung in seinen Mund schaufelte, von dem was auch immer vor ihm stand. Man hätte es wahrscheinlich durch einen Haufen Dreck ersetzen können und er hätte es nicht bemerkt.)
+
+Und aus irgendeinem Grund achtete die Quelle der Magie auf einen bestimmten DNS-Marker bei Individuen, die in jeder sonstigen Hinsicht gewöhnliche, vom Affen abstammende Menschen waren.
+
+(Tatsächlich gab es ziemlich viele Jungen und Mädchen, die ins Leere hinaus starrten. Immerhin war dies der Ravenclaw-Tisch.)
+
+Es gab noch andere logische Denkansätze, die zur selben Schlussfolgerung führten. Komplexe Mechanismen waren bei einer sich sexuell reproduzierenden Spezies immer universell vertreten. Wenn Gen B auf Gen A angewiesen war, dann musste Gen A an sich bereits nützlich sein und es zu fast universellem Vorhandensein im Gen-Pool gebracht haben, bevor B oft genug nützlich wäre, um einen Überlebensvorteil zu bieten. Sobald dann B universell vertreten war, bekäme man eine Variante A', die von B abhängig war und dann C, das von A' und B abhängig war, dann war B' auf C angewiesen, bis die ganze Maschine auseinander fiel, wenn man ein einzelnes Teil entfernte. Doch es musste alles Schritt für Schritt geschehen – die Evolution plante niemals voraus, die Evolution würde niemals B bevorzugen, in Vorbereitung darauf, dass A später universell vertreten sein würde. Evolution war der simple historische Fakt, dass die Gene jener Organismen, welche tatsächlich die meisten Kinder hatten, tatsächlich in der nächsten Generation häufiger vertreten waren. Also musste jedes Teil eines komplexen Mechanismus nahezu universell vertreten sein, bevor sich Teile entwickelten, die von seiner Gegenwart abhingen.
+
+Also waren komplexe, voneinander abhängige Mechanismen, die mächtigen, ausgefeilten Maschinerien, die das Leben antrieben, immer universell in einer sich sexuell reproduzierenden Spezies – abgesehen von einer kleinen Anzahl nicht voneinander abhängiger Varianten, die zu jedem Zeitpunkt ausgewählt wurden, wenn weitere Komplexität sich langsam etablierte. Daher hatten alle menschlichen Wesen den selben grundlegenden Gehirn-Aufbau, die selben Emotionen, die selben Gesichtsausdrücke, um diese Emotionen auszudrücken; diese Anpassungen waren komplex, daher mussten sie universell sein.
+
+Wäre die Magie so beschaffen, eine große komplexe Anpassung mit vielen notwendigen Genen, dann hätte ein Zauberer, der sich mit einem Muggel paarte ein Kind mit nur der Hälfte der nötigen Teile zur Folge gehabt und die Hälfte des Mechanismus würde nicht viel bewirken. Und so hätte es keine Muggelgeborenen gegeben, niemals. Selbst wenn all die Teile unabhängig voneinander in den Gen-Pool der Muggel gelangt wären, hätten sie sich niemals an einem Ort wieder zusammen gefunden, um einen Zauberer zu formen.
+
+Es hatte kein genetisch isoliertes Tal voller Menschen gegeben, die es auf einen evolutionären Pfad verschlagen hatte, der zu hochentwickelten magischen Bereichen des Gehirns führte. Diese komplexe genetische Maschinerie hätte sich, wenn Zauberer sich mit Muggeln kreuzten, niemals in Muggelgeborenen wieder zusammengesetzt.
+
+Wie auch immer die eigenen Gene einen also zum Zauberer machten, sie taten es jedenfalls nicht, indem sie die Blaupausen für eine komplexe Maschinerie enthielten.
+
+Das war der andere Grund, warum Harry ein mendelsches Muster vermutet hatte. Wenn magische Gene nicht kompliziert waren, warum sollte es mehr als eines geben?
+
+Und doch schien die Magie selbst ziemlich kompliziert zu sein. Ein Schließzauber für Türen würde verhindern, dass die Tür geöffnet wurde und verhindern, dass man die Scharniere transfigurierte und den Zaubern Finite Incantatem und Alohomora widerstehen. Viele Elemente, die in die selbe Richtung deuteten: das konnte man als Zielorientierung bezeichnen oder in einfacheren Worten, Zweckmäßigkeit.
+
+Es gab nur zwei bekannte Ursachen für zweckmäßige Komplexität. Natürliche Selektion, die Dinge wie Schmetterlinge hervorbrachte. Und intelligente Planung, die Dinge wie Autos produzierte.
+
+Magie schien nichts zu sein, was sich einfach selbst herbei-repliziert hatte, Zauber waren zweckmäßig kompliziert, doch nicht, wie ein Schmetterling, kompliziert zu dem Zweck, Kopien von sich selbst zu machen. Zauber waren kompliziert zu dem Zweck, ihrem Nutzer zu dienen, wie ein Auto.
+
+Irgendein intelligenter Konstrukteur hatte die Quelle der Magie geschaffen und sie angewiesen, auf einen bestimmten DNS-Marker zu reagieren.
+
+Der offensichtliche nächste Gedanke war, dass dies irgendetwas mit „Atlantis“ zu tun hatte.
+
+Harry hatte Hermine früher schon danach gefragt – im Zug nach Hogwarts, nachdem er es Draco hatte sagen hören – und soweit sie wusste, war nicht mehr bekannt, als das Wort selbst.
+
+Es mochte eine reine Legende sein. Doch es war ebenfalls plausibel genug, dass eine Zivilisation von Magie-Anwendern, besonders eine aus der Zeit vor dem Interdikt von Merlin, es geschafft haben würde, sich selbst zu vernichten.
+
+Darauf folgte logisch: Atlantis war eine isolierte Zivilisation gewesen, die irgendwie die Quelle der Magie erschaffen und sie angewiesen hatte, nur Menschen mit dem Atlantischen Gen-Marker zu dienen, dem Blut von Atlantis.
+
+Und daraus ergab sich: Die Worte, die ein Zauberer sprach, die Bewegungen des Zauberstabes, sie waren selbst nicht kompliziert genug, um die Effekte eines Zaubers von Grund auf zu erzeugen – nicht auf die Art, wie die drei Millionen Basen-Paare der menschlichen DNS tatsächlich kompliziert genug waren, einen menschlichen Körper von Grund auf zu erzeugen, nicht auf die Art, wie ein Computer-Programm tausende Bytes an Daten benötigte.
+
+Also waren die Worte und Zauberstab-Bewegungen nur Auslöser, Hebel die man zog, an einer versteckten und komplexeren Maschine, Knöpfe, keine Blaupausen.
+
+Und genau wie ein Computer-Programm nicht kompilierte, wenn man einen einzigen Syntax-Fehler machte, reagierte die Quelle der Magie nicht, wenn man seine Zauber nicht genau auf die richtige Weise wirkte.
+
+Die Kette der Logik war unerbittlich.
+
+Und sie führte unausweichlich zu einer einzigen finalen Schlussfolgerung.
+
+Die antiken Vorfahren der Zauberer, vor tausenden von Jahren, hatten die Quelle der Magie angewiesen, Dinge nur schweben zu lassen, wenn man sagte…
+
+'Wingardium Leviosa.'
+
+Harry sackte am Frühstückstisch vorn über, die Stirn ruhte erschöpft auf seiner rechten Hand.
+
+Es gab eine Geschichte aus den Anfangstagen der Künstlichen Intelligenz – als man gerade erst angefangen und noch nicht begriffen hatte, dass das Problem schwierig war – über einen Professor, der einem seiner Studenten aufgetragen hatte, das Problem des Sehvermögens von Computern zu lösen.
+
+Harry verstand langsam, wie dieser Student sich gefühlt haben musste.
+
+Das konnte eine Weile dauern.
+
+Warum brauchte es mehr Aufwand, den Zauber Alohomora zu wirken, wenn es nur dem Drücken eines Knopfes entsprach?
+
+Wer war dumm genug gewesen, einen Zauber für Avada Kedavra einzubauen, den man nur durch Hass wirken konnte?
+
+Warum verlangte wortlose Transfiguration eine komplette mentale Unterscheidung zwischen den Konzepten von Gestalt und Material?
+
+Harry mochte mit diesem Problem noch nicht fertig sein, wenn er Hogwarts verließ. Er könnte noch immer an diesem Problem arbeiten, wenn er dreißig Jahre alt war. Hermine hatte recht gehabt, Harry hatte das zuvor instinktiv noch nicht begriffen. Er hatte nur eine inspirierende Rede über Zielstrebigkeit gehalten.
+
+Harrys Geist erwog kurz, ob er instinktiv davon ausgehen solle, dass er das Problem vielleicht niemals lösen mochte, entschied dann aber, das ginge zu weit.
+
+Außerdem, solange er es in den ersten paar Jahrzehnten zumindest bis zur Unsterblichkeit brachte, wäre alles gut.
+
+Welche Methode hatte der Dunkle Lord benutzt? Wo er darüber nachdachte, die Tatsache dass der Dunkle Lord es irgendwie geschafft hatte, den Tod seines ersten Körpers zu überleben, war unendlich wichtiger als die Tatsache, dass er versucht hatte, das magische Britannien zu übernehmen -
+
+„Ich bitte um Verzeihung,“ erklang hinter ihm eine erwartete Stimme in sehr unerwartetem Tonfall. „Bei Gelegenheit erbittet Mr. Malfoy den Gefallen einer Unterredung.“
+
+Harry verschluckte sich nicht an seinen Frühstücksflocken. Stattdessen drehte er sich um und gewahrte Mr. Crabbe.
+
+„Ich bitte um Verzeihung,“ sagte Harry. „Meintest du nicht 'De' Boss will dich seh'n?'“
+
+Mr. Crabbe sah nicht glücklich aus. „Mr. Malfoy hat mir aufgetragen, mich angemessen auszudrücken.“
+
+„Ich kann dich nicht verstehen,“ sagte Harry. „Du drückst dich nicht angemessen aus.“ Er wandte sich wieder seiner Schüssel mit winzigen blauen Schneeflocken zu und aß geflissentlich einen weiteren Löffel voll.
+
+„De' Boss will dich seh'n,“ ertönte eine drohende Stimme hinter ihm. „Wenn'de weißt, was gut für dich is', kommst'e besser mit.“
+
+Na also. Jetzt lief alles nach Plan.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+1. Akt:
+
+„Einen Grund?“ sagte der alte Zauberer. Er zügelte die Wut auf seinem Gesicht. Der Junge vor ihm war das Opfer gewesen und musste sicherlich nicht weiter verängstigt werden. „Es gibt nichts, das entschuldigen könnte -“
+
+„Was ich ihm angetan habe, war schlimmer.“
+
+Der alte Zauberer erstarrte mit einem mal vor Entsetzen. „Harry, was hast du getan?“
+
+„Ich brachte Draco durch einen Trick dazu, zu glauben, ich hätte ihn durch einen Trick dazu gebracht, an einem Ritual teilzunehmen, dem er seinen Glauben an die Blutreinheitslehre geopfert hätte. Und das hieß, er konnte kein Todesser werden, wenn er erwachsen wird. Er hatte alles verloren, Schulleiter.“
+
+Lange herrschte Stille in dem Büro, durchbrochen nur von den kleinen Puff- und Pfeif-Geräuschen der fitzeligen Dinge, die einem nach einiger Zeit wie Stille vorkamen.
+
+„Meine Güte,“ sagte der alte Zauberer, „Jetzt fühle ich mich dumm. Und da habe ich doch glatt gedacht, du könntest versuchen, den Erben von Malfoy zur Umkehr zu bewegen, indem du, sagen wir mal, ihm wahre Freundschaft und Güte zeigst.“
+
+„Ha! Ja klar, als ob das funktioniert hätte.“
+
+Der alte Zauberer seufzte. Das ging zu weit. „Sag mir, Harry. Ist dir überhaupt in den Sinn gekommen, dass es womöglich ein wenig folgewidrig sein könnte, jemandes Besserung durch Lügen und Täuschung anzustreben?“
+
+„Ich habe es getan, ohne ihn direkt anzulügen und da es Draco Malfoy ist, von dem wir hier sprechen, denke ich, das Wort nachdem Sie suchen, lautet folgerichtig.“ Der Junge wirkte ziemlich selbstzufrieden.
+
+Der alte Zauberer schüttelte verzweifelt den Kopf. „Und das ist der Held. Wir sind alle verdammt.“
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+5. Akt:
+
+Der lange schmale Tunnel aus unbehauenem Stein, nur erleuchtet vom Zauberstab eines Kindes, schien sich über Meilen hinzuziehen.
+
+Der Grund dafür war einfach: Er zog sich über Meilen hin.
+
+Es war drei Uhr am Morgen und Fred und George begannen den langen Weg durch den Geheimgang, der von der Statue der einäugigen Hexe in Hogwarts zum Keller des Honigtopfes in Hogsmeade führte.
+
+„Wie läuft sie?“ sagte Fred leise.
+
+(Nicht dass irgendwer zugehört hätte, aber es war irgendwie seltsam mit normaler Stimme zu sprechen, wenn man durch einen Geheimgang lief.)
+
+„Immer noch kaputt,“ sagte George.
+
+„Beide oder -“
+
+„Zwischendurch ist einer wieder richtig. Der andere so wie immer.“
+
+Die Karte war ein außerordentlich mächtiges Artefakt, in der Lage jedes fühlende Wesen auf dem Schulgelände zu verfolgen, in Echtzeit, mit Namen. Fast sicher war sie während der Gründung von Hogwarts geschaffen worden. Es war nicht gut, dass jetzt Fehler auftauchten. Wahrscheinlich konnte niemand außer Dumbledore sie reparieren, wenn sie kaputt war.
+
+Und die Weasley-Zwillinge würden die Karte nicht an Dumbledore übergeben. Es wäre eine unverzeihliche Beleidigung der Rumtreiber – der vier unbekannten, die es geschafft hatten, einen Teil es Sicherheitssystems von Hogwarts zu entwenden, etwas das wahrscheinlich von Salazar Slytherin selbst gefertigt worden war und es in ein Werkzeug für Schülerstreiche zu verwandeln.
+
+Manche hätten es für respektlos gehalten.
+
+Manche hätten es für kriminell gehalten.
+
+Die Weasley-Zwillinge glaubten fest daran, wenn Godric Gryffindor es hätte sehen können, er hätte es befürwortet.
+
+Die Brüder gingen weiter und weiter und weiter, größtenteils still. Die Weasley-Zwillinge sprachen miteinander, wenn sie neue Streiche durchdachten oder wenn einer von ihnen etwas wusste und der andere nicht. Andernfalls machte es nicht viel Sinn. Wenn sie bereits über dieselben Informationen verfügten, neigten sie dazu, dasselbe zu denken und dieselben Entscheidungen zu treffen.
+
+(In früheren Zeiten war es üblich gewesen, wann immer magische Zwillinge geboren wurden, einen von ihnen nach der Geburt zu töten.)
+
+Beizeiten hatten Fred und George den Aufstieg zu einem staubigen Keller erklommen, darin verstreut Fässer und Regale voll seltsamer Ingredienzen.
+
+Fred und George warteten. Alles andere wäre unhöflich gewesen.
+
+Es dauerte nicht lange, bis ein dünner alter Mann im schwarzen Pyjama, gähnend, die Stufen zum Keller hinunter trat. „Hallo, Jungs,“ sagte Ambrosius Flume. „Ich habe euch heute Nacht gar nicht erwartet. Schon alles aufgebraucht?“
+
+Fred und George entschieden, dass Fred das Reden übernahm.
+
+„Nicht ganz, Mr. Flume,“ sagte Fred. „Wir haben gehofft, Sie könnten uns bei etwas erheblich… interessanterem behilflich sein.“
+
+„Also, Jungs,“ sagte Flume ernst, „ich hoffe, ihr habt mich nicht geweckt, nur damit ich euch noch einmal sagen kann, dass ich euch nichts verkaufe, das euch wirklich in Schwierigkeiten bringen könnte. Jedenfalls nicht, bis ihr sechzehn seid -“
+
+George zog einen Gegenstand aus seinem Umhang hervor und reichte ihn wortlos an Flume weiter. „Haben Sie das gesehen?“ sagte Fred.
+
+Flume besah sich die gestrige Ausgabe des Tagespropheten und nickte finster drein blickend. Die Schlagzeile der Zeitung lautete DER NÄCHSTE DUNKLE LORD? und zeigte einen kleinen Jungen, den die Kamera eines Schülers mit einem ungewöhnlich kalten und grimmigen Gesichtsausdruck eingefangen hatte.
+
+„Ich fasse diesen Malfoy einfach nicht,“ schnappte Flume. „Hat den Jungen schon auf dem Kieker, dabei ist er erst elf! Der Mann sollte zermahlen und zu Schokolade verarbeitet werden!“
+
+Fred und George blinzelten synchron. Malfoy stand hinter Rita Kimmkorn? Harry Potter hatte sie davor nicht gewarnt… was sicherlich bedeutete, dass Harry es nicht wusste. Er hätte sie niemals hinzugezogen, falls doch…
+
+Fred und George tauschten Blicke aus. Nun, Harry musste es auch nicht wissen, bis der Job erledigt war.
+
+„Mr. Flume,“ sagte Fred leise, „der Junge-der-überlebt-hat braucht Ihre Hilfe.“
+
+Flume blickte von einem zum anderen.
+
+Dann stieß er seufzend den Atem aus.
+
+„Alles klar,“ sagte Flume, „was braucht ihr?“
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+6. Akt:
+
+Wenn Rita Kimmkorn es auf eine schmackhafte Beute abgesehen hatte, neigte sie dazu, die wimmelnden Ameisen, die den Rest des Universums ausmachten, nicht zu bemerken und so stieß sie beinahe mit einem jungen Mann mit schütterem Haar zusammen, der ihr in den Weg getreten war.
+
+„Miss Kimmkorn,“ sagte der Mann mit sehr ernster und kalter Stimme für ein so junges Gesicht. „Interessant, dass ich hier auf sie treffe.“
+
+„Mir aus dem Weg, Freundchen!“ schnappte Rita und versuchte, um ihn herum zu gehen.
+
+Der Mann, der ihr im Weg stand, vollführte eine Bewegung, die ihrer so perfekt entsprach als habe keiner von ihnen sich überhaupt bewegt, nur still gestanden, während sich die Straße um sie herum verschob.
+
+Ritas Augen verengten sich. „Was glauben Sie, wer Sie sind?“
+
+„Wie überaus töricht,“ sagte der Mann trocken. „Es wäre weise gewesen, sich das Gesicht des getarnten Todessers einzuprägen, der Harry Potter zum nächsten Dunklen Lord ausbildet. Immerhin,“ ein dünnes Lächeln, „klingt das nach jemandem, dem man ganz sicherlich nicht auf der Straße begegnen wollte, besonders nachdem man ihn in der Zeitung verrissen hat.“
+
+Rita brauchte einen Moment, die Anspielung einzuordnen. Das war Quirinus Quirrell? Er wirkte zu jung und zu alt zur gleichen Zeit; sein Gesicht, wenn es seinen ernsten und herablassenden Ausdruck fallen ließe, würde zu jemandem in den späten Dreißigern gehören. Und sein Haar fiel bereits aus? Konnte er sich keinen Heiler leisten?
+
+Nein, das war unwichtig, sie hatte an einem Ort, zu einer Zeit und ein Käfer zu sein. Sie hatte gerade einen anonymen Hinweis erhalten, dass Madam Bones Zeit mit einem ihrer jüngeren Assistenten verbrachte. Das brächte ihr einen schönen Bonus ein, wenn sie es bestätigen könnte, Bones stand auf der Abschussliste ganz oben. Der Tippgeber hatte gesagt, Madam Bones und ihr junger Assistent äßen zusammen zu Mittag in einem speziellen Zimmer bei Marys Platz, einem sehr beliebten Zimmer für bestimmte Zwecke; ein Zimmer das, wie sie herausgefunden hatte, gegen alle Abhörgeräte abgesichert war, doch nicht gegen einen wunderschönen blauen Käfer, der an einer der Wände saß…
+
+„Mir aus dem Weg!“ sagte Rita und versuchte Quirrell zur Seite zu schieben. Quirrells Arm fegte abwehrend gegen ihren und Rita stolperte als der Stoß ins Leere ging.
+
+Quirrell krempelte den linken Ärmel seines Umhangs hoch und zeigte seinen linken Arm. „Sehen Sie,“ sagte Quirrell, „kein Dunkles Mal. Ich wünsche, dass Ihre Zeitung einen Widerruf veröffentlicht.“
+
+Rita entfuhr ein ungläubiges Lachen. Natürlich war der Mann kein wirklicher Todesser. Das Blatt hätte es nicht veröffentlicht, wenn er es wäre. „Vergiss es, Freundchen. Und jetzt mach dich vom Acker.“
+
+Quirrell starrte sie einen Moment lang an.
+
+Dann lächelte er.
+
+„Miss Kimmkorn,“ sagte Quirrell, „ich hatte gehofft, ein Druckmittel zu finden, welches sich als überzeugend erweisen würde. Doch ich stelle fest, dass ich mir die Freude nicht verwehren kann, sie einfach zu zerquetschen.“
+
+„Das haben schon andere versucht. Jetzt geh mir aus dem Weg, Freundchen oder ich finde ein paar Auroren und lasse dich wegen Behinderung der Pressefreiheit einsperren.“
+
+Quirrell verbeugte sich leicht in ihre Richtung und ging dann an ihr vorbei. „Leben Sie wohl, Rita Kimmkorn,“ erklang seine Stimme hinter ihr.
+
+Als Rita sich einen Weg vorwärts bahnte, nahm sie im Hinterkopf wahr, wie der Mann eine Melodie pfiff, während er verschwand.
+
+Als würde ihr das Angst machen.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+4. Akt:
+
+„Sorry, ich bin raus,“ sagte Lee Jordan. „Ich bin mehr der Riesenspinnen-Typ.“
+
+Der Junge-der-überlebt-hat hatte gesagt, er habe wichtige Arbeit für den Orden des Chaos, etwas ernstes und geheimes, bedeutender und schwieriger als ihr übliches Streiche-Repertoire.
+
+Und dann hatte Harry Potter zu einer inspirierenden, jedoch vagen, Rede angesetzt. Eine Rede darüber, dass Fred und George und Lee enormes Potential hätten, wenn sie lernen könnten, seltsamer zu werden. Das Leben von Menschen surreal zu machen, statt sie nur mit der Entsprechung eines Wassereimers über der Tür zu überraschen. (Fred und George hatten interessierte Blicke ausgetauscht, daran hatten sie noch nie gedacht.) Harry Potter hatte ein Bild des Streiches heraufbeschworen, den sie Neville gespielt hatten – welchen, wie Harry bedauernd erwähnt hatte, der Sprechende Hut ihm vorgeworfen habe – doch bei dem Neville an seinem eigenen Verstand gezweifelt haben musste. Für Neville musste es sich angefühlt haben als sei er plötzlich in ein alternatives Universum transportiert worden. So wie alle anderen sich gefühlt hatten als Snape sich zu entschuldigen schien. Das war die wahre Macht des Streichespielens.
+
+Seid ihr dabei? hatte Harry Potter gebrüllt und Lee Jordan hatte nein gesagt.
+
+„Wir sind drin,“ sagte Fred oder vielleicht auch George, es gab keinen Zweifel, dass Godric Gryffindor ja gesagt hätte.
+
+Lee Jordan grinste bedauernd und erhob sich und verließ den verlassenen und mit einem Quietus belegten Korridor, in dem die vier Mitglieder des Ordens des Chaos sich in einem verschwörerischen Kreis zusammen gesetzt hatten.
+
+Die drei Mitglieder des Ordens des Chaos kamen wieder zum Geschäft.
+
+(So traurig war es nicht. Fred und George würden noch immer mit Lee an Riesenspinnen-Streichen arbeiten, wie immer. Sie hatten den Orden des Chaos nur ins Leben gerufen, um Harry Potter anzuwerben, nachdem Ron ihnen gesagt hatte, dass Harry Potter merkwürdig und böse sei und Fred und George entschieden hatten, Harry durch wahre Freundschaft und Güte zu retten. Glücklicherweise schien das nicht länger nötig zu sein – obwohl sie sich da nicht ganz sicher waren…)
+
+„Also,“ sagte einer der Zwillinge, „worum geht’s dabei?“
+
+„Rita Kimmkorn,“ sagte Harry. „Wisst ihr, wer sie ist?“
+
+Fred und George nickten stirnrunzelnd.
+
+„Sie hat Fragen über mich gestellt.“
+
+Das waren keine guten Nachrichten.
+
+„Könnt ihr euch denken, was ich von euch erwarte?“
+
+Fred und George blickten sich an, ein wenig verwirrt. „Willst du, dass wir ihr ein paar unserer interessanteren Süßigkeiten unterjubeln?“
+
+„Nein,“ sagte Harry. „Nein, nein, nein! Das ist Riesenspinnen-Denken! Kommt schon, was würdet ihr tun, wenn ihr hören würdet, dass Rita Kimmkorn nach Gerüchten über euch sucht?“
+
+Da war es offensichtlich.
+
+Langsam breitete sich ein Grinsen auf Freds und Georges Gesichtern aus.
+
+„Selber Gerüchte in die Welt setzen,“ antworteten sie.
+
+„Exakt,“ sagte Harry und grinste breit. „Aber das können nicht nur irgendwelche Gerüchte sein. Ich will den Leuten beibringen das, was über Harry Potter in der Zeitung steht, niemals ernster zu nehmen als die Muggel das, was die Zeitungen über Elvis sagen. Zuerst dachte ich daran, Rita Kimmkorn einfach mit so vielen Gerüchten zu fluten, dass sie nicht weiß, was sie glauben soll, doch dann wird sie sich einfach die rauspicken, die glaubhaft sind und mich schlecht aussehen lassen. Was ich also von euch will, ist dass ihr eine Fake-Story über mich in die Welt setzt und Rita Kimmkorn irgendwie dazu bringt, sie zu glauben. Es muss aber etwas sein, von dem, hinterher, jedermann weiß, dass es ein Fake war. Wir wollen Rita Kimmkorn und ihre Redakteure täuschen und hinterher soll der Beweis herauskommen, dass es falsch war. Und natürlich – da das die Bedingungen sind – muss die Story so lächerlich sein, wie sie nur sein und doch gedruckt werden kann. Versteht ihr, was ich von euch will?“
+
+„Nicht ganz...“ sagte Fred oder George langsam. „Du willst, das wir die Story erfinden?“
+
+„Ich will, dass ihr alles übernehmt,“ sagte Harry Potter. „Ich bin gerade etwas beschäftigt, außerdem will ich glaubhaft versichern können, dass ich keine Ahnung hatte, was kommen würde. Überrascht mich.“
+
+Einen Moment lang zeigte sich ein sehr bösartiges Grinsen auf den Gesichtern von Fred und George.
+
+Dann wurden sie ernst. „Aber Harry, wir wissen nicht wirklich, wie man sowas macht -“
+
+„Dann findet es raus,“ sagte Harry. „Ich habe Vertrauen in euch. Kein totales Vertrauen, aber wenn ihr es nicht könnt, dann sagt mir das und ich bitte jemand anderen oder mache es selbst. Wenn ihr wirklich eine gute Idee habt – sowohl für die lächerliche Story als auch, wie ihr Rita Kimmkorn und ihre Redakteure überzeugt, sie zu drucken – dann macht weiter und zieht es durch. Aber begnügt euch nicht mit etwas mittelmäßigem. Wenn euch nichts hammermäßiges einfällt, sagt es einfach.“
+
+Fred und George tauschten besorgte Blicke aus.
+
+„Mir fällt nichts ein,“ sagte George.
+
+„Mir auch nicht,“ sagte Fred. „Sorry.“
+
+Harry starrte sie an.
+
+Und dann begann Harry zu erklären, wie man sich Dinge einfallen ließ.
+
+Man wusste bereits, dass es länger als zwei Sekunden dauerte, sagte Harry.
+
+Niemals nannte man irgendeine Aufgabe unmöglich, sagte Harry, bis man sich buchstäblich eine Uhr genommen und fünf Minuten darüber nachgedacht hatte, der Bewegung des Minutenzeigers nach. Keine metaphorischen fünf Minuten, fünf Minuten nach einer leibhaftigen Uhr.
+
+Und außerdem, sagte Harry mit Nachdruck, wobei seine rechte Hand hart auf den Boden schlug, fing man nicht damit an, sofort nach Lösungen zu suchen.
+
+Dann setzte Harry an, einen Test zu beschreiben, durchgeführt von jemandem namens Norman Maier, der etwas war, was man einen Organisationspsychologen nannte und der verschiedene Problemlösungs-Gruppen gebeten hatte, ein Problem anzugehen.
+
+Das Problem, sagte Harry, waren drei Angestellte, die drei Jobs erledigen sollten. Der jüngste Angestellte wollte nur den einfachsten Job machen. Der dienst-älteste Angestellte wollte zwischen den Jobs wechseln, um Langeweile zu vermeiden. Ein Effizienz-Experte hatte dazu geraten, der jüngsten Person den einfachsten Job zu geben und der dienst-ältesten Person den schwersten Job, was 20% produktiver wäre.
+
+Einer Hälfte der Problemlösungs-Gruppen hatte man die Anweisung gegeben „Schlagt keine Lösungen vor, bevor das Problem nicht so ausgiebig wie möglich diskutiert wurde, ohne welche vorzuschlagen.“
+
+Die anderen Problemlösungs-Gruppen hatten keine Anweisungen erhalten. Und diese Leute hatten das offensichtliche getan und auf die Gegenwart eines Problems mit dem Vorschlagen von Lösungen reagiert. Und die Leute hatten sich in diese Lösungen verbissen und angefangen, darüber zu streiten und über die relative Wichtigkeit von Freiheit gegenüber Effizienz zu diskutieren und dergleichen mehr.
+
+Die erste Hälfte der Problemlösungs-Gruppen, denen man Anweisungen gegeben hatte, das Problem zunächst zu diskutieren und es dann zu lösen, waren viel öfter auf die Lösung gestoßen, den jüngsten Angestellten den einfachsten Job machen zu lassen und die anderen beiden Personen zwischen den anderen beiden Jobs rotieren zu lassen, was den Daten des Experten nach eine Verbesserung von 19% bedeutete.
+
+Mit dem suchen nach Lösungen anzufangen, brachte den Ablauf der Dinge völlig durcheinander. Als finge man eine Mahlzeit mit dem Nachtisch an, nur schlimmer.
+
+(Harry hatte außerdem jemanden namens Robyn Dawes zitiert, der gesagt habe, je schwieriger ein Problem sei, desto wahrscheinlicher war es, dass die Leute sofort versuchen würden, es zu lösen.)
+
+Also würde Harry Fred und George dieses Problem überlassen und sie würden all seine Aspekte diskutieren und in einem Brainstorming alles zusammentragen, was sie auch nur ansatzweise für relevant hielten. Und sie sollten nicht versuchen, sich eine tatsächliche Lösung einfallen zu lassen, bis sie damit fertig waren, es sei denn natürlich, ihnen fiele zufällig etwas tolles ein, in welchem Fall sie es für später aufschreiben und dann weiter nachdenken konnten. Und er wollte von ihnen mindestens eine Woche lang nichts darüber hören es würde ihnen nichts einfallen. Manche Leute verbrachten Jahrzehnte damit, sich Sachen einfallen zu lassen.
+
+„Irgendwelche Fragen?“ sagte Harry.
+
+Fred und George starrten sich an.
+
+„Mir fallen keine ein.“
+
+„Mir auch nicht.“
+
+Harry räusperte sich leicht. „Ihr habt noch gar nicht nach eurem Budget gefragt.“
+
+Budget? dachten sie.
+
+„Ich könnte euch die Summe einfach sagen,“ sagte Harry. „Doch ich denke, das wird inspirierender sein.“
+
+Harrys Hand tauchte in seinen Umhang hinab und brachte zum Vorschein -
+
+Fred und George fielen beinahe um, obwohl sie bereits saßen.
+
+„Gebt es nicht aus, nur um es auszugeben,“ sagte Harry. Auf dem Steinboden vor ihnen glitzerte eine völlig lächerliche Menge Geld. „Gebt es nur aus, wenn die Hammermäßigkeit es verlangt und was die Hammermäßigkeit verlangt, das scheut euch nicht auszugeben. Wenn irgendwas übrig ist, gebt es einfach hinterher zurück, ich vertraue euch. Oh, und ihr bekommt zehn Prozent von dem was da ist, egal wie viel ihr am Ende ausgebt -“
+
+„Das können wir nicht!“ platzten die Zwillinge heraus. „Für solche Sachen nehmen wir kein Geld!“
+
+(Die Zwillinge nahmen niemals Geld für irgendetwas illegales. Was Ambrosius Flume nicht wusste, sie verkauften all seine Artikel mit null Prozent Aufschlag. Fred und George wollten bezeugen können – unter Veritaserum falls nötig – dass sie von ihren kriminellen Machenschaften nicht profitiert, sondern nur einen Dienst für das Gemeinwohl geleistet hatten.)
+
+Daraufhin runzelte Harry die Stirn. „Aber ich bitte euch hier um eine Menge Arbeit. Ein Erwachsener würde für so etwas bezahlt und es wäre trotzdem ein Gefallen für einen Freund. Für solche Sachen kann man nicht einfach jemanden einstellen.“
+
+Fred und George schüttelten die Köpfe.
+
+„Schön,“ sagte Harry. „Dann kaufe ich euch einfach teure Weihnachtsgeschenke und wenn ihr sie mir zurückzugeben versucht, dann verbrenne ich sie. Jetzt wisst ihr nicht einmal, wie viel ich für euch ausgebe, außer natürlich, dass es sehr viel mehr sein wird, als wenn ihr einfach das Geld genommen hättet. Und ich kaufe euch diese Geschenke so oder so, denkt also daran, bevor ihr mir sagt, dass euch nichts hammermäßiges einfällt.“**
+
+Harry erhob sich lächelnd und wandte sich um, während Fred und George noch schockiert mit offenen Mündern dasaßen. Er ging ein paar Schritte weit davon und drehte sich dann noch einmal um.
+
+„Oh, eine letzte Sache noch,“ sagte Harry. „Lasst Professor Quirrell da raus, was ihr auch vorhabt. Er mag keine Publicity. Ich weiß, es wäre einfacher, die Leute dazu zu bringen, merkwürdige Sachen über den Verteidigungs-Professor zu glauben als bei jedem anderen und es tut mir leid, euch so in die Parade fahren zu müssen, aber bitte, lasst Professor Quirrell da raus.“
+
+Und Harry wandte sich erneut um und machte ein paar Schritte -
+
+Blickte ein letztes mal zurück und sagte leise, „Danke.“
+
+Und ging.
+
+Es gab eine lange Pause, nachdem er gegangen war.
+
+„Also,“ sagte einer.
+
+„Also,“ sagte der andere.
+
+„Der Verteidigungs-Professor mag also keine Publicity.“
+
+„Harry kennt uns nicht besonders gut, oder.“
+
+„Nein, tut er nicht.“
+
+„Aber wir nehmen sein Geld natürlich nicht dafür.“
+
+„Natürlich nicht, das wäre nicht richtig. Um den Verteidigungs-Professor kümmern wir uns selbst.“
+
+„Wir bringen ein paar Gryffindors dazu, Kimmkorn zu schreiben...“
+
+„...sein Ärmel sei im Verteidigungs-Unterricht einmal hochgerutscht und sie sahen das Dunkle Mal...“
+
+„...und er bringt Harry Potter wahrscheinlich alle möglichen furchtbaren Sachen bei...“
+
+„…und er ist der schlechteste Verteidigungs-Professor, an den sich irgendwer in Hogwarts erinnern kann, er bringt uns nicht nur nichts bei, er verdreht auch alles ins komplette Gegenteil...“
+
+„…wie das eine mal, als er behauptet hat, man könne den Tödlichen Fluch nur mit Liebe wirken, was ihn ziemlich nutzlos machen würde.“
+
+„Der gefällt mir.“
+
+„Danke.“
+
+„Ich wette dem Verteidigungs-Professor auch.“
+
+„Er hat schon einen Sinn für Humor. Er hätte uns nicht so genannt, wie er es tat, wenn er keinen Sinn für Humor hätte.“
+
+„Aber werden wir Harrys Job wirklich hinbekommen?“
+
+„Harry sagte, wir sollten das Problem diskutieren, bevor wir es zu lösen versuchen, also machen wir das.“
+
+Die Weasley-Zwillinge entschieden, dass George der Enthusiastische sein sollte, während Fred den Zweifler spielte.
+
+„Es scheint alles sehr widersprüchlich,“ sagte Fred. „Er will, dass es lächerlich genug ist, dass alle Kimmkorn auslachen und wissen, dass es nicht stimmt und er will, dass Kimmkorn es glaubt. Wir können nicht beides auf einmal machen.“
+
+„Wir werden ein paar Beweise fälschen müssen, um Kimmkorn zu überzeugen,“ sagte George.
+
+„War das eine Lösung?“ sagte Fred.
+
+Sie dachten darüber nach.
+
+„Kann sein,“ sagte George, „aber ich denke, wir sollten das nicht so eng sehen, oder?“
+
+Die Zwillinge zuckten hilflos mit den Schultern.
+
+„Nun dann müssen die gefälschten Beweise gut genug sein, um Kimmkorn zu überzeugen,“ sagte Fred. „Schaffen wir das wirklich allein?“
+
+„Wir müssen es nicht allein machen,“ sagte George und deutete auf den Haufen Geld. „Wir können andere Leute anheuern, um uns zu helfen.“
+
+Die Zwillinge blickten nachdenklich drein.
+
+„Das könnte Harrys Budget ziemlich schnell aufbrauchen,“ sagte Fred. „Das ist viel Geld für uns, aber nicht für jemanden wie Flume.“
+
+„Vielleicht geben die Leute Rabatt, wenn sie wissen, dass es für Harry ist,“ sagte George. „Aber das wichtigste ist, was immer wir tun, es muss unmöglich sein.“
+
+Fred blinzelte. „Was meinst du mit unmöglich?“
+
+„So unmöglich, dass wir nicht in Schwierigkeiten kommen, weil keiner glaubt, wir hätten es durchziehen können. So unmöglich, dass sogar Harry daran zweifelt. Es muss surreal sein, die Leute müssen an ihrem eigenen Verstand zweifeln, es muss… besser als Harry sein.“
+
+Freds Augen wurden weit vor Erstaunen. Das kam zwischen ihnen manchmal vor, doch nicht oft. „Aber warum?“
+
+„Es waren Streiche. Es waren alles Streiche. Der Kuchen war ein Streich. Das Erinnermich war ein Streich. Kevin Entwhistles Katze war ein Streich. Snape war ein Streich. Wir sind die besten Streichespieler in Hogwarts, sollen wir einfach kampflos aufgeben?“
+
+„Er ist der Junge-der-überlebt-hat,“ sagte Fred.
+
+„Und wir sind die Weasley-Zwillinge! Er fordert uns heraus. Er sagte, wir könnten tun, was er tut. Doch ich wette, er glaubt nicht, wir könnten jemals so gut sein, wie er.“
+
+„Er hat recht,“ sagte Fred ziemlich nervös. Die Weasley-Zwillinge waren sich manchmal nicht einig, selbst wenn sie genau die gleichen Informationen hatten, doch jedes mal wenn es vorkam, schien es unnatürlich, als müsse einer von ihnen etwas falsch machen. „Es ist Harry Potter von dem wir hier sprechen. Er kann das unmögliche vollbringen. Wir nicht.“
+
+„Doch, können wir,“ sagte George. „Und wir müssen noch unmöglicher sein als er.“
+
+„Aber -“ sagte Fred.
+
+„Das würde Godric Gryffindor tun,“ sagte George.
+
+Damit war es besiegelt und die Zwillinge wurden wieder… was immer es war, das normal für sie war.
+
+„Okay, dann -“
+
+„- lassen wir uns was einfallen.“
+
+
+
+* Nähere Informationen zum Thema Kreuzung von homologen Chromosomen bietet der Wikipedia-Artikel Crossing-over.
+** Ich sage es noch einmal: Das Wort awesome macht seinem Namen bei Übersetzungen ins Deutsche keine Ehre (und der Autor gebraucht es verdammt inflationär).
+
