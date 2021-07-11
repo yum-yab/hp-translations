@@ -64,7 +64,7 @@ def handle_chapter_uri(uri: str, chapter_id: int, user: str, basedir: str ="./ge
         print(raw_text, file=newfile)
 
 
-def rawparse_fanfiction(uri, start_number=1, end_number=10, chapter_offset=1):
+def rawparse_fanfiction(uri, start_number=1, end_number=10, chapter_offset=1, skiplist=list()):
 
     match = fanfiktion_uri_regex.match(uri)
 
@@ -85,6 +85,8 @@ def rawparse_fanfiction(uri, start_number=1, end_number=10, chapter_offset=1):
     for i in range(start_number, end_number+1):
 
         chapter_id = chapter_offset + counter
+
+        if i in skiplist: continue
 
         chapter_url = base_uri + hash_string + str(i) + title
 
@@ -139,10 +141,10 @@ if __name__ == "__main__":
     rawparse_fanfiction("https://www.fanfiktion.de/s/5c793dfe000a402030774dc7/1/Harry-Potter-und-die-Methoden-der-Rationalitaet-Ubersetzung-HPMOR", start_number=2, end_number=46, chapter_offset=34)
 
     # Jost
-    rawparse_fanfiction("https://www.fanfiktion.de/s/4cb8beb50000203e067007d0/6/Harry-Potter-und-die-Methoden-des-rationalen-Denkens", start_number=1, end_number=21)
+    rawparse_fanfiction("https://www.fanfiktion.de/s/4cb8beb50000203e067007d0/6/Harry-Potter-und-die-Methoden-des-rationalen-Denkens", start_number=1, end_number=21, skiplist=[11])
 
     # Schneefl0cke
     rawparse_fanfiction("https://www.fanfiktion.de/s/60044849000ccc541aef297e/1/Ubersetzung-Harry-Potter-und-die-Methoden-des-rationalen-Denkens-Harry-Potter-and-the-methods-of-rationality", start_number=2, end_number=121)
 
     # Patneu
-    rawparse_fanfiction("https://www.fanfiktion.de/s/55610c610004dede273a3811/1/Harry-Potter-und-die-Methoden-der-Rationalitaet", start_number=1, end_number=38)
+    rawparse_fanfiction("https://www.fanfiktion.de/s/55610c610004dede273a3811/1/Harry-Potter-und-die-Methoden-der-Rationalitaet", start_number=1, end_number=38,  skiplist=[11])

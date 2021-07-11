@@ -1,591 +1,463 @@
 
-Kapitel 19: Belohnungsaufschub
+Kapitel 20: Bayes-Theorem
 
-Blut für den Blutgott! Schädel für J. K. Rowling!
+Alles was durch Rowling zerstört werden kann, sollte es auch.
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-Draco trug einen ernsten Ausdruck auf dem Gesicht und sein grün-getrimmter Umhang sah irgendwie sehr viel formeller, ernsthafter und ausgefeilter aus als die exakt gleichen Umhänge, die die zwei Jungen hinter ihm trugen.
+Harry starrte hinauf zu der grauen Decke des kleinen Raumes, von dem tragbaren doch komfortablen Bett aus, das man hier aufgestellt hatte. Er hatte eine ganze Menge von Professor Quirrells Snacks gegessen - komplexe Süßwaren aus Schokolade und anderen Substanzen, bestäubt mit glitzernden Streuseln und geschmückt mit kleinen Zuckerkristallen, die sehr teuer aussahen und sich, in der Tat, als sehr lecker herausstellten. Harry hatte sich deshalb auch kein bisschen schuldig gefühlt, das hatte er sich verdient.
 
-"Rede," sagte Draco.
+Er hatte nicht versucht zu schlafen. Harry hatte das Gefühl, ihm würde nicht gefallen, was passierte wenn er die Augen schloss.
 
-"Jah! Rede!"
+Er hatte nicht versucht zu lesen. Er hätte sich nicht konzentrieren können.
 
-"Du has'den Boss gehört! Rede!"
+Komisch wie Harrys Hirn einfach immer weiter und weiter zu laufen schien, niemals abschaltete, egal wie müde er wurde. Es wurde dümmer, aber weigerte sich abzuschalten.
 
-"Ihr zwei, andererseits, haltet die Klappe."
+Doch er verspürte, verspürte wirklich und wahrhaftig ein Gefühl des Triumphs.
 
-Die letzten Unterrichtsstunden am Freitag fingen gerade an, in dem weiten Auditorium, wo alle vier Häuser Verteidigung, ähm, Kampf-Magie lernten.
+Kein-Dunkler-Lord-Harry-Programm, +1 Punkt kam nicht einmal ansatzweise hin. Harry fragte sich, was der Sprechende Hut jetzt sagen mochte, wenn er ihn aufsetzen könnte.
 
-Die letzten Unterrichtsstunden am Freitag.
+Kein Wunder, dass Professor Quirrell Harry beschuldigt hatte, dem Pfad eines Dunklen Lords zu folgen. Harry war zu schwer von Begriff gewesen, er hätte die Parallele gleich erkennen sollen -
 
-Harry hoffte, dass dieser Unterricht stressfrei verlaufen und dem brillanten Professor Quirrell klar sein würde, dass dies vielleicht nicht der beste Zeitpunkt wäre, ihn für irgendetwas besonderes auszuwählen. Harry hatte sich ein wenig erholt, doch...
+Seien Sie sich im Klaren, dass der Dunkle Lord an diesem Tag keinen Sieg errungen hat. Sein Ziel war, die Kampfkünste zu erlernen und doch ging er ohne eine einzige Lektion.
 
-...doch nur für den Fall war es wahrscheinlich besser, vorher etwas Stress abzubauen.
+Harry war mit der Absicht in den Zaubertränke-Unterricht gegangen, etwas über Zaubertränke zu lernen. Er war gegangen ohne eine einzige Lektion.
 
-Harry lehnte sich in seinem Stuhl zurück und bedachte Draco und seine Lakaien mit einem höchst feierlichen Blick.
+Und Professor Quirrell hatte es gehört und mit erschreckender Präzision verstanden und Harry mit einem Schlag von diesem Pfad abgebracht, dem Pfad der ihn zu einer Kopie von Du-weißt-schon-wem machen würde.
 
-"Sie fragen: Was ist unser Ziel?" deklamierte Harry. "Ich kann es in einem Wort nennen: Sieg - Sieg um jeden Preis - Sieg trotz allem Schrecken - Sieg, wie lang und beschwerlich der Weg dahin auch sein mag; denn ohne Sieg gibt es kein -"*
+Ein Klopfen kam von der Tür. "Der Unterricht ist vorüber," sagte Professor Quirrells leise Stimme.
 
-"Rede über Snape," zischte Draco. "Was hast du getan?"
+Harry näherte sich der Tür und war plötzlich unruhig. Dann ließ die Anspannung nach als er hörte, wie Professor Quirrells Schritte sich von der Tür entfernten.
 
-Harry wischte die falsche Feierlichkeit aus seinem Gesicht und warf Draco einen ernsteren Blick zu.
+Was in aller Welt hatte es damit auf sich? War es das, weswegen er schlussendlich gefeuert würde?
 
-"Du hast es gesehen," sagte Harry. "Alle haben es gesehen. Ich habe mit den Fingern geschnippt."
+Harry öffnete die Tür und sah, dass Professor Quirrel nun mehrere Körperlängen entfernt wartete.
 
-"Harry! Reiz mich nicht!"
+Fühlt Professor Quirrell es auch?
 
-Also war er jetzt zu Harry befördert worden. Interessant. Und tatsächlich war Harry sich ziemlich sicher, er sollte das bemerken und sich schlecht fühlen, wenn er nicht irgendwie darauf reagierte...
+Sie gingen über die jetzt verlassene Bühne auf Professor Quirrells Schreibtisch zu, an den Professor Quirrell sich lehnte und Harry stoppte, wie zuvor, kurz vor dem Podest.
 
-Harry tippte sich an die Ohren und warf einen bedeutungsvollen Blick auf die Lakaien.
+"Also," sagte Professor Quirrell. Irgendwie umgab ihn eine freundliche Ausstrahlung, trotzdem sein Gesicht seinen üblichen ernsten Ausdruck behielt. "Worüber wollten Sie mit mir sprechen, Mr. Potter?"
 
-"Sie werden nicht reden," sagte Draco.
+Ich habe eine mysteriöse dunkle Seite. Doch Harry konnte nicht einfach damit herausplatzen.
 
-"Draco," sagte Harry, "ich werde jetzt hundertprozentig ehrlich sein und sagen, dass ich von Mr. Goyles Scharfsinn gestern nicht sonderlich beeindruckt war."
+"Professor Quirrell," sagte Harry, "bin ich jetzt nicht mehr auf dem Pfad, ein Dunkler Lord zu werden?"
 
-Mr. Goyle zuckte zusammen.
+Professor Quirrell blickte Harry an. "Mr. Potter," sagte er ernst, mit nur einem leichten Grinsen, "ein Ratschlag. Es gibt so etwas wie eine zu perfekte Vorstellung. Richtige Menschen, die gerade fünfzehn Minuten lang geschlagen und gedemütigt worden sind, stehen nicht auf und vergeben großmütig ihren Feinden. Das ist das, was man tun würde, wenn man jeden überzeugen wollte, dass man keine dunklen Absichten hegt und nicht -"
 
-"Ich ebenso wenig," sagte Draco. "Ich erklärte ihm, dass ich dir deshalb jetzt einen Gefallen schulde." (Mr. Goyle zuckte erneut.) "Doch es liegt ein großer Unterschied zwischen dieser Art Fehler und Indiskretion. Das zu verstehen wurde ihnen wirklich schon von Kindheit an beigebracht."
+"Ich glaube das nicht! Es kann nicht jede mögliche Beobachtung ihre Theorie bestätigen!"
 
-"Nun gut, dann," sagte Harry. Er senkte die Stimme, obwohl die Hintergrundgeräusche in Dracos Gegenwart zu einem Rauschen verblasst waren. "Ich habe eines von Severus Geheimnissen ausgeknobelt und eine kleine Erpressung durchgezogen."
+"Und das war ein Tüpfelchen zu viel Empörung."
 
-Dracos Gesichtsausdruck wurde härter. "Gut, jetzt erzähl mir was, dass du nicht den Idioten in Gryffindor direkt ins Gesicht gesagt hast, was heißt, es war die Geschichte, die du in der ganzen Schule verbreiten wolltest."
+"Was in aller Welt muss ich tun, um Sie zu überzeugen?"
 
-Harry grinste unwillkürlich und er wusste, dass Draco angebissen hatte.
+"Um mich zu überzeugen, dass Sie nicht den Ehrgeiz hegen, ein Dunkler Lord zu werden?" sagte Professor Quirrell und sah jetzt regelrecht belustigt aus. "Ich nehme an, Sie könnten einfach Ihre rechte Hand heben."
 
-"Was erzählt Severus?" sagte Harry.
+"Was?" sagte Harry tonlos. "Aber ich kann meine rechte Hand heben, egal ob -" Harry hielt inne und kam sich ziemlich dumm vor.
 
-"Dass ihm nicht klar war, wie empfindlich die Gefühle kleiner Kinder wären," sagte Draco. "Selbst in Slytherin! Selbst mir!"
+"So ist es," sagte Professor Quirrell. "Sie können es in jedem Fall tun. Es gibt nichts, was Sie tun können, um mich zu überzeugen, weil ich wüsste, dass Sie genau das zu tun versucht haben. Und wenn wir noch präziser sein wollten dann ist es, obwohl ich annehmen muss, dass die Möglichkeit der Existenz vollkommen guter Menschen gerade so besteht trotzdem ich niemals einem begegnet bin, nichtsdestotrotz unwahrscheinlich, dass jemand fünfzehn Minuten lang geschlagen wird und dann aufsteht und von einem Anflug freundlicher Vergebung für seine Angreifer ergriffen wird. Andererseits ist es weniger unwahrscheinlich, dass ein junges Kind sich vorstellen würde, es müsse genau diese Rolle spielen, um seinen Lehrer und seine Klassenkameraden zu überzeugen, dass es nicht der nächste Dunkle Lord ist. Das Wesentliche eines Schauspiels liegt nicht darin, wonach dieses Spiel oberflächlich aussieht, Mr. Potter, sondern darin, welche Geisteshaltung jenes Schauspiel mehr oder weniger wahrscheinlich macht."
 
-"Bist du sicher," sagte Harry, "dass du etwas wissen willst, das dein Hauslehrer dich lieber nicht wissen lassen will?"
+Harry blinzelte. Ihm war gerade die Gegensätzlichkeit von repräsentativer Heuristik und der bayesschen Beweisdefinition von einem Zauberer erklärt worden.
 
-"Ja," sagte Draco ohne zu zögern.
+"Doch dann wieder," sagte Professor Quirrell, "kann jeder den Wunsch haben, seine Freunde zu beeindrucken. Dahinter müssen keine dunklen Absichten stehen. Also, ohne damit irgendetwas einzugestehen, Mr. Potter, sagen Sie mir ehrlich. Welcher Gedanke ging Ihnen durch den Kopf, in dem Moment als Sie jegliche Vergeltung untersagten? War dieser Gedanke ein echter Impuls zur Vergebung? Oder was es das Bewusstsein, wie Ihre Klassenkameraden es wahrnehmen würden?"
 
-Interessant. "Dann wirst du wirklich zuerst deine Lakaien wegschicken, weil ich nicht sicher bin, dass ich alles glauben kann, was du über sie glaubst."
+Manchmal schaffen wir uns unser eigenes Phoenix-Lied.
 
-Draco nickte. "Okay."
+Doch Harry sagte es nicht laut. Es war offensichtlich, dass Professor Quirrell ihm nicht glauben und ihn vermutlich weniger respektieren würde für den Versuch einer so durchschaubaren Lüge.
 
-Mr. Crabbe und Mr. Goyle sahen sehr unglücklich aus. "Boss -" sagte Mr. Crabbe.
+Nach ein paar Augenblicken der Stille lächelte Professor Quirrell zufrieden. "Glauben Sie es oder nicht, Mr. Potter," sagte der Professor, "Sie müssen mich nicht fürchten, weil ich Ihr Geheimnis entdeckt habe. Ich werde Ihnen nicht sagen, Sie sollen davon ablassen, der nächste Dunkle Lord zu werden. Wenn ich das Rad der Zeit zurück drehen und diesen Ehrgeiz irgendwie aus dem Geist meines kindlichen Selbst löschen könnte, würde mein gegenwärtiges Selbst nicht von dieser Änderung profitieren. So lange ich denken kann war dies mein Ziel, es trieb mich an, zu studieren und zu lernen, mich zu verbessern und stärker zu werden. Wir werden zu dem wozu wir bestimmt sind, indem wir unserem Begehren folgen, wo immer es auch hin führt. Das ist die Erkenntnis von Salazar. Bitten Sie mich, Ihnen die Abteilung der Bibliothek zu zeigen, in der die Bücher stehen, die ich selbst als Dreizehnjähriger gelesen habe und ich werde Ihnen mit Freuden den Weg weisen."
 
-"Ihr habt Mr. Potter keinen Grund gegeben euch zu trauen," sagte Draco. "Geht!"
+"Heilige Scheiße," sagte Harry und setzte sich auf den harten Marmorboden, legte sich dann auf den Rücken und starrte hinauf zu den fernen Deckenbögen. Es war die nächst beste Alternative dazu vor Verzweiflung in Ohnmacht zu fallen ohne sich dabei weh zu tun.
 
-Sie gingen.
+"Noch immer zu viel Empörung," bemerkte Professor Quirrell. Harry sah nicht hin, doch er hörte das unterdrückte Lachen in seiner Stimme.
 
-"Insbesondere," sagte Harry und senkte die Stimme noch weiter, "bin ich nicht vollkommen überzeugt, dass sie was ich gesagt habe nicht einfach an Lucius berichten."
+Dann wurde es Harry klar.
 
-"Das würde Vater nicht tun!" sagte Draco und sah ehrlich entsetzt aus. "Sie gehören mir!"
-
-"Tut mir leid, Draco," sagte Harry. "Ich bin einfach nicht sicher, dass ich alles glauben kann, was du über deinen Vater glaubst. Stell dir vor, es wäre dein Geheimnis und ich sagte dir, mein Vater würde das nicht tun."
-
-Draco nickte langsam. "Du hast recht. Es tut mir leid, Harry. Es war falsch von mir, es von dir zu verlangen."
-
-Wie wurde ich so befördert? Sollte er mich jetzt nicht hassen? Harry hatte das Gefühl, er sähe hier etwas, das sich nutzen ließe... er wünschte nur sein Hirn wäre nicht so erschöpft. Normalerweise hätte er sich gern an einem komplizierten Ränkespiel versucht.
-
-"Sei's drum," sagte Harry. "Ein Handel. Ich werde dir was erzählen, das nicht an der großen Glocke hängt und auch nicht an die große Glocke gehängt wird und im besonderen nicht deinem Vater zu Ohren kommt und im Gegenzug erzählst du mir, was du und Slytherin über die ganze Sache denken."
-
-"Deal!"
-
-Nun machen wir das so vage wie möglich... etwas, das nicht viel Schaden anrichtet, selbst wenn es herauskäme... "Was ich sagte war die Wahrheit. Ich habe eines von Severus Geheimnissen entdeckt und ich habe eine Erpressung durchgezogen. Aber Severus war nicht als einziger beteiligt."
-
-"Ich wusste es!" sagte Draco triumphierend.
-
-Harry wurde flau im Magen. Er hatte offenbar etwas sehr wichtiges gesagt und er wusste nicht wieso. Das war kein gutes Zeichen.
-
-"Alles klar," sagte Draco. Er grinste jetzt breit. "Also, so war die Reaktion in Slytherin. Zuerst die ganzen Idioten so 'Wir hassen Harry Potter! Mischen wir ihn auf!"
-
-Harry schluckte. "Was stimmt nicht mit dem Sprechenden Hut? Das ist nicht Slytherin, sondern Gryffindor -"
-
-"Es können nicht alle Kinder hochbegabt sein," sagte Draco, doch er lächelte auf hässlich-verschwörerische Weise, als wollte er andeuten, dass er Harrys Ansicht insgeheim zustimmte. "Und etwa fünfzehn Sekunden danach machte ihnen jemand klar, warum sie Snape damit nicht wirklich einen Gefallen täten, also alles gut. Jedenfalls, danach kam die zweite Welle Idioten, die sagten, 'Sieht aus als wäre Harry Potter doch nur so ein Weltverbesserer.'"
-
-"Und dann?" sagte Harry und lächelte, obwohl er keine Ahnung hatte, warum das dämlich war.
-
-"Und dann meldeten sich die tatsächlich schlauen Leute zu Wort. Es ist offensichtlich, dass du einen Weg gefunden hast, eine Menge Druck auf Snape auszuüben. Und das könnte mehr als eine Sache sein... der offensichtlich nächste Gedanke ist, dass es etwas mit der unbekannten Sache zu tun hat, die Snape gegen Dumbledore in der Hand hat. Habe ich recht?"
-
-"Kein Kommentar," sagte Harry. Zumindest diesen Teil verarbeitete Harrys Gehirn korrekt. Im Haus Slytherin hatte man sich gefragt, warum Severus nicht gefeuert wurde. Und sie hatten gefolgert, dass Severus Dumbledore erpresste. Könnte das tatsächlich stimmen...? Aber Dumbledore hatte sich nicht so verhalten als ob...
-
-Draco sprach weiter. "Und als nächstes führten die schlauen Leute aus, dass wenn du genug Druck auf Snape ausüben konntest, damit er halb Hogwarts in Ruhe lässt, bedeutet das, du hattest wahrscheinlich Macht genug um ihn komplett loszuwerden, wenn du gewollt hättest. Was du mit ihm gemacht hast, war eine Demütigung, genau wie er versuchte dich zu demütigen - doch du hast uns unseren Hauslehrer gelassen."
-
-Harry ließ sein Lächeln breiter werden.
-
-"Und die wirklich schlauen Leute," sagte Draco, sein Gesicht jetzt ernst, "verschwanden daraufhin und führten eine kleine Debatte unter sich und jemand erklärte, dass es sehr dumm wäre, einen solchen Feind frei herumlaufen zu lassen. Wenn du sein Druckmittel gegen Dumbledore ausschalten könntest, wäre es das Sinnvollste das einfach zu tun. Dumbledore würde Snape aus Hogwarts rausschmeißen und ihn vielleicht sogar umbringen lassen, er wäre dir extrem dankbar und du müsstest dir keine Sorgen machen, dass Snape sich eines Nachts mit interessanten Zaubertränken in deinen Schlafsaal schleicht."
-
-Harrys Gesicht war jetzt ausdrucklos. Daran hatte er nicht gedacht und das hätte er wirklich, wirklich tun solllen. "Und daraus hast du geschlossen...?"
-
-"Snapes Druckmittel war ein Geheimnis von Dumbledore und du hast es rausgefunden!" Draco blickte triumphierend. "Es kann nicht mächtig genug sein, um Dumbledore völlig zu vernichten oder Snape hätte es bereits benutzt. Snape weigert sich, sein Druckmittel für irgendetwas anderes einzusetzen als König von Haus Slytherin in Hogwarts zu bleiben und selbst dabei bekommt er nicht immer was er will, also muss es seine Grenzen haben. Aber es muss wirklich gut sein! Vater hat seit Jahren versucht, Snape dazu zu bringen, es ihm zu verraten!"
-
-"Und," sagte Harry, "nun denkt Lucius vielleicht kann ich es ihm sagen. Hast du schon eine Eule bekommen -"
-
-"Werde ich heute Nacht," sagte Draco und lachte. "Sie wird lauten," seine Stimme nahm einen tieferen, formelleren Tonfall an, "Mein geliebter Sohn: Ich habe dich bereits über Harry Potters potentielle Bedeutung unterrichtet. Wie dir bereits klar sein wird, ist seine Bedeutung nun umso größer und dringlicher. Solltest du gleich welchen Zugang für eine Freundschaft mit ihm oder ein Druckmittel gegen ihn sehen, musst du dem nachgehen und alle Ressourcen der Malfoys stehen dir wenn nötig zur Verfügung."
-
-Donnerwetter. "Nun," sagte Harry, "kein Kommentar ob dein ganzes kompliziertes Gebilde von Theorie stimmt oder nicht, lass mich nur sagen, dass wir noch nicht so gute Freunde sind."
-
-"Ich weiß," sagte Draco. Dann wurde sein Gesicht sehr ernst und seine Stimme sehr leise, selbst mit dem Rauschen. "Harry, ist dir in den Sinn gekommen, dass wenn du etwas weißt, von dem Dumbledore nicht will, dass es bekannt wird, Dumbledore dich einfach umbringen lassen könnte? Und es würde außerdem aus dem Jungen-der-überlebt-hat, einem möglichen konkurrierenden Anführer, einen wertvollen Märtyrer machen."
-
-"Kein Kommentar," sagte Harry erneut. An das letzte hatte er ebenfalls nicht gedacht. Schien nicht Dumbledores Stil zu sein... aber...
-
-"Harry," sagte Draco, "du hast offensichtlich unglaubliches Talent, doch du hast keine Übung und keine Mentoren und manchmal tust du wirklich dumme Sachen und du brauchst wirklich einen Ratgeber, der weiß wie man das macht oder du wirst verletzt!" Dracos Gesicht war eindringlich.
-
-"Ah," sagte Harry. "Einen Ratgeber wie Lucius?"
-
-"Wie mich!" sagte Draco. "Ich verspreche, deine Geheimnisse vor Vater zu bewahren, vor jedem, ich helfe dir einfach mit dem, was immer du tun willst!"
-
-Wow.
-
-Harry sah, dass Zombie-Quirrell durch die Türen getaumelt kam.
-
-"Der Unterricht fängt gleich an," sagte Harry. "Ich denke nach über das, was du gesagt hast, oftmals wünschte ich schon, ich hätte all dein Training, es ist nur, ich weiß nicht wie ich dir so schnell vertrauen kann -"
-
-"Solltest du nicht," sagte Draco, "es ist zu früh. Siehst du? Ich gebe dir sogar dann gute Ratschläge, wenn es mir schadet. Doch vielleicht sollten wir uns beeilen, engere Freundschaft zu schließen."
-
-"Dafür bin ich offen," sagte Harry, der bereits herauszufinden versuchte, wie sich das ausnutzen ließ.
-
-"Noch ein kleiner Rat," sagte Draco eilig als Quirrell auf seinen Schreibtisch zu schlurfte, "im Moment weiß niemand in Slytherin, was er von dir halten soll, wenn du also um unsere Gunst wirbst und ich denke, das tust du, solltest du etwas tun, dass Slytherin Freundschaft vermittelt. Bald, etwa heute oder morgen."
-
-"Severus weiterhin Extra-Hauspunkte an Slytherin verteilen zu lassen, war nicht genug?" Kein Grund, dass Harry dafür nicht die Lorbeeren einstrich.
-
-Dracos Augen blitzten verstehend, dann sagte er hastig, "Es ist nicht dasselbe, vertrau mir, es muss etwas offensichtliches sein. Schubs deine Schlammblut-Rivalin Granger gegen eine Mauer oder sowas, jeder in Slytherin wird wissen, was das heißt -"
-
-"So funktioniert das in Ravenclaw nicht, Draco! Wenn du jemanden gegen eine Mauer schubsen musst, heißt das, du hast nicht genug Köpfchen, ihn auf die richtige Art zu schlagen und jeder in Ravenclaw weiß das -"
-
-Der Bildschirm auf Harrys Pult erwachte flackernd zum Leben und löste eine plötzliche Sehnsucht nach Fernsehen und Computern aus.
-
-"Ähem," sagte Professor Quirrells Stimme, schien aus dem Bildschirm heraus direkt zu Harry zu sprechen. "Bitte nehmen Sie Ihre Plätze ein."
-
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-Und alle Kinder setzten sich und starrten auf die Verstärker-Bildschirme auf ihren Pulten oder blickten direkt zu der großen weißen Marmor-Bühne hinab, wo Professor Quirrell stand, an seinen Schreibtisch auf dem kleinen Podest aus dunklerem Marmor gelehnt.
-
-"Heute," sagte Professor Quirrell, "hatte ich geplant, Sie Ihren ersten Schutzzauber zu lehren, einen kleinen Schild, der der Vorläufer des heutigen Protego war. Doch nach weiterer Überlegung habe ich den heutigen Lehrplan im Lichte jüngster Ereignisse abgeändert."
-
-Professor Quirrells Blick suchte die Sitzreihen ab. Harry zuckte zusammen auf seinem Platz, in der hintersten Reihe. Er hatte so ein Gefühl, wer aufgerufen werden würde.
-
-"Draco, vom Noblen und Uralten Haus Malfoy," sagte Professor Quirrell.
-
-Puh.
-
-"Ja, Professor?" sagte Draco. Seine Stimme erklang lauter, schien aus dem Verstärker-Bildschirm auf Harrys Pult zu kommen, der Dracos Gesicht zeigte, als er sprach. Dann wechselte er zurück zu Professor Quirrell, der sagte:
-
-"Ist es Ihr Ziel, der nächste Dunkle Lord zu werden?"
-
-"Das ist eine seltsame Frage, Professor," sagte Draco. "Ich meine, wer wäre dumm genug es zuzugeben?"
-
-Ein paar Schüler lachten, aber nicht viele.
-
-"In der Tat," sagte Professor Quirrell. "Obwohl es keinen Sinn hat, irgendeinen von Ihnen zu fragen, würde es mich nicht im mindesten überraschen, wenn es ein oder zwei Schüler in meinen Klassen gibt, die Ambitionen hegen, der nächste Dunkle Lord zu sein. Immerhin wollte ich der nächste Dunkle Lord werden, als ich ein junger Slytherin war."
-
-Dieses mal war das Gelächter viel verbreiteter.
-
-"Nun, immerhin ist es das Haus der Ehrgeizigen," sagte Professor Quirrell lächelnd. "Mir wurde erst später klar, dass es die Kampf-Magie war, die mich wirklich begeisterte und mein wahrer Ehrgeiz war, ein großer kämpfender Zauberer zu werden und eines Tages in Hogwarts zu lehren. Jedenfalls, als ich dreizehn Jahre alt war, las ich mich durch die historischen Abteilungen der Hogwarts-Bibliothek, untersuchte Leben und Schicksale vergangener Dunkler Lords und ich fertigte eine Liste an, mit all den Fehlern, die ich niemals machen würde, wenn ich ein Dunkler Lord wäre -"
-
-Harry kicherte, bevor er es verhindern konnte.
-
-"Ja, Mr. Potter, sehr amüsant. Also, Mr. Potter, können Sie sich denken, was der erste Punkt auf jener Liste war?"
-
-Toll. "Ähm... sich niemals etwas kompliziertes für einen Gegner ausdenken, wenn ein einfaches Abrakadabra auch ausreicht?"
-
-"Der Ausdruck, Mr. Potter, ist Avada Kedavra," Professor Quirrells Stimme klang aus irgendeinem Grund etwas scharf, "und nein, das war nicht auf der Liste, die ich mit dreizehn angefertigt habe. Würden Sie noch einmal raten?"
-
-"Ah... niemals vor irgendwem mit deinem bösen Masterplan angeben?"
-
-Professor Quirrell lachte. "Ah, nun das war Nummer zwei. Meine Güte, Mr. Potter, haben wir die selben Bücher gelesen?"
-
-Es folgte mehr Gelächter, mit einem nervösen Unterton. Harry presste seine Kiefer fest aufeinander und sagte nichts. Eine Verneinung würde nichts bringen.
-
-"Aber nein. Der erste Punkt war, 'Ich werde nicht herumlaufen und starke, boshafte Gegner provozieren.' Die Geschichte der Welt wäre eine ganz andere, wenn Mornelithe Falconsbane oder Hitler diesen elementaren Punkt verstanden hätten. Nun, falls, Mr. Potter - nur falls sie zufällig einen Ehrgeiz hegen, ähnlich meinem als junger Slytherin - dann hoffe ich, Ihr Ehrgeiz ist es nicht, ein dummer Dunkler Lord zu werden."
-
-"Professor Quirrell," sagte Harry, mit den Zähnen knirschend, "ich bin ein Ravenclaw und es ist nicht mein Ehrgeiz, dumm zu sein, Punkt. Ich weiß, was ich heute getan habe, war dumm. Doch es war nicht finster! Ich war es nicht, der in diesem Kampf den ersten Schlag ausgeteilt hat!"
-
-"Sie, Mr. Potter, sind ein Idiot. Doch das war auch ich in Ihrem Alter. Daher habe ich Ihre Antwort erwartet und den heutigen Lehrplan entsprechend abgeändert. Mr. Gregory Goyle, wenn Sie bitte vortreten würden?"
-
-Eine überraschte Pause entstand im Klassenraum. Das hatte Harry nicht erwartet.
-
-Ebenso nicht, wie es aussah, Mr. Goyle, der ziemlich unsicher und besorgt aussah, als er die Marmor-Bühne bestieg und sich dem Podest näherte.
-
-Professor Quirrell richtete sich vom Schreibtisch auf. Er sah plötzlich stärker aus, seine Hände ballten sich zu Fäusten und er nahm klar erkennbar eine Kampfkunst-Stellung ein.
-
-Harrys riss bei dem Anblick die Augen auf und ihm wurde klar, warum Mr. Goyle hinauf gerufen worden war.
-
-"Die meisten Zauberer," sagte Professor Quirrell, "halten sich nicht groß auf mit dem, was Muggel als Kampfkunst bezeichnen würden. Ist nicht ein Zauberstab stärker als eine Faust? Diese Einstellung ist dumm. Zauberstäbe werden in Fäusten gehalten. Wenn Sie ein großer kämpfender Zauberer werden wollen, müssen Sie die Kampfkunst bis zu einem Grad erlernen, der selbst einen Muggel beeindrucken würde. Ich werde nun eine bestimmte, lebenswichtige Technik demonstrieren, die ich in einem Dojo erlernt habe, in einer Muggel-Schule der Kampfkünste, von welcher ich in Kürze mehr berichten werde. Für den Moment..." Professor Quirrell machte mehrere Schritte vorwärts, noch immer in Stellung, auf Mr. Goyles Position zu. "Mr. Goyle, ich werde Sie bitten, mich anzugreifen."
-
-"Professor Quirrell," sagte Mr. Goyle, seine Stimme nun verstärkt, wie die des Professors war, "darf ich fragen, welchen Grad -"
-
-"Sechster Dan. Sie werden nicht verletzt werden und ich ebenso wenig. Und wenn Sie eine Gelegenheit sehen, ergreifen Sie sie."
-
-Mr. Goyle nickte, sah sehr erleichtert aus.
-
-"Bemerken Sie," sagte Professor Quirrell, "dass Mr. Goyle fürchtete, jemanden anzugreifen, der die Kampfkunst nicht in akzeptablem Maße beherrscht, aus Angst ich, oder er, könnte verletzt werden. Mr. Goyles Haltung ist völlig korrekt und er hat sich dafür drei Quirrell-Punkte verdient. Jetzt, Kampf!"
-
-Der Junge rauschte vorwärts, Fäuste flogen und der Professor blockte jeden Schlag, tanzte zurück, Quirrell trat und Goyle blockte und wirbelte herum, versuchte Quirrel ins Taumeln zu bringen, mit ausholendem Bein und Quirrell sprang darüber hinweg und es passierte alles zu schnell für Harry, um zu begreifen, was geschah und dann lag Goyle auf dem Rücken und stieß mit den Beinen und Quirrell flog tatsächlich durch die Luft und dann traf er auf, Schulter voran und rollte sich ab.
-
-"Stop!" schrie Professor Quirrell am Boden, klang leicht panisch. "Sie gewinnen!"
-
-Mr. Goyle riss sich so abrupt empor, dass er taumelte, stolperte und fiel beinahe durch die abgebrochene Bewegung seines Hals-über-Kopf-Angriffs auf Professor Quirrell. Sein Gesichtsausdruck völlig schockiert.
-
-Professor Quirrell bog den Rücken durch und schwang sich auf die Füße mit einer anmutigen Sprungbewegung, die von seinen Händen keinen Gebrauch machte.
-
-Es war still im Klassenraum, eine Stille geboren aus reiner Verwirrung.
-
-"Mr. Goyle," sagte Professor Quirrell, "welche lebenswichtige Technik habe ich demonstriert?"
-
-"Wie man richtig fällt, wenn einen jemand wirft," sagte Mr. Goyle. "Es ist eine der ersten Techniken, die man lernt -"
-
-"Das auch," sagte Professor Quirrell.
+"Wissen Sie, ich glaube ich weiß, was Sie hierbei verwirrt," sagte Harry. "Darüber wollte ich eigentlich mit Ihnen sprechen. Professor Quirrell, ich denke, was Sie sehen, ist meine dunkle Seite."
 
 Es gab eine Pause.
 
-"Die lebenswichtige Technik, die ich demonstriert habe," sagte Professor Quirrell, "war, wie man verliert. Sie können gehen, Mr. Goyle, danke."
+"Ihre... dunkle Seite..."
 
-Mr. Goyle verließ die Plattform, ziemlich verwirrt. Harry fühlte dasselbe.
+Harry setzte sich auf. Professor Quirrell betrachtete ihn mit dem seltsamsten Gesichtsausdruck, den Harry jemals bei irgendwem gesehen hatte, ganz zu schweigen von jemand so ehrwürdigem wie Professor Quirrell.
 
-Professor Quirrell ging zurück zu seinem Schreibtisch und lehnte sich erneut dagegen. "Manchmal vergessen wir die grundlegendsten Dinge, weil es zu lang zurückliegt, dass wir sie lernten. Mir wurde klar, dass mir mit meinem Lehrplan dasselbe wiederfahren war. Man bringt Schülern nicht bei zu werfen, bevor man ihnen beibringt zu fallen. Und ich darf Ihnen nicht beibringen zu kämpfen, wenn Sie nicht verstehen wie man verliert."
+"Es passiert, wenn ich zornig werde," erklärte Harry. "Mein Blut wird kalt, alles wird kalt, alles erscheint völlig klar... Rückblickend betrachtet habe ich es schon eine Weile - in meinem ersten Jahr in der Muggelschule versuchte mir jemand in der Pause meinen Ball wegzunehmen und ich hielt ihn hinter meinen Rücken und trat im in den Solarplexus, von dem ich gelesen hatte, er sei ein Schwachpunkt und die anderen Kinder hielten sich danach von mir fern. Und ich habe eine Mathe-Lehrerin gebissen, als sie meine Dominanz in Frage stellte. Doch erst seit kurzem stehe ich genug unter Stress um zu bemerken, dass es eine, Sie wissen schon, echte mysteriöse dunkle Seite ist und nicht nur ein Aggressionsproblem wie der Schulpsychologe sagte. Und ich habe keine super-magischen Kräfte wenn es passiert, das habe ich gleich zu Anfang überprüft."
 
-Professor Quirrells Gesicht wurde härter und Harry glaubte einen Hauch von Schmerz, einen Anflug von Sorge in diesen Augen gesehen zu haben. "Ich lernte zu verlieren in einem Dojo in Asien, wo wie jeder Muggel weiß, alle guten Kampfkünstler leben. Dieses Dojo unterrichtete einen Stil, der unter kämpfenden Zauberern den Ruf genoss, sich gut für magisches Duellieren zu eignen. Der Meister dieses Dojo - ein alter Mann nach Muggel-Maßstäben - war der größte lebende Lehrer dieses Stils. Er hatte natürlich keine Ahnung, dass Magie existiert. Ich bewarb mich um ein Studium dort und war einer der wenigen Schüler, die aus vielen Bewerbern in jenem Jahr angenommen wurden. Es mag ein winziges bisschen spezieller Einfluss im Spiel gewesen sein."
+Professor Quirrell rieb sich die Nase. "Lassen Sie mich darüber nachdenken," sagte er.
 
-Gelächter erklang im Klassenraum. Harry teilte es nicht. Das war ganz und gar nicht richtig gewesen.
+Harry wartete still, eine volle Minute lang. Er nutzte die Zeit, um aufzustehen, was schwieriger war, als er erwartet hatte.
 
-"Jedenfalls. Während einem meiner Faustkämpfe, nach dem ich auf besonders demütigende Weise geschlagen worden war, verlor ich die Beherrschung und griff meinem Trainingsparter an -"
+"Nun," sagte Professor Quirrell nach einer Weile. "Ich nehme an, es gab doch etwas, das Sie sagen konnten, um mich zu überzeugen."
 
-Oha.
+"Ich habe schon ausgeknobelt, dass meine dunkle Seite nur ein anderer Teil von mir ist und das die Lösung nicht ist, niemals wütend zu werden, sondern die Kontrolle zu behalten indem ich sie akzeptiere, ich bin nicht dämlich oder so und ich habe diese Geschichte oft genug gesehen und weiß wo das hin führt, aber es ist schwer und Sie scheinen jemand zu sein, der mir helfen kann."
 
-"- glücklicherweise mit meinen Fäusten statt meiner Magie. Der Meister warf mich, überraschenderweise, nicht auf der Stelle hinaus. Aber er sagte mir, ich hätte ein Problem mit meinem Temperament. Er erklärte es mir und mir war klar, dass er recht hatte. Und dann sagte er, ich würde lernen zu verlieren."
+"Nun... ja... sehr scharfsinnig von Ihnen, Mr. Potter, muss ich sagen... diese Seite von Ihnen ist, wie Sie bereits vermutet haben, Ihr Killerinstinkt, der wie Sie sagen ein Teil von Ihnen ist..."
 
-Professor Quirrells Gesicht war ausdruckslos.
+"Und trainiert werden muss," sagte Harry, das Muster vollendend.
 
-"Auf seinen strikten Befehl hin reihten sich alle Schüler des Dojo auf. Einer nach dem anderen kamen sie auf mich zu. Ich durfte mich nicht verteidigen. Ich durfte nur um Gnade bitten. Einer nach dem anderen schlugen sie mich oder boxten mich und stießen mich zu Boden. Einige von ihnen spuckten auf mich. Sie belegten mich mit üblen Schimpfworten in ihrer Sprache. Und jedem von ihnen musste ich sagen 'Ich habe verloren!' und ähnliche solche Dinge, wie etwa 'Ich bitte dich aufzuhören!' und 'Ich gebe zu, du bist besser als ich!'"
+"Und trainiert werden muss, ja." Dieser seltsame Ausdruck lag immer noch auf Professor Quirrells Gesicht. "Mr. Potter, wenn Sie wirklich nicht wünschen, der nächste Dunkle Lord zu sein, was war dann der Ehrgeiz, den der Sprechende Hut Ihnen auszureden versucht hat, den Ehrgeiz wegen dem Sie nach Slytherin sortiert wurden?"
 
-Harry versuchte sich das vorzustellen und schaffte es einfach nicht. Es war nicht möglich, dass dem ehrwürdigen Professor Quirrell so etwas passiert sein konnte.
+"Ich wurde nach Ravenclaw sortiert!"
 
-"Ich war schon damals ein hochbegabter Kampf-Magier. Mit zauberstabloser Magie allein hätte ich jeden in diesem Dojo töten können. Ich habe es nicht getan. Ich lernte zu verlieren. Bis heute erinnere ich mich daran als die unangenehmsten Stunden meines Lebens. Und als ich das Dojo acht Monate später verließ - was nicht annähernd genug Zeit war, doch alles was ich erübrigen konnte - sagte mir der Meister, er hoffe dass ich verstanden hätte, warum das nötig gewesen sei. Und ich sagte ihm, dass es eine der wertvollsten Lektionen war, die ich jemals lernte. Was die Wahrheit war und immer noch ist."
+"Mr. Potter," sagte Professor Quirrell, jetzt mit einem sehr viel typischeren trockenen Lächeln, "ich weiß, dass Sie es gewohnt sind von Narren umgeben zu sein, doch bitte verwechseln Sie mich nicht mit einem von ihnen. Die Wahrscheinlichkeit, der Sprechende Hut könnte seinen ersten Streich seit achthundert Jahren gespielt haben, während er auf ihrem Kopf saß, ist vernachlässigbar gering. Ich hielte es gerade eben noch für möglich, dass Sie mit den Fingern geschnippt und einen einfachen und cleveren Weg gefunden haben, die Anti-Manipulations-Zauber, die auf dem Hut liegen zu schlagen, obwohl ich selbst mir keinen solchen vorzustellen vermag. Doch die bei weitem wahrscheinlichste Erklärung dürfte sein, dass Dumbledore nicht glücklich mit der Entscheidung des Hutes für den Jungen-der-überlebt-hat war. Das ist klar erkennbar für jeden mit auch nur dem kleinsten Hauch gesunden Menschenverstandes, also ist Ihr Geheimnis in Hogwarts sicher."
 
-Professor Quirrells Gesichtsausdruck wurde bitter. "Sie fragen sich, wo dieses wundersame Dojo ist und ob Sie dort studieren können. Sie können es nicht. Denn nicht lange danach kam ein weiterer Möchtegern-Student an diesen versteckten Ort, zu jenem abgelegenen Berg. Er-dessen-Name-nicht-genannt-werden-darf."
+Harry öffnete den Mund, dann schloss er ihn wieder mit einem Gefühl vollkommener Hilflosigkeit. Professor Quirrell lag falsch, doch auf so überzeugende Weise falsch, dass Harry zu glauben begann, es müsse einfach das rationale Urteil sein, zu dem man gelänge mit den für Professor Quirrell verfügbaren Belegen. Es gab Fälle, niemals vorhersehbar, doch trotzdem kamen sie vor, da man unwahrscheinliche Belege bekam und der bestmögliche Schluss daraus falsch wäre. Wenn man einen medizinischen Test hatte, der nur einmal in tausend Fällen falsch lag, würde er manchmal trotz allem falsch sein.
 
-Das Geräusch vieler simultan einatmender Münder erklang. Harry hatte ein ungutes Gefühl im Magen. Er wusste was kam.
+"Kann ich Sie bitten, niemals wiederzugeben, was ich jetzt sagen werde?" sagte Harry.
 
-"Der Dunkle Lord kam offen zu jener Schule, ohne Verkleidung, glühend rote Augen und alles. Die Schüler versuchten, ihm den Weg zu versperren und er apparierte einfach hindurch. Es herrschte Angst dort, doch auch Disziplin und der Meister trat vor. Und der Dunkle Lord verlangte - erbat nicht, sondern verlangte - unterrichtet zu werden."
+"Absolut," sagte Professor Quirrell. "Betrachten Sie mich als gefragt."
 
-Professor Quirrells Gesicht war sehr hart. "Vielleicht hatte der Meister zu viele Bücher gelesen, die die Lüge berichten, ein wahrer Kampfkünstler könne sogar Dämonen bezwingen. Aus welchem Grund auch immer, der Meister weigerte sich. Der Dunkle Lord fragte, warum er kein Schüler sein könne. Der Meister sagte ihm, er habe keine Geduld und da riss der Dunkle Lord seine Zunge heraus."
+Harry war ebenfalls kein Narr. "Darf ich annehmen, dass Sie ja gesagt haben?"
 
-Man schnappte kollektiv nach Luft.
+"Sehr gut, Mr. Potter. In der Tat dürfen Sie das annehmen."
 
-"Sie können sich denken, was als nächstes geschah. Die Schüler wollten auf den Dunklen Lord einstürmen und fielen um, an Ort und Stelle erstarrt. Und dann..."
+"Professor Quirrell -"
 
-Professor Quirrells Stimme stockte für einen Moment, dann fuhr er fort.
+"Ich werde nicht wiederholen, was Sie sagen werden," sagte Professor Quirrell lächelnd.
 
-"Es gibt einen Unverzeihlichen Fluch, den Cruciatus-Fluch, welcher unerträgliche Schmerzen hervorruft. Wenn der Cruciatus länger als für ein paar Minuten angewandt wird, verursacht er dauerhaften Wahnsinn. Einen nach dem anderen folterte der Dunkle Lord sie damit in den Irrsinn und beendete es dann mit dem Tödlichen Fluch, während der Meister gezwungen war zuzusehen. Als alle seine Schüler auf diese Art gestorben waren, folgte der Meister. Ich erfuhr dies von einem einzelnen überlebenden Schüler, welchen der Dunkle Lord am Leben gelassen hatte, um die Geschichte zu erzählen und der ein Freund von mir gewesen war..."
+Sie lachten beide, dann wurde Harry wieder ernst. "Der Sprechende Hut schien zu glauben, ich würde als Dunkler Lord enden, es sei denn ich ginge nach Hufflepuff," sagte Harry. "Doch ich will keiner sein."
 
-Professor Quirrell wandte sich ab und als er sich einen Moment später zurück drehte, wirkte er wieder ruhig und gefasst.
+"Mr. Potter..." sagte Professor Quirrell. "Nehmen Sie das nicht falsch auf. Ich verspreche, nicht nach der Antwort über Sie zu urteilen. Ich möchte nur Ihre eigene, ehrliche Antwort hören. Wieso nicht?"
 
-"Dunkle Zauberer können ihr Temperament nicht kontrollieren," sagte Professor Quirrell leise. "Es ist ein nahezu universeller Fehler ihrer Art und jeder, der sich ihrer Bekämpfung widmet, lernt bald sich darauf zu verlassen. Seien Sie sich im Klaren, dass der Dunkle Lord an diesem Tag keinen Sieg errungen hat. Sein Ziel war es, die Kampfkünste zu erlernen und doch ging er ohne eine einzige Lektion. Der Dunkle Lord war töricht zu wünschen, diese Geschichte möge erzählt werden. Sie zeigte nicht seine Stärke, viel mehr eine auszunutzende Schwäche."
+Harry überkam wieder jenes hilflose Gefühl. Du sollst kein Dunkler Lord werden, war ein so offensichtlicher Grundsatz in seinem Moralkodex, dass es schwer war, die tatsächlichen Schritte herzuleiten. "Ähm, Menschen würden verletzt werden?"
 
-Professor Quirrells Blick richtete sich auf ein einziges Kind im Klassenraum.
+"Sicherlich wollten Sie schon einmal Menschen verletzen," sagte Professor Quirrell. "Sie wollten diese Mobber heute verletzen. Ein Dunkler Lord zu sein bedeutet, dass Menschen, denen Sie weh tun wollen, verletzt werden."
 
-"Harry Potter," sagte Professor Quirrell.
+Harry rang nach Worten und entschied sich dann einfach für das Offensichtliche. "Zuerst mal, nur weil ich jemandem weh tun möchte, heißt das nicht, es ist richtig -"
 
-"Ja," sagte Harry mit heiserer Stimme.
+"Was macht etwas richtig, wenn nicht dass Sie es wollen?"
 
-"Was präzise haben Sie heute falsch gemacht, Mr. Potter?"
+"Ah," sagte Harry, "Präferenzutilitarismus."
 
-Harry fühlte sich als müsse er sich übergeben. "Ich habe die Beherrschung verloren."
+"Verzeihung?" sagte Professor Quirrell.
 
-"Das ist nicht präzise," sagte Professor Quirrell. "Ich werde es exakter beschreiben. Es gibt viele Tiere, bei denen sogenannte Dominanzkämpfe vorkommen. Sie rasen mit Hörnern aufeinander zu - versuchen einander zu Boden zu werfen, nicht sich aufzuspießen. Sie kämpfen mit ihren Tatzen - mit eingezogenen Klauen. Doch wieso mit eingezogenen Klauen? Sicherlich hätten sie, benutzten sie ihre Klauen, eine bessere Chance zu gewinnen? Doch dann könnte ihr Gegner ebenfalls die Klauen zücken und anstelle den Dominanzkampf mit einem Gewinner und einem Verlierer zu beenden, könnten sie beide schwer verletzt werden."
+"Das ist die ethische Theorie, dass gut ist, was den Präferenzen der meisten Menschen entgegen kommt -"
 
-Professor Quirrells Blick schien aus dem Verstärker-Bildschirm heraus direkt auf Harry gerichtet zu sein. "Was Sie heute demonstriert haben, Mr. Potter, ist dass Sie - anders als jene Tiere, die ihre Klauen eingezogen lassen und das Ergebnis akzeptieren - nicht wissen, wie man einen Dominanzkampf verliert. Als ein Hogwarts-Professor Sie herausgefordert hat, haben Sie nicht nachgegeben. Als es aussah als könnten Sie verlieren, zückten Sie Ihre Klauen, ungeachtet der Gefahr. Sie ließen die Situation eskalieren und dann ließen Sie sie erneut eskalieren. Es begann mit einem Klaps gegen Sie von Professor Snape, der offensichtlich die Dominanz über Sie hatte. Anstatt zu verlieren, schlugen Sie zurück und verloren zehn Punkte von Ravenclaw. Bald sprachen Sie davon, Hogwarts zu verlassen. Die Tatsache, dass Sie die Sache in eine unbekannte Richtung eskalieren ließen und irgendwie am Ende gewannen, ändert nichts an der Tatsache, dass Sie ein Idiot sind."
+"Nein," sagte Professor Quirrell. Er rieb sich mit den Fingern den Nasenrücken. "Das ist nicht ganz, worauf ich hinaus wollte, Mr. Potter, am Ende tun alle Menschen, was sie tun wollen. Manchmal geben Menschen Dingen, die sie tun wollen, Bezeichnungen wie 'richtig', doch wie könnten wir nach etwas außer unserem eigenen Bestreben handeln?"
 
-"Ich verstehe," sagte Harry. Seine Kehle war trocken. Das war präzise gewesen. Beängstigend präzise. Jetzt da Professor Quirrell es sagte, konnte Harry im Nachhinein sehen, dass es eine vollkommen akkurate Beschreibung dessen war, was geschehen war. Wenn jemandes Modell von einem selbst so gut war, musste man sich fragen, ob er auch mit anderen Dingen recht hatte, wie seinem Killerinstinkt.
+"Nun, offensichtlich," sagte Harry. "könnte ich nicht aufgrund moralischer Erwägungen handeln, wenn sie mich nicht bewegen könnten. Doch das bedeutet nicht, dass mein Wille, diesen Slytherins weh zu tun, mich stärker bewegen kann als moralische Erwägungen!"
 
-"Das nächste mal, Mr. Potter, wenn Sie entscheiden einen Kampf eher eskalieren zu lassen, anstatt zu verlieren, könnten Sie alle Einsätze verlieren, die Sie auf dem Tisch haben. Ich kann mir nicht vorstellen, welche es heute waren. Ich kann mir aber denken, dass sie viel, viel zu hoch waren für den Verlust von zehn Hauspunkten."
+Professor Quirrell blinzelte.
 
-Wie das Schicksal des magischen Britannien. Das hatte er getan.
+"Ganz abgesehen davon," sagte Harry, "ein Dunkler Lord zu sein, würde bedeuten, eine Menge unschuldiger Unbeteiligter ebenfalls zu verletzen!"
 
-"Sie werden einwenden, dass Sie versucht haben, ganz Hogwarts zu helfen, ein viel wichtigeres Ziel, großer Risiken würdig. Das ist eine Lüge. Hätten Sie -"
+"Wieso ist Ihnen das wichtig?" sagte Professor Quirrell. "Was haben sie für Sie getan?"
 
-"Ich hätte den Klaps eingesteckt, gewartet und den bestmöglichen Zeitpunkt für meinen Zug gewählt," sagte Harry mit heiserer Stimme. "Aber das hätte bedeutet, zu verlieren. Zuzulassen, dass er mich dominiert. Es war das, was der Dunkle Lord bei dem Meister nicht tun konnte, von dem er lernen wollte."
+Harry lachte. "Oh, das war jetzt in etwa so subtil wie Atlas wirft die Welt ab."*
 
-Professor Quirrell nickte. "Ich sehe, Sie haben vollkommen verstanden. Und daher, Mr. Potter, werden Sie heute lernen, wie man verliert." 
+"Verzeihung?" sagte Professor Quirrell erneut.
 
-"Ich -"
+"Es ist ein Buch, dass meine Eltern mich nicht lesen lassen wollten, weil sie dachten, es würde mich korrumpieren, also habe ich es natürlich trotzdem gelesen und ich war empört, dass sie dachten ich würde in so offensichtliche Fallen tappen. Bla bla bla, Appell an mein Gefühl der Überlegenheit, andere Menschen versuchen mich zurückzuhalten, bla bla bla."
 
-"Ich will keine Einwände hören, Mr. Potter. Es ist offenkundig, dass Sie dies sowohl brauchen als auch stark genug sind, es zu ertragen. Ich versichere Ihnen, dass Ihre Erfahrung nicht so hart wird, wie das was ich durchgemacht habe, doch Sie mögen es wohl als die unangenehmsten fünfzehn Minuten Ihres jungen Lebens in Erinnerung behalten."
+"Also sagen Sie, ich muss meine Fallen weniger offensichtlich stellen?" sagte Professor Quirrell. Er tippte sich mit einem Finger an die Wange, blickte nachdenklich drein. "Daran kann ich arbeiten."
 
-Harry schluckte. "Professor Quirrell," sagte er mit kleiner Stimme, "können wir das ein andermal tun?"
+Sie beide lachten.
 
-"Nein," sagte Professor Quirrell schlicht. "Es ist Ihr fünfter Schultag in Hogwarts und dies ist bereits passiert. Heute ist Freitag. Unser nächster Verteidigungs-Unterricht ist am Mittwoch. Samstag, Sonntag, Montag, Dienstag, Mittwoch... Nein, wir haben keine Zeit zu verlieren."
+"Doch um bei der Frage zu bleiben," sagte Professor Quirrell, "was haben all diese anderen Menschen für Sie getan?"
 
-Dem folgten ein paar Lacher, doch nur sehr wenige.
+"Andere Menschen haben sehr viel für mich getan!" sagte Harry. "Meine Eltern haben mich aufgenommen als meine Eltern starben, weil sie gute Menschen waren und wenn ich ein Dunkler Lord würde, verrate ich sie damit!"
 
-"Bitte verstehen Sie es als Anweisung Ihres Professors, Mr. Potter. Was ich gern sagen würde, ist dass ich Ihnen ansonsten keinerlei offensive Zauber beibringen werde, da mir dann zu Ohren käme, dass Sie jemanden schwer verletzt oder sogar getötet haben. Unglücklicherweise wurde mir zugetragen, dass Ihre Finger bereits mächtige Waffen sind. Schnipsen Sie damit zu keinem Zeitpunkt während dieser Lektion."
+Professor Quirrell war eine zeitlang still.
 
-Mehr verstreutes Gelächter, es klang ziemlich nervös.
+"Ich muss gestehen," sagte Professor Quirrell leise, "als ich in Ihrem Alter war, wäre mir dieser Gedanke niemals gekommen."
 
-Harry war zum Heulen zumute. "Professor Quirrell, wenn Sie irgendetwas in der Art tun, worüber Sie sprachen, wird mich das wieder wütend machen und ich würde heute lieber nicht noch einmal wütend werden -"
+"Tut mir leid," sagte Harry.
 
-"Es geht nicht darum zu vermeiden, wütend zu werden," sein Gesichtsausdruck ernst. "Wut ist natürlich. Sie müssen lernen, wie Sie verlieren, selbst wenn Sie wütend sind. Oder wenigstens vorzugeben, Sie würden verlieren, damit Sie Ihre Vergeltung planen können. Wie ich es heute mit Mr. Goyle getan habe, es sei denn jemand von Ihnen denkt, er ist wirklich besser -"
+"Muss es nicht," sagte Professor Quirrell. "Es war vor langer Zeit und ich habe meine familiären Probleme zu meiner Zufriedenheit gelöst. Also werden Sie zurückgehalten von dem Gedanken, ihre Eltern könnten enttäuscht sein? Bedeutet das, würden sie bei einem Unfall ums Leben kommen, gäbe es nichts mehr, das Sie davon abhielte -"
 
-"Ich nicht!" rief Mr. Goyle von seinem Pult aus, leichte Verzweiflung in der Stimme. "Ich weiß, dass Sie nicht wirklich verloren haben! Bitte schmieden Sie keine Rachepläne!"
+"Nein," sagte Harry. "Einfach nein. Es ist ihr guter Wille, der mich beschützt hat. Dieser Wille lebt nicht nur in meinen Eltern. Diese Einstellung ist es, die verraten würde."
 
-Harry hatte ein ungutes Gefühl im Magen. Professor Quirrell wusste nichts von seiner mysteriösen dunklen Seite. "Professor, wir müssen wirklich nach dem Unterricht darüber reden -"
+"Allerdings, Mr. Potter, haben Sie meine ursprüngliche Frage nicht beantwortet," sagte Professor Quirrell schließlich. "Was ist Ihr Ehrgeiz?"
 
-"Werden wir," sagte Professor Quirrell, sein Tonfall wie ein Versprechen. "Nachdem Sie lernen, wie man verliert." Sein Gesicht war ernst. "Es sollte selbstverständlich sein, dass ich alles ausschließen werde, das Sie verletzen oder Ihnen auch nur signifikante Schmerzen zufügen könnte. Der Schmerz wird aus der Schwierigkeit zu verlieren stammen, anstatt zurückzuschlagen und den Kampf eskalieren zu lassen, bis Sie gewinnen."
+"Oh," sagte Harry. "Ähm..." Er ordnete seine Gedanken. "Alles wichtige zu verstehen, was es über das Universum zu wissen gibt, dieses Wissen anzuwenden, um allmächtig zu werden und diese Macht zu nutzen, um die Realität neu zu schreiben, weil ich einiges dagegen einzuwenden habe, wie sie momentan funktioniert."
 
-Harrys Atem kam in kurzen, panischen Stößen. Er hatte noch mehr Angst als nach dem Verlassen des Zaubertränke-Klassenraums. "Professor Quirrell," brachte er heraus, "ich möchte nicht, dass Sie deshalb gefeuert werden -"
+Es gab eine kurze Pause.
 
-"Werde ich nicht," sagte Professor Quirrell, "wenn Sie hinterher berichten, dass es notwendig war. Und ich vertraue Ihnen, dies zu tun." Einen Moment lang wurde Professor Quirrells Stimme sehr trocken. "Glauben Sie mir, schlimmeres ist in den Korridoren toleriert worden. Dieser Fall wird sich nur dadurch unterscheiden, dass es in einem Klassenraum geschieht."
+"Vergeben Sie mir, wenn das eine dumme Frage ist, Mr. Potter," sagte Professor Quirrell, "doch sind Sie sicher, dass Sie nicht gerade gestanden haben, ein Dunkler Lord sein zu wollen?"
 
-"Professor Quirrell," flüsterte Harry, doch er nahm an, seine Stimme hallte trotzdem überall wieder, "glauben Sie wirklich, wenn ich das nicht tue, könnte ich jemanden verletzen?"
+"Nur dann, wenn man seine Macht für böses einsetzt," erklärte Harry. "Wenn man seine Macht für gutes einsetzt, ist man ein Lord des Lichts."
 
-"Ja," sagte Professor Quirrell schlicht.
+"Ich verstehe," sagte Professor Quirrell. Er tippte sich mit dem Finger an seine andere Wange. "Ich denke, damit kann ich arbeiten. Aber, Mr. Potter, während das Ausmaß Ihres Ehrgeizes Salazars selbst würdig wäre, wie genau beabsichtigen Sie dabei vorzugehen? Ist Schritt eins ein großer kämpfender Zauberer zu werden oder Oberhaupt der Unsäglichen** oder Zaubereiminister oder -"
 
-"Dann," Harry fühlte sich elend, "werde ich es tun."
+"Schritt eins ist, ein Wissenschaftler zu werden."
 
-Professor Quirrell wand sich zu den Slytherins um. "Also... mit der vollen Zustimmung Ihres Lehrers und auf eine Weise, dass Snape nicht für Ihre Handlungen verantwortlich gemacht werden kann... wünscht irgendeiner von Ihnen, dem Jungen-der-überlebt-hat seine Dominanz zu zeigen? Ihn herum zu schubsen, zu Boden zu stoßen, um Gnade bitten zu hören?"
+Professor Quirrell sah Harry an, als habe er sich gerade in eine Katze verwandelt.
 
-Fünf Hände hoben sich.
+"Ein Wissenschaftler," sagte Professor Quirrell nach einer Weile.
 
-"Alle die die Hände erhoben haben, Sie sind absolute Idioten. Welchen Teil von vorgeben zu verlieren haben Sie nicht verstanden? Wenn Harry Potter der nächste Dunkle Lord wird, wird er Sie aufspüren und töten, nachdem er seinen Abschluss macht."
+Harry nickte.
 
-Die fünf Hände fielen abrupt zurück auf ihre Pulte.
+"Ein Wissenschaftler?" wiederholte Professor Quirrell.
 
-"Werde ich nicht," sagte Harry, seine Stimme ziemlich schwächlich. "Ich schwöre niemals Rache zu nehmen an denen, die mir helfen zu lernen wie man verliert. Professor Quirrell... würden Sie bitte... damit aufhören?"
+"Ja," sagte Harry. "Ich werde meine Ziele erreichen, durch die Macht... der Wissenschaft!"
 
-Professor Quirrell seufzte. "Es tut mir leid, Mr. Potter. Mir ist klar, dass Sie dies in gleichem Maße ärgerlich finden müssen, ob Sie nun beabsichtigen der nächste Dunkle Lord zu werden oder nicht. Doch diese Kinder hatten ebenfalls eine wichtige Lebenslektion zu lernen. Wäre es akzeptabel, Ihnen als Entschuldigung einen Quirrell-Punkt zu verleihen?"
+"Ein Wissenschaftler!" sagte Professor Quirrell. Unverfälschte Empörung lag auf seinem Gesicht und seine Stimme war lauter und schärfer geworden. "Sie könnten der beste von all meinen Schülern sein! Der größte kämpfende Zauberer, den Hogwarts seit fünf Jahrzehnten hervorbringt! Ich kann mir nicht vorstellen, wie Sie Ihre Zeit damit verschwenden, in einem weißen Laborkittel unsinnige Dinge mit Ratten anzustellen!"
 
-"Machen Sie zwei daraus," sagte Harry.
+"Hey!" sagte Harry. "An Wissenschaft ist mehr dran als das! Nicht das an Experimenten mit Ratten irgendwas falsch ist, natürlich. Aber Wissenschaft verrät einem, wie man das Universum verstehen und kontrollieren kann -"
 
-Ein Ausbruch überraschten Gelächters erklang, entschärfte etwas die Anspannung.
+"Narr!" sagte Professor Quirrell, mit stiller, bitterer Intensität in der Stimme. "Sie sind ein Narr, Harry Potter." Er strich sich mit einer Hand über das Gesicht und als die Hand vorbei gezogen war, schien er gefasster. "Oder eher, Sie haben noch nicht Ihren wahren Ehrgeiz gefunden. Darf ich dringend empfehlen, dass Sie stattdessen versuchen, ein Dunkler Lord zu werden? Im Interesse der Allgemeinheit werde ich tun, was ich kann, um zu helfen."
 
-"So sei es," sagte Professor Quirrell.
+"Sie mögen Wissenschaft nicht," sagte Harry langsam. "Warum nicht?"
 
-"Und nachdem ich meinen Abschluss habe, werde ich Sie aufspüren und durchkitzeln."
+"Diese törichten Muggel werden uns eines Tages noch alle töten!" Professor Quirrells Stimme war lauter geworden. "Sie werden es vernichten! Werden alles vernichten!"
 
-Es gab noch mehr Gelächter, obwohl Professor Quirrell nicht lächelte.
+Harry fühlte sich gerade etwas verloren. "Wovon sprechen wir hier, Atomwaffen?"
 
-Harry fühlte sich als ränge er mit einer Anakonda bei dem Versuch die Unterhaltung durch das Nadelöhr zu zwingen, bei dem die Leute erkannten, dass er doch kein Dunkler Lord war... warum hatte Professor Quirrell ihn nur so im Verdacht?"
+"Ja, Atomwaffen!" Professor Quirrell schrie jetzt beinahe. "Selbst Er-dessen-Name-nicht-genannt-werden-darf hat sie niemals eingesetzt, vielleicht weil er nicht über einen Haufen Asche regieren wollte! Es hätte sie niemals geben dürfen! Und es wird mit der Zeit nur schlimmer!" Professor Quirrell stand jetzt aufrecht da, anstatt sich gegen seinen Schreibtisch zu lehnen. "Es gibt Tore die man nicht öffnet, Siegel die man nicht bricht! Die Narren, die nicht widerstehen können, damit herum zu pfuschen, werden von geringeren Gefahren frühzeitig hinweg gerafft und jeder Überlebende weiß, dass es Geheimnisse gibt, die man mit niemandem teilt, der nicht die Intelligenz und Disziplin besitzt, sie selbst zu entdecken! Jeder mächtige Zauberer weiß das! Selbst die schrecklichsten Dunklen Zauberer wissen das! Und diese törichten Muggel scheinen es einfach nicht zu begreifen! Die eifrigen kleinen Narren, die das Geheimnis der Atomwaffen entdeckten, behielten es nicht für sich, sie erzählten es ihren Narren von Politikern und nun müssen wir unter der ständigen Bedrohung der Auslöschung leben!"
 
-"Professor," sagte Dracos unverstärkte Stimme. "Auch mein Ehrgeiz ist es nicht, ein dummer Dunkler Lord zu werden."
+Das war ein ganz anderer Blickwinkel auf die Dinge, als der mit dem Harry aufgewachsen war. Es war ihm nie in den Sinn gekommen, dass Atomphysiker eine Verschwörung des Stillschweigens hätten bilden sollen, um das Geheimnis der Atomwaffen vor allen zu bewahren, die nicht klug genug waren, Atomphysiker zu sein. Der Gedanke war auf jeden Fall faszinierend. Hätten sie geheime Passwörter gehabt? Hätten sie Masken getragen?
 
-Schockierte Stille breitete sich im Klassenraum aus.
+(Wenn er darüber nachdachte, soweit Harry wusste, mochte es alle möglichen unglaublich zerstörerischen Geheimnisse geben, die Physiker für sich behielten und das Geheimnis der Atomwaffen war das einzige, das ihnen entglitten war. Die Welt wäre nicht davon zu unterscheiden.)
 
-Du musst das nicht tun! platzte Harry beinahe laut heraus, hielt sich jedoch rechtzeitig zurück; Draco wollte vielleicht nicht bekannt werden lassen, dass er das aus Freundschaft zu Harry tat... oder aus dem Wunsch heraus, freundlich zu erscheinen...
+"Ich werde darüber nachdenken müssen," sagte Harry zu Professor Quirrell. "Das ist eine neue Idee für mich. Und eines der verborgenen Geheimnisse der Wissenschaft, von ein paar wenigen Lehrern an ihre Studenten weitergegeben, ist das Wissen, wie man neue Ideen nicht sofort die Toilette hinunter spült, sobald man eine hört, die einem nicht gefällt."
 
-Das als den Wunsch zu bezeichnen, freundlich zu erscheinen, ließ Harry sich klein und gemein fühlen. Wenn Draco beabsichtigt hatte ihn zu beeindrucken, funktionierte es perfekt.
+Professor Quirrell blinzelte erneut.
 
-Professor Quirrell betrachtete Draco ernsthaft. "Sie sorgen sich, Sie könnten nicht vorgeben zu verlieren, Mr. Malfoy? Dass der Makel, der Mr. Potter betrifft auch Ihnen zu eigen ist? Sicherlich hat Ihr Vater Sie besseres gelehrt."
+"Gibt es irgendeine Art von Wissenschaft, die Ihnen zusagt?" sagte Harry. "Medizin, vielleicht?"
 
-"Wenn es um Worte geht, vielleicht," sagte Draco, jetzt auf dem Verstärker-Bildschirm. "Nicht wenn es darum geht, herumgeschubst und zu Boden gestoßen zu werden. Ich möchte genauso stark wie Sie sein, Professor Quirrell."
+"Die Raumfahrt," sagte Professor Quirrell. "Doch die Muggel scheinen das eine Projekt schleifen zu lassen, dass der Zaubererschaft vielleicht erlaubt hätte, diesem Planeten zu entkommen, bevor sie ihn in die Luft jagen."
 
-Professor Quirrells Augenbrauen hoben sich und blieben oben. "Ich fürchte, Mr. Malfoy," sagte er nach einiger Zeit, "dass die Arrangements die ich für Mr. Potter getroffen habe, einschließlich mehrerer älterer Slytherins, die anschließend erfahren werden, wie dumm sie waren, auf Sie nicht den gleichen Effekt hätten. Doch es ist meine professionelle Einschätzung, dass Sie bereits sehr stark sind. Sollte mir zu Ohren kommen, dass Sie versagt haben, wie Mr. Potter heute versagt hat, werde ich die angemessenen Arrangements treffen und mich bei Ihnen und wen auch immer Sie verletzt haben, entschuldigen. Ich denke allerdings nicht, dass dies notwendig sein wird."
+Harry nickte. "Ich bin auch ein großer Fan des Weltraum-Programms. Immerhin so viel haben wir gemeinsam."
 
-"Ich verstehe, Professor," sagte Draco.
+Professor Quirrell sah Harry an. Etwas glänzte in den Augen des Professors. "Ich muss Ihr Wort, Ihr Versprechen und Ihren Eid haben, niemals über das zu sprechen, was folgt."
 
-Professor Quirrell ließ den Blick über die Klasse schweifen. "Wünscht sonst noch jemand, stark zu werden?"
+"Haben Sie," sagte Harry sofort.
 
-Einige Schüler blickten sich nervös um. Manche, so wirkte es von seiner hinteren Reihe aus auf Harry, sahen aus als öffneten sie den Mund, sagten aber nichts. Am Ende sprach niemand.
+"Halten Sie sich an Ihren Eid oder die Konsequenzen werden Ihnen nicht gefallen," sagte Professor Quirrell. "Ich werde nun einen seltenen und mächtigen Zauber wirken, nicht auf Sie, sondern auf den Klassenraum, der uns umgibt. Stehen Sie still, damit Sie die Grenzen des Zaubers nicht berühren, sobald er in Kraft ist. Sie dürfen nicht mit der Magie interagieren, die von mir aufrechterhalten wird. Sehen Sie nur zu. Ansonsten beende ich den Zauber." Professor Quirrell hielt inne. "Und versuchen Sie, nicht zu stürzen."
 
-"Draco Malfoy wird einer der Generäle der Armeen Ihres Jahrgangs sein," sagte Professor Quirrell, "sollte er geneigt sein, sich an dieser außerschulischen Aktivität zu beteiligen. Und nun, Mr. Potter, bitte treten Sie vor."
+Harry nickte, verwirrt und erwartungsvoll.
 
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-Ja, hatte Professor Quirrell gesagt, es muss hier vor allen sein, vor Ihren Freunden, denn dort hat Snape Sie konfrontiert und dort müssen Sie lernen zu verlieren.
+Professor Quirrell hob seinen Zauberstab und sagte etwas, dass Harrys Ohren und Geist in keiner Weise erfassen konnten, Worte die am Bewusstsein vorbei in die Vergessenheit entschwanden.
 
-Nun sah also das erste Schuljahr zu. In magisch erzwungener Stille und sowohl von Harry als auch dem Professor gebeten, nicht einzugreifen. Hermine hatte ihr Gesicht abgewandt, doch sie hatte sich nicht geäußert oder ihm gar einen bedeutungsvollen Blick zugeworfen, vielleicht weil sie in Zaubertränke ebenfalls anwesend gewesen war.
+Der Marmor in einem kleinen Kreis um Harrys Füße blieb unverändert. All der restliche Marmor des Bodens verschwand, die Mauern und Decke verschwanden.
 
-Harry stand auf einer weichen blauen Matte, wie man sie in einem Muggel-Dojo finden mochte, die Professor Quirrell dafür auf dem Boden ausgelegt hatte, wenn Harry zu niedergestoßen wurde.
+Harry stand in einem kleinen Kreis aus weißem Marmor mitten in einem endlosen Feld von Sternen, sie brannten furchtbar hell und ohne zu funkeln. Es gab keine Erde, keinen Mond, keine Sonne, die Harry erkannte. Professor Quirrell stand am selben Ort wie zuvor, schwebte inmitten des Sternenmeeres. Die Milchstraße war bereits sichtbar als ein großes Band aus Licht und sie wurde heller, als Harrys Sicht sich der Dunkelheit anpasste.
 
-Harry hatte Angst davor, was er tun könnte. Wenn Professor Quirrell mit seinem Killerinstinkt recht hatte...
+Der Anblick hielt Harrys Herz umklammert, wie nichts was er jemals zuvor gesehen hatte.
 
-Harrys Zauberstab lag auf Professor Quirrells Schreibtisch, nicht weil Harry irgendwelche Zauber gekannt hätte um sich zu schützen, sondern weil er ihn andererseits (dachte Harry) vielleicht in jemandes Augenhöhle zu stechen versucht hätte. Sein Beutel lag auch dort, der jetzt seinen zwar geschützten doch immer noch potentiell zerbrechlichen Zeitumkehrer enthielt.
+"Sind wir... im All...?
 
-Harry hatte Professor Quirrell gebeten, ihm ein paar Boxhandschuhe zu transfigurieren und an seinen Händen zu befestigen. Professor Quirrell hatte ihn mit einem Blick stillen Verstehens bedacht und abgelehnt.
+"Nein," sagte Professor Quirrell. Seine Stimme klang traurig und andächtig. "Doch es ist ein wahrhaftiges Abbild."
 
-Ich werde ihnen nicht die Augen auskratzen, ich werde ihnen nicht die Augen auskratzen, ich werde ihnen nicht die Augen auskratzen, mein Leben in Hogwarts wäre zu Ende, ich werde eingesperrt, sang Harry zu sich selbst, versuchte sich den Gedanken ins Hirn zu hämmern, in der Hoffnung er würde bleiben, wenn sein Killerinstinkt übernahm.
+Tränen stiegen Harry in die Augen. Er wischte sie energisch hin fort, er würde das nicht verpassen, weil ein bisschen dummes Wasser seine Sicht verschwimmen ließ.
 
-Professor Quirrell kehrte zurück, in Begleitung dreizehn älterer Slytherins aus verschiedenen Jahrgängen. Harry erkannte einen von ihnen als denjenigen, den er mit einem Kuchen getroffen hatte. Zwei andere von dieser Auseinandersetzung waren ebenfalls anwesend. Derjenige, der gesagt hatte, sie sollten aufhören, dass sie das wirklich nicht tun sollten, fehlte.
+Die Sterne waren nicht länger kleine Juwelen, eingefasst in eine gigantische samtene Kuppel, wie am Nachthimmel der Erde. Hier gab es kein Himmelszelt über ihnen, keine Sphäre, die sie umgab. Nur Punkte vollkommenen Lichtes, die sich abhoben gegen die vollkommene Schwärze, eine endlose Leere durchsetzt mit zahllosen kleinen Öffnungen, durch die der Glanz aus einem unvorstellbaren jenseitigen Reich erstrahlte.
 
-"Ich wiederhole," sagte Professor Quirrell und klang sehr streng, "Potter darf nicht tatsächlich verletzt werden. Jeder einzelne Unfall wird als vorsätzlich behandelt. Haben Sie verstanden?"
+Im Weltall erschienen die Sterne furchtbar, furchtbar, furchtbar weit entfernt.
 
-Die älteren Slytherins nickten, grinsend.
+Harry wischte sich die Augen, immer wieder und wieder.
 
-"Dann dürfen Sie nun gern den Jungen-der-überlebt-hat ein wenig zurechtstutzen," sagte Professor Quirrell mit einem schiefen Lächeln, das nur die Erstklässler verstanden.
+"Manchmal," sagte Professor Quirrell, mit einer Stimme so leise, sie war fast nicht zu vernehmen, "wenn diese unvollkommene Welt mir ungewöhnlich hassenswert erscheint, frage ich mich, ob es nicht einen anderen, weit entfernten Ort geben mag, an dem ich hätte sein sollen. Ich kann mir nicht vorstellen, wie dieser Ort wohl sein mag und kann ich ihn mir nicht einmal vorstellen, wie kann ich glauben, dass er existiert? Und doch ist das Universum so unglaublich, unglaublich weit und vielleicht existiert er dennoch? Doch die Sterne sind so weit, weit entfernt. Es würde eine lange, lange Zeit dauern, dorthin zu gelangen, selbst wenn ich wüsste wie. Und ich frage mich, was ich wohl träumen würde, wenn ich für eine lange, lange Zeit schliefe..."
 
-Durch eine Art stille Übereinkunft befand sich das Kuchen-Opfer an der Spitze der Gruppe.
+Obwohl es ihm wie ein Sakrileg vor kam, brachte Harry ein Flüstern zustande. "Bitte lassen Sie mich eine Weile hier bleiben."
 
-"Potter," sagte Professor Quirrell, "das ist Mr. Peregrine Derrick. Er ist besser als Sie und das wird er Ihnen gleich zeigen."
+Professor Quirrell nickte, frei schwebend zwischen den Sternen.
 
-Derrick trat vor und Harrys Gehirn schrie disharmonisch, er durfte nicht wegrennen, er durfte nicht zurückschlagen -
+Es war leicht, den kleinen Kreis aus Marmor zu vergessen, auf dem man stand, den eigenen Körper und zu einem Pünktchen aus Bewusstsein zu werden, das vielleicht ruhte oder sich vielleicht auch bewegte. Mit allen Entfernungen unberechenbar, gab es keinen Weg das zu sagen.
 
-Derrick stoppte eine Armlänge von Harry entfernt.
+Es gab eine Zeit ohne Zeit.
 
-Harry war noch nicht zornig, nur angsterfüllt. Und das hieß, er sah sich einem Teenager gegenüber, einen vollen halben Meter größer als er, mit sichtbar definierten Muskeln, Gesichtsbehaarung und einem Grinsen voll schrecklicher Vorfreude.
+Und dann verschwanden die Sterne und der Klassenraum kehrte zurück.
 
-"Bitten Sie ihn, Ihnen nicht weh zu tun," sagte Professor Quirrell. "Vielleicht, wenn er sieht dass Sie erbärmlich genug sind, findet er Sie langweilig und verschwindet."
+"Es tut mir leid," sagte Professor Quirrell, "doch wir bekommen Gesellschaft."
 
-Gelächter erklang von den zuschauenden älteren Slytherins.
+"Ist schon in Ordnung," flüsterte Harry. "Es war genug." Er würde diesen Tag niemals vergessen und nicht wegen der unbedeutenden Dinge, die zuvor geschehen waren. Er würde lernen, diesen Zauber zu wirken und wenn es das letzte war, das er jemals lernte.
 
-"Bitte," sagte Harry, seine Stimme versagte, "tu, mir, nicht, weh..."
+Dann wurden die schweren Eichentüren des Klassenzimmers aus ihrer Verankerung gesprengt und schlitterten mit einem hohen Kreischen über den Marmorboden.
 
-"Das klang nicht sehr überzeugend," sagte Professor Quirrell.
+"QUIRINUS! WIE KÖNNEN SIE ES WAGEN!"
 
-Derricks Grinsen wurde breiter. Der ungehobelte Schwachkopf blickte sehr überlegen drein und...
+Ein uralter und mächtiger Zauberer stürmte in den Raum wie eine enorme Gewitterwolke, einen Ausdruck so weißglühenden Zorns auf seinem Gesicht, dass der strenge Blick, den er Harry zuvor zugeworfen hatte, dagegen verblasste wie nichts.
 
-...Harrys Blut-Temperatur fiel...
+Harrys Geist wurde von Desorientierung ergriffen, als der Teil von ihm, der schreiend vor dem erschreckendsten was er je gesehen hatte davonlaufen wollte und dabei einen Teil von ihm im Kreis herumwirbelte, der dem Schock standhielt.
 
-"Bitte tu mir nicht weh," versuchte es Harry erneut.
+Keine von Harrys Facetten war glücklich über die Unterbrechung ihrer Sternenschau. "Schulleiter Albus Percival -" setzte Harry in eisigem Ton an.
 
-Professor Quirrell schüttelte den Kopf. "Wie in Merlins Namen konnten Sie das wie eine Beleidigung klingen lassen, Potter? Es gibt nur eine Antwort, die Sie von Mr. Derrick darauf zu erwarten haben."
+WAMM. Professor Quirrells Hand fuhr schwer auf den Schreibtisch nieder. "Mr. Potter! bellte Professor Quirrell. "Dies ist der Schulleiter von Hogwarts und Sie sind nur ein Schüler! Sie werden ihn angemessen anreden!"
 
-Derrick schritt absichtlich nach vorn und stieß mit Harry zusammen.
+Harry blickte Professor Quirrell an.
 
-Harry stolperte ein paar Fuß zurück, bevor er sich fangen konnte und richtete sich eisig auf.
+Professor Quirrell warf Harry einen strengen Blick zu.
 
-"Falsch," sagte Professor Quirrell, "falsch, falsch, falsch."
+Keiner von ihnen lächelte.
 
-"Du hast mich angerempelt, Potter," sagte Derrick. "Entschuldige dich."
+Dumbledores ausgreifende Schritte waren vor Harrys Position vor dem Podest zum Stillstand gekommen und Professor Quirrell stand bei seinem Schreibtisch. Der Schulleiter starrte sie beide schockiert an.
 
-"Tut mir leid!"
+"Es tut mir leid," sagte Harry in unterwürfig höflichem Ton. "Schulleiter, danke dass Sie mich schützen wollten, doch Professor Quirrell hat das richtige getan."
 
-"Du klingst nicht, als ob es dir leid tut," sagte Derrick.
+Langsam wandelte sich Dumbledores Gesichtsausdruck von etwas, dass Stahl hätte verdampfen lassen zu einfach nur zornig. "Ich hörte Schüler erzählen, dass dieser Mann dich von älteren Slytherins missbrauchen ließ! Dass er dir verboten hat, dich zu verteidigen!"
 
-Harrys Augen wurden weit vor Empörung, er hatte das flehentlich klingen lassen -
+Harry nickte. "Er wusste genau, was mit mir nicht stimmte und zeigte mir, wie es zu beheben war."
 
-Derrick stieß ihn, hart und Harry fiel mit Händen und Knien auf die Matte.
+"Harry, wovon sprichst du da?"
 
-Der blaue Stoff schien in Harrys Blick zu verschwimmen, nicht weit entfernt.
+"Ich brachte ihm bei, wie man verliert," sagte Professor Quirrell trocken. "Eine wichtige Fähigkeit im Leben."
 
-Er begann Professor Quirrells Motive für diese sogenannte Lektion anzuzweifeln.
+Es war offensichtlich, dass Dumbledore noch immer nicht verstand, doch er hatte seine Stimme gesenkt. "Harry..." sagte er langsam. "Wenn der Verteidigungs-Professor dich irgendwie bedroht hat, damit du nichts sagst -"
 
-Ein Fuß lastete auf Harrys Hinterteil und einen Moment später wurde Harry hart zur Seite gestoßen und fiel der Länge nach auf den Rücken.
+Sie Schwachkopf, ausgerechnet nach dem heutigen Tag, glauben Sie wirklich, ich -
 
-Derrick lachte. "Das macht Spaß," sagte er.
+"Schulleiter," sagte Harry und versuchte verlegen auszusehen, "was mit mir nicht stimmt, ist nicht dass ich bei missbräuchliches Verhalten von Professoren dulden würde."
 
-Er musste nur sagen, dass es vorbei war. Und die ganze Sache dem Büro des Schulleiters melden. Das wäre das Ende dieses Verteidigungs-Professors und seines unglückseligen Aufenthalts in Hogwarts und... Professor McGonagall wäre wütend darüber, aber...
+Professor Quirrell gluckste. "Nicht perfekt, Mr. Potter, aber gut genug für Ihren ersten Tag. Schulleiter, sind Sie lange genug geblieben, um von den einundfünfzig Punkten für Ravenclaw zu hören oder sind Sie herausgestürmt sobald Sie den ersten Teil gehört hatten?"
 
-(Ein Bild von Professor McGonagalls Gesicht blitzte vor seinem geistigen Auge auf, sie sah nicht wütend aus, nur traurig -)
+Ein kurzer Ausdruck der Verwirrung kreuzte Dumbledores Gesicht, gefolgt von Überraschung. "Einundfünfzig Punkte für Ravenclaw?"
 
-"Jetzt sagen Sie ihm, dass er besser ist als Sie, Potter," sagte Professor Quirrells Stimme.
+Professor Quirrell nickte. "Er hat sie nicht erwartet, doch es schien angemessen. Sagen Sie Professor McGonagall, dass ich glaube, die Geschichte darüber, was Mr. Potter durchmachen musste, um die verlorenen Punkte zurück zu verdienen, sollte auch ihrem Standpunkt genüge tun. Nein, Schulleiter, Mr. Potter hat mir nichts gesagt. Es ist leicht zu erkennen welcher Teil der heutigen Ereignisse auf sie zurückgeht, so wie auch dass der finale Kompromiss Ihr eigener Vorschlag war. Obwohl ich mich frage, wie in aller Welt Mr. Potter die Oberhand sowohl über Snape als auch Sie gewinnen konnte und dann Professor McGonagall über ihn."
 
-"Du bist, besser, als ich."
+Irgendwie schaffte Harry es, seinen Gesichtsausdruck unter Kontrolle zu halten. War es für einen wahren Slytherin so offensichtlich?
 
-Harry wollte sich erheben und Derrick setzte einen Fuß auf seine Brust und stieß ihn zurück auf die Matte.
+Dumbledore näherte sich Harry, betrachtete ihn prüfend. "Deine Gesichtsfarbe sieht etwas seltsam aus, Harry," sagte der alte Zauberer. Er blickte Harry direkt ins Gesicht. "Was hattest du heute zum Mittag?"
 
-Die Welt wurde kristallklar. Mögliche Handlungsverläufe und deren Konsequenzen breiteten sich in vollkommener Schärfe vor ihm aus. Der Narr würde nicht erwarten, dass er zurückschlug, ein schneller Treffer in die Leistengegend würde ihn lange genug außer Gefecht setzen um -
+"Was?" sagte Harry, sein Geist kam ins Taumeln vor plötzlicher Verwirrung. Warum würde Dumbledore nach durchgebratenem Lamm und dünn-geschnittenem Brokkoli fragen, wenn das so ungefähr der unwahrscheinlichste Grund war für -
 
-"Versuchen Sie es erneut," sagte Professor Quirrell und mit einer plötzlichen schnellen Bewegung rollte Harry herum und sprang auf die Füße und wirbelte herum, dorthin wo sein wahrer Feind stand, der Verteidigungs-Professor -
+Der alte Zauberer richtete sich auf. "Nun, schon gut. Ich denke, du bist in Ordnung."
 
-Professor Quirrell sagte, "Sie haben keine Geduld."
+Professor Quirrell hustete, laut und vernehmlich. Harry blickte den Professor an und sah, dass er Dumbledore scharf anstarrte.
 
-Harry zögerte. Sein Geist, gut trainiert in der Kunst des Pessimismus, zeichnete ihm das Bild eines verwelkten alten Mannes dem Blut aus seinem Mund lief, nachdem Harry seine Zunge herausgerissen hatte -
+"Äh-hem!" sagte Professor Quirrell erneut.
 
-Einen Augenblick später schickte Derrick Harry erneut auf die Matte und ließ sich dann auf ihm nieder, wodurch Harrys Atem keuchend entwich.
+Dumbledore und Professor Quirrell verschränkten die Blicke und etwas schien zwischen ihnen abzulaufen.
 
-"Stop!" schrie Harry. "Bitte hör auf!"
+"Wenn Sie es ihm nicht sagen," sagte Professor Quirrell dann, "werde ich es, selbst wenn Sie mich dafür feuern."
 
-"Besser," sagte Professor Quirrell. "Das klang sogar aufrichtig."
+Dumbledore seufzte und wand sich wieder Harry zu. "Ich entschuldige mich, Ihre geistige Privatsphäre verletzt zu haben, Mr. Potter," sagte der Schulleiter formell. "Ich hatte nur die Absicht herauszufinden, ob Professor Quirrell dasselbe getan hatte."
 
-Das war es gewesen. Das war das Schreckliche, das Üble, es war aufrichtig gewesen. Harry atmete schnell und stoßweise, Angst und kalter Zorn durchströmten ihn -
+Was?
 
-"Verlieren Sie," sagte Professor Quirrell.
+Die Verwirrung hielt genauso lange an, wie Harry brauchte um zu begreifen, was gerade geschehen war.
 
-"Ich, verliere," presste Harry hervor.
+"Sie - !"
 
-"Das gefällt mir," sagte Derrick auf ihm drauf. "Verlier noch weiter."
+"Sachte, Mr. Potter," sagte Professor Quirrell. Sein Gesicht jedoch war hart als er Dumbledore anstarrte.
 
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-Hände schoben Harry, stießen ihn stolpernd ihm Kreis der älteren Slytherins zu einem weiteren paar Hände, die ihn erneut schubsten. Harry hatte den Punkt, an dem er versucht hatte nicht zu weinen längst hinter sich gelassen und versuchte jetzt nur noch, nicht zu Boden zu stürzen.
+"Legilimentik wird manchmal mit gesundem Menschenverstand verwechselt," sagte der Schulleiter. "Doch sie hinterlässt Spuren, die ein anderer fähiger Legilimentor aufspüren kann. Nur danach habe ich gesucht, Mr. Potter und ich stellte Ihnen eine irrelevante Frage, um sicherzustellen, dass Sie während dessen nicht an irgendetwas wichtiges denken."
 
-"Was bist du, Potter?" sagte Derrick.
+"Sie hätten zuerst fragen sollen!"
 
-"Ein, V-Verlierer, ich verliere, du gewinnst, du bist besser, als ich, bitte hör auf -"
+Professor Quirrell schüttelte den Kopf. "Nein, Mr. Potter, der Schulleiter hatte einige Berechtigung für seine Besorgnis und hätte er um Erlaubnis gebeten, hätten Sie an genau jene Dinge gedacht, die Sie ihn nicht sehen zu lassen wünschen." Professor Quirrells Stimme wurde schärfer. "Viel eher besorgt mich, Schulleiter, dass Sie es nicht für nötig hielten, ihn hinterher darüber aufzuklären!"
 
-Harry stolperte über einen Fuß und ging krachend zu Boden, konnte sich mit den Händen nicht ganz anfangen. Er war einen Moment lang benommen, dann kam er mühsam wieder auf die Füße -
+"Sie haben es damit schwieriger gemacht, seine geistige Privatsphäre bei zukünftigen Anlässen sicherzustellen," sagte Dumbledore. Er bedachte Professor Quirrell mit einem kalten Blick. "War das Ihre Absicht, frage ich mich?"
 
-"Genug!" sagte Professor Quirrells Stimme, klang scharf genug, um Eisen zu schneiden. "Entfernen Sie sich von Mr. Potter!"
+Professor Quirrells Gesichtsausdruck war unerbittlich. "Es gibt zu viele Legilimentoren in dieser Schule. Ich bestehe darauf, dass Mr. Potter in Okklumentik unterwiesen wird. Werden Sie mir gestatten, sein Privatlehrer zu sein?"
 
-Harry sah den überraschten Ausdruck auf ihren Gesichtern. Die Kälte in Harrys Blut, die ihn durchflutete und wieder abgeebbt war, lächelte mit kalter Genugtuung.
+"Auf gar keinen Fall," sagte Dumbledore ohne zu zögern.
 
-Dann brach Harry auf der Matte zusammen.
+"Hatte ich auch nicht angenommen. Nun, da Sie ihn meiner kostenfreien Dienste beraubt haben, werden Sie für Mr. Potters Privatunterricht durch einen lizenzierten Okklumentik-Lehrer aufkommen."
 
-Professor Quirrell sprach. Man hörte die älteren Slytherins nach Luft schnappen.
+"Solche Dienste sind nicht billig," sagte Dumbledore und sah Professor Quirrell mit einiger Überraschung an. "Obwohl ich bestimmte Beziehungen habe -"
 
-"Und ich glaube der Spross von Malfoy hat Ihnen ebenfalls etwas zu sagen," endete Professor Quirrell.
+Professor Quirrell schüttelte entschieden den Kopf. "Mr. Potter wird seinen Kontoverwalter in Gringotts bitten, einen neutralen Lehrer zu empfehlen. Bei allem Respekt, Schulleiter Dumbledore, nach den Geschehnissen dieses Morgens muss ich dagegen protestieren, dass Sie oder Ihre Freunde Zugang zu Mr. Potters Geist erhalten. Ich muss weiterhin darauf bestehen, dass der Lehrer einen Unbrechbaren Schwur ablegt, nichts zu enthüllen und dass er einem Vergessenszauber nach jeder Sitzung zustimmt."
 
-Dracos Stimme begann zu sprechen. Sie klang beinahe so scharf wie die von Professor Quirrell, sie hatte den selben Tonfall amgenommen, den Draco benutzt hatte, um seinen Vater zu imitieren und sie sagte Dinge wie hätte das Haus Slytherin in Gefahr bringen können und wer weiß wie viele Verbündete allein in dieser Schule und überhaupt kein Bewusstsein für irgendwas, von Gerissenheit ganz zu schweigen und stumpfsinnige Schläger, zu nichts als Lakaien zu gebrauchen und irgendwas in Harrys Hinterkopf stempelte Draco, gegen alles was er wusste, als Verbündeten ab.
+Dumbledore runzelte die Stirn. "Solche Dienste sind extrem teuer, wie Sie sehr wohl wissen und ich kann mich nur wundern, warum Sie sie für notwendig erachten."
 
-Harry tat alles weh, er hatte wahrscheinlich Prellungen, sein Körper fühlte sich kalt an, sein Geist völlig erschöpft. Er versuchte an Fawkes Lied zu denken, doch ohne die Gegenwart des Phoenix konnte er sich nicht an die Melodie erinnern und versuchte er, sie sich vorzustellen, wollte ihm nichts außer einem Vogelzwitschern in den Sinn kommen.
+"Wenn Geld das Problem ist," meldete sich Harry zu Wort, "habe ich da ein paar Ideen, um schnell große Mengen Geld zu machen -"
 
-Dann hörte Draco auf zu sprechen und Professor Quirrell sagte den älteren Slytherins, sie seien entlassen und Harry öffnete die Augen und mühte sich, sich aufzusetzen, "Warten Sie," sagte Harry, presste die Worte hervor, "es gibt etwas, dass ich, ihnen sagen, will -"
+"Danke Quirinus, Ihre Weisheit ist nun sehr offenkundig und es tut mir leid, sie in Zweifel gezogen zu haben. Ihre Sorge um Harry Potter spricht ebenfalls für Sie."
 
-"Warten Sie auf Mr. Potter," sagte Professor Quirrell kalt zu den sich entfernenden Slytherins.
+"Schon gut," sagte Professor Quirrell. "Ich hoffe Sie haben nichts dagegen einzuwenden, wenn ich ihm weiterhin meine besondere Aufmerksamkeit widme." Professor Quirrells Gesicht war jetzt sehr ernst und gefasst.
 
-Harry kam schwankend auf die Füße. Er blickte sorgsam nicht in Richtung seiner Klassenkameraden. Er wollte nicht sehen, wie sie ihn jetzt gerade ansahen. Er wollte ihr Mitleid nicht sehen.
+Dumbledore blickte zu Harry.
 
-Also blickte Harry stattdessen zu den älteren Slytherins, die sich immer noch in einem Schockzustand zu befinden schienen. Grauen zeichnete sich auf ihren Gesichtern ab.
+"Es ist auch mein Wunsch," sagte Harry.
 
-Seine dunkle Seite hatte sich, als sie die Kontrolle hatte, an der Vorstellung dieses Augenblicks festgehalten und gab weiter vor, zu verlieren.
-Harry sagte, "Niemand wird -"
+"So soll es also sein..." sagte der alte Zauberer langsam. Etwas seltsames strich über sein Gesicht. "Harry... dir muss klar sein, wenn du diesen Mann als deinen Lehrer und Freund, deinen ersten Mentor wählst, dann wirst du ihn auf die eine oder andere Weise verlieren und die Art, wie du ihn verlierst, mag dir vielleicht nicht gestatten, ihn jemals wieder zu bekommen."
 
-"Stop," sagte Professor Quirrell. "Wenn das ist, was ich denke, warten Sie bitte bis nachdem sie verschwunden sind. Sie werden später davon hören. Wir haben alle unsere Lektionen zu lernen, Mr. Potter."
+Das war Harry nicht in den Sinn gekommen. Doch da war dieser Fluch auf der Verteidigungs-Stelle... der offenbar jahrzehntelang mit perfekter Regelmäßigkeit funktioniert hatte...
 
-"Einverstanden," sagte Harry.
+"Wahrscheinlich," sagte Professor Quirrell leise, "doch bis dahin wird er in vollem Umfang von mir profitieren können."
 
-"Sie. Gehen Sie."
+Dumbledore seufzte. "Ich nehme an immerhin ist es wirtschaftlich, da Sie als Verteidigungs-Professor ohnehin schon auf unbekannte Art verdammt sind."
 
-Die älteren Slytherins flohen und die Tür schloss sich hinter ihnen.
+Harry fiel es nicht leicht seinen Gesichtsausdruck zu unterdrücken, als ihm klar wurde, was Dumbledore eigentlich angedeutet hatte.
 
-Niemand wird Rache an ihnen nehmen," sagte Harry heiser. "Das ist eine Bitte an alle, die sich als meine Freunde betrachten. Ich hatte meine Lektion zu lernen, sie halfen mir sie zu lernen, sie hatten auch ihre Lektion zu lernen, es ist vorbei. Wenn ihr diese Geschichte erzählt, dann bitte auch diesen Teil."
+"Ich werde Madam Pince darüber informieren, dass Mr. Potter Zugang zu Büchern über Okklumentik erhalten darf," sagte Dumbledore.
 
-Harry drehte sich zu Professor Quirrell um.
+"Es gibt vorbereitende Übungen, die Sie allein durchführen müssen," sagte Professor Quirrell zu Harry. "Und ich schlage vor, Sie beeilen sich damit."
 
-"Sie haben verloren," sagte Professor Quirrell, seine Stimme zum ersten mal freundlich. Es klang seltsam von dem Professor, als sollte seine Stimme gar nicht dazu in der Lage sein.
+Harry nickte.
 
-Harry hatte verloren. Es hatte Momente gegeben in denen der kalte Zorn völlig hin fort gewaschen war, ersetzt durch Angst und während dieser Augenblicke hatte er die älteren Slytherins angefleht und es ernst gemeint...
+"Dann werde ich Sie jetzt verlassen," sagte Dumbledore. Er nickte sowohl Harry als auch Professor Quirrell zu und verschwand, etwas langsamen Schrittes.
 
-"Und sind Sie noch am Leben?" sagte Professor Quirrell, noch immer mit jener seltsamen Freundlichkeit.
+"Können Sie den Zauber noch einmal wirken?" sagte Harry sobald Dumbledore weg war.
 
-Harry brachte ein Nicken zustande.
+"Nicht heute," sagte Professor Quirrell leise, "und morgen ebenfalls nicht, fürchte ich. Es verlangt mir viel ab ihn zu wirken, doch weniger ihn fortzusetzen und daher halte ich ihn gewöhnlich so lange aufrecht wie ich kann. Dieses mal wirkte ich ihn aus einer Laune heraus. Hätte ich daran gedacht, dass wir unterbrochen werden könnten -"
 
-"Nicht immer ist das Verlieren so," sagte Professor Quirrell. "Es gibt Kompromisse und ausgehandelte Kapitulationen. Es gibt andere Wege um Mobber zu beschwichtigen. Es liegt eine ganze Kunstform darin, andere zu manipulieren, indem man sich von ihnen dominieren lässt. Doch zunächst muss das Verlieren denkbar sein. Werden Sie sich erinnern, wie Sie verloren?"
+Dumbledore war jetzt Harrys unbeliebteste Person auf der ganzen Welt.
 
-"Ja."
+Sie seufzten beide.
 
-"Werden Sie in der Lage sein zu verlieren?"
+"Selbst wenn ich es nur einmal zu sehen bekomme," sagte Harry, "werde ich Ihnen immer dankbar sein."
 
-"Ich... denke schon..."
+Professor Quirrell nickte.
 
-"Das denke ich auch." Professor Quirrell verneigte sich so tief, dass sein dünnes Haar beinahe den Boden berührte. "Gratulation, Harry Potter, Sie gewinnen."
+"Haben Sie schon einmal vom Pioneer-Programm gehört?" sagte Harry. "Es waren Raumsonden, die an verschiedenen Planeten vorbei fliegen und Bilder machen sollten. Zwei der Sonden schlugen schließlich Flugbahnen ein, die sie aus dem Sonnensystem heraus und in den interstellaren Raum beförderten. Daher hat man sie mit einer goldenen Plakette ausgestattet, mit dem Bild eines Mannes und einer Frau und einer Beschreibung, wie man in der Galaxie unsere Sonne finden kann."
 
-Es gab keinen einzelnen Ursprung, niemanden der sich zuerst bewegte, der Applaus startete mit einem Mal, wie ein gewaltiger Donnerschlag.
+Professor Quirrell war einen Moment lang still, dann lächelte er. "Sagen Sie, Mr. Potter, können Sie sich denken, was mir durch den Kopf ging als ich die Liste der siebenunddreißig Dinge, die ich als Dunkler Lord niemals tun würde, fertiggestellt hatte? Gehen Sie ein paar Schritte in meinen Schuhen - stellen Sie sich vor, Sie seien an meiner Stelle - und wagen Sie eine Vermutung."
 
-Harry konnte den Schock auf seinem Gesicht nicht verbergen. Er riskierte einen Blick auf seine Klassenkameraden und er sah auf ihren Gesichtern kein Mitleid, sondern Ehrfurcht. Der Applaus kam von Ravenclaw und Gryffindor und Hufflepuff und sogar Slytherin, wahrscheinlich weil Draco Malfoy ebenfalls applaudierte. Einige Schüler standen von ihren Stühlen auf und halb Gryffindor stand auf den Tischen.
+Harry stellte sich vor er blicke auf eine Liste von siebenunddreißig Dingen, die er nicht tun würde, sobald er ein Dunkler Lord würde.
 
-So stand Harry da, schwankend, ließ ihren Respekt über sich hinweg branden, fühlte sich stärker und vielleicht auch ein wenig wiederhergestellt.
-Professor Quirrell wartete, bis der Applaus erstarb. Es dauerte eine ganze Weile.
+"Sie entschieden, wenn Sie der ganzen Liste immerzu folgen müssten, hätte es nicht viel Sinn überhaupt ein Dunkler Lord zu werden," sagte Harry.
 
-"Überrascht, Mr. Potter?" sagte Professor Quirrell. Er klang amüsiert. "Sie haben gerade erfahren, dass die echte Welt nicht immer Ihren schlimmsten Alpträumen gleicht. Ja, wären Sie ein armer namenloser Junge gewesen, der missbraucht wurde, hätten sie Sie hinterher wahrscheinlich weniger respektiert, Sie bemitleidet, während sie Sie von ihrem hohen Ross aus trösten. Das ist die Natur des Menschen, fürchte ich. Doch Sie sind ihnen bereits als mächtige Gestalt vertraut. Und sie sahen, wie Sie sich Ihrer Angst stellten und nicht zurückwichen, obwohl Sie jederzeit hätten gehen können. Dachten Sie schlechter von mir, nachdem Sie wussten, dass ich es bewusst über mich ergehen ließ, bespuckt zu werden?"
+"Exakt," sagte Professor Quirrell. Er grinste. "Also werde ich gegen Regel zwei verstoßen - die einfach nur lautete 'nicht prahlen' - und Ihnen von etwas erzählen, dass ich getan habe. Ich sehe nicht, wie dieses Wissen schaden könnte. Und ich vermute stark, Sie hätten es ohnehin herausbekommen, sobald wir einander gut genug kennen. Nichtsdestotrotz... brauche ich Ihren Eid niemals über das zu sprechen, was ich berichten werde."
 
-Harry fühlte ein Brennen in seiner Kehle und hielt es verzweifelt zurück. Er traute diesem wundersamen Respekt nicht genug, um erneut davor in Tränen auszubrechen.
+"Den haben Sie!" Harry hatte das Gefühl, das würde wirklich gut werden.
 
-"Ihre außerordentliche Leistung in meinem Unterricht verdient eine außerordentliche Belohnung, Harry Potter. Bitte nehmen Sie sie an, zusammen mit meinen besten Wünschen im Namen meines Hauses und wissen Sie von diesem Tage an, dass nicht alle Slytherins gleich sind. Es gibt Slytherins und dann gibt es Slytherins." Professor Quirrell lächelte breit, als er das sagte. "Einundfünfzig Punkte für Ravenclaw."
+"Ich habe ein Muggel-Magazin abonniert, das mich über Fortschritte in der Raumfahrt auf dem Laufenden hält. Ich wusste nichts von Pioneer 10, bis man ihren Start bekanntgab. Doch als ich herausfand, dass Pioneer 11 ebenfalls das Sonnensystem für immer verlassen würde," sagte Professor Quirrell, das breiteste Grinsen auf dem Gesicht, das Harry bisher bei ihm gesehen hatte, "habe ich mich in die NASA geschlichen, ja das habe ich und einen wunderbaren kleinen Zauber auf diese wunderbare kleine Plakette gewirkt, durch den sie länger erhalten bleiben wird, als es sonst möglich wäre."
 
-Es gab eine schockierte Pause und dann brach ein Pandämonium aus heulenden, pfeifenden und jubelnden Ravenclaws los.
+...
 
-(Und im selben Moment fühlte Harry, dass etwas daran falsch war, Professor McGonagall hatte recht gehabt, es sollte Konsequenzen geben, es hätte einen Preis gezahlt werden müssen, man konnte nicht einfach so alles wieder zurückdrehen -)
+...
 
-Doch Harry sah die freudigen Gesichter in Ravenclaw und wusste, er konnte unmöglich ablehnen.
+...
 
-Sein Hirn machte einen Vorschlag. Es war ein guter Vorschlag. Harry konnte kaum glauben, dass sein Gehirn ihn immer noch aufrecht hielt, ganz zu schweigen davon, gute Vorschläge zu machen.
+"Ja," sagte Professor Quirrell, der jetzt etwa fünfzig Fuß größer zu sein schien, "Ich dachte mir, dass Sie so reagieren könnten."
 
-"Professor Quirrell," sagte Harry, so deutlich wie er durch seine brennende Kehle konnte. "Sie sind alles, was ein Mitglied Ihres Hauses sein sollte und ich glaube, Sie müssen genau das sein, was Salazar Slytherin im Sinn hatte, als er Hogwarts mit gegründet hat. Ich danke Ihnen und Ihrem Haus," Draco nickte ganz leicht und ließ unmerklich den Finger kreisen, mach weiter, "und ich denke das schreit nach einem dreifachen Hoch für Slytherin. Alle zusammen?" Harry hielt inne. "Hurra!" Nur ein paar Leute schafften es beim ersten Versuch mit einzustimmen. "Hurra!" Diesmal war der Großteil von Ravenclaw dabei. "Hurra!" Das war fast ganz Ravenclaw, ein paar versprengte Hufflepuffs und etwa ein Viertel von Gryffindor.
+...
 
-Dracos Hand machte eine kleine, schnelle Daumen-hoch-Geste.
+...
 
-Die meisten Slytherins blickten völlig schockiert drein. Ein paar starrten verwundert Professor Quirrell an. Blaise Zabini betrachtete Harry mit berechnender Neugier.
+...
 
-Professor Quirrell verneigte sich. "Danke Ihnen, Harry Potter," sagte er, noch immer mit diesem breiten Lächeln. Er wandte sich an die Klasse. "Nun, glauben Sie es oder nicht, wir haben noch eine halbe Stunde Unterricht übrig und das ist genug, um mit dem Simplen Schild anzufangen. Mr. Potter wird, natürlich, verschwinden und eine wohl verdiente Pause machen."
+"Mr. Potter?"
 
-"Ich kann -"
+"...ich weiß nicht was ich sagen soll."
 
-"Dummkopf," sagte Professor Quirrell nachsichtig. Die Klasse lachte bereits. "Ihre Klassenkameraden können es Ihnen hinterher beibringen oder ich gebe Ihnen private Nachhilfestunden, falls nötig. Doch jetzt gehen Sie durch die dritte Tür von links hinter der Bühne, wo Sie ein Bett, eine Auswahl außergewöhnlich leckerer Snacks und ein wenig sehr leichte Lektüre aus der Hogwarts-Bibliothek vorfinden werden. Sie dürfen nichts weiter mitnehmen, besonders nicht Ihre Lehrbücher. Nun gehen Sie."
+"'Sie gewinnen' scheint angemessen," sagte Professor Quirrell.
 
-Harry ging.
+"Sie gewinnen," sagte Harry sofort.
 
+"Sehen Sie?" sagte Professor Quirrell. "Kaum auszudenken, welch riesigen Haufen Ärger Sie sich eingebrockt hätten, wenn Sie das nicht hätten sagen können."
 
+Sie beide lachten.
 
-* Harry zitiert aus Winston Churchills Blut-Schweiß-und-Tränen-Rede zu seinem Amtsantritt vor dem Unterhaus des britischen Parlaments, Übersetzung aus Winston Churchill: Reden in Zeiten des Krieges. Aus dem Englischen von Walther Weibel.
+Ein weiterer Gedanke kam Harry. "Sie haben der Plakette doch keine extra Informationen hinzugefügt, oder?"
+
+"Extra Informationen?" sagte Professor Quirrell, als sei ihm diese Idee noch nie zuvor gekommen und fasziniere ihn außerordentlich.
+
+Was Harry ziemlich misstrauisch machte, in Anbetracht dessen, dass Harry weniger als eine Minute gebraucht hatte, um darauf zu kommen.
+
+"Vielleicht haben Sie eine holographische Botschaft hinzugefügt, wie in Star Wars?" sagte Harry. "Oder... hm. Ein Porträt scheint soviel Information zu enthalten, wie ein ganzes menschliches Gehirn... Sie hätten der Sonde keine zusätzliche Masse hinzufügen können, aber vielleicht hätten Sie aus einem bereits vorhandenen Teil ein Porträt von sich selbst machen können? Oder Sie fanden einen todkranken Freiwilligen, haben ihn in die NASA geschleust und einen Zauber gewirkt, damit sein Geist in der Plakette landet -"
+
+"Mr. Potter," sagte Professor Quirrell, plötzlich in scharfem Ton, "ein Zauber für den der Tod eines Menschen von Nöten ist, würde sicherlich vom Ministerium als Dunkle Kunst eingestuft, unter egal welchen Umständen. Schüler sollte man niemals über solcherlei Dinge reden hören."
+
+Und das fantastische daran, wie Professor Quirrell das ausgedrückt hatte war, wie perfekt sich damit ein glaubwürdiges Dementi aufrechterhalten ließ. Es wurde exakt im angemessenen Tonfall desjenigen gesagt, der nicht willens war solche Themen zu diskutieren und der Ansicht, Schüler sollten sich davon fernhalten. Harry konnte ehrlich nicht sagen, ob Professor Quirrell nur darauf wartete darüber zu sprechen, bis Harry gelernt hätte, seinen Geist zu schützen.
+
+"Verstanden," sagte Harry. "Ich werde mit niemand anderem über diese Idee sprechen."
+
+"Bitte seien Sie diskret, was diese ganze Angelegenheit betrifft, Mr. Potter," sagte Professor Quirrell. "Ich bevorzuge es, mein Leben abseits des öffentlichen Interesses zu führen. Sie werden in den Zeitungen nichts über Quirinus Quirrell finden, bis ich entschied, dass es Zeit für mich wurde, in Hogwarts zu lehren."
+
+Das schien ein wenig traurig, doch Harry verstand. Dann wurden Harry die Implikationen klar. "Also, wie viele umwerfende Sachen haben Sie gemacht, von denen niemand etwas weiß -"
+
+"Oh, einige," sagte Professor Quirrell. "Doch ich denke, es ist genug für heute, Mr. Potter, ich gestehe, ich bin ein wenig müde -"
+
+"Ich verstehe. Und danke. Für alles."
+
+Professor Quirrell nickte, lehnte sich aber schwerer auf seinen Schreibtisch.
+
+Harry machte sich schnell davon.
+
+
+
+* auch Wer ist John Galt? oder Der Streik, engl.: Atlas Shrugged; ein Roman von Ayn Rand, der Egoismus und Laissez-faire-Kapitalismus verherrlicht.
+** die Unsäglichen, engl.: Unspeakables, besser übersetzt vielleicht die Unaussprechlichen oder Unsagbaren, sind die Mitarbeiter der Mysteriumsabteilung des Zaubereiministeriums, die einer strengen Schweigepflicht unterliegen und sich offenbar mit vielen mysteriösen Phänomenen des Lebens und der Magie beschäftigen.
  

@@ -1,478 +1,601 @@
 
-Kapitel 21: Rationalisierung
+Kapitel 22: Die Wissenschaftliche Methode
 
-Wer Rowlings Pflicht erfüllt, ist Rowling.
+Irgendwas, irgendwo, irgendwann muss ganz anders abgelaufen sein...
+PETUNIA EVANS heiratete Michael Verres, einen Professor der Biochemie in Oxford.
+
+HARRY JAMES POTTER-EVANS-VERRES wuchs in einem bis unter das Dach mit Büchern vollgestopften Haus auf. Er biss einmal eine Mathe-Lehrerin, die nicht wusste was ein Logarithmus war. Er hat Gödel, Escher, Bach und Unsichere Entscheidungen: Heuristiken und Fehlschlüsse und Band eins der Feynman-Vorlesungen über Physik gelesen. Und entgegen dem, was jeder der ihn kennt zu fürchten scheint, will er nicht der nächste Dunkle Lord werden. Er wurde besser erzogen. Er will die Gesetze der Magie entdecken und ein Gott werden.
+
+HERMINE GRANGER ist besser als er in jedem Schulfach außer Besenstiel-Reiten.
+
+DRACO MALFOY ist genau so, wie man es von einem Elfjährigen erwarten würde, wenn Darth Vader sein liebender Vater wäre.
+
+PROFESSOR QUIRRELL lebt seinen lebenslangen Traum, Verteidigung gegen die Dunklen Künste in Hogwarts zu unterrichten oder wie er seinen Unterricht lieber bezeichnet, Kampf-Magie. Seine Schüler fragen sich alle, was diesmal wohl mit dem Verteidigungs-Professor passieren mag.
+
+DUMBLEDORE ist entweder wahnsinnig oder spielt ein sehr viel tiefgründigeres Spiel, das es nötig machte, ein Hühnchen in Brand zu stecken.
+
+DIE STELLVERTRETENDE SCHULLEITERIN MINERVA MCGONAGALL muss sich erst einmal zurückziehen und eine Weile schreien.
+
+Ich präsentiere:
+HARRY POTTER UND DIE METHODEN DER RATIONALITÄT
+Ihr erratet nie, wo das noch hin führt.
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Einige Anmerkungen:
+Die Ansichten der Charaktere in dieser Geschichte sind nicht notwendigerweise diejenigen des Autors. Was der "warme" Harry denkt ist meist als ein gutes Beispiel zu verstehen, dem man folgen darf, besonders wenn Harry überlegt, was für wissenschaftliche Studien er zitieren kann, um ein bestimmtes Prinzip zu untermauern. Doch nicht alles, was Harry tut oder denkt ist eine gute Idee. Das würde als Geschichte nicht funktionieren. Und die weniger warmen Charaktere mögen ab und an wertvolle Lektionen zu bieten haben, doch diese können auch gefährlich zweischneidig sein.
+
+Wenn ihr HPMOR DOT COM noch keinen Besuch abgestattet habt, vergesst nicht das irgendwann nachzuholen; ansonsten verpasst ihr die Fan-Kunst, wie man alles lernt, was Harry weiß und mehr.
+
+Wenn euch dieses Fanfic nicht nur gefallen hat, sondern ihr auch noch etwas dabei gelernt habt, dann überlegt bitte auch, darüber zu bloggen oder zu twittern. Ein Werk wie dieses kann nur soviel gutes bewirken, wie es von Menschen gelesen wird.
+
+Und nun wieder zurück zu eurem regulär geplanten Fanfic...
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Der Schlüssel der Strategie ist nicht, einen Pfad zu J. K. Rowling zu wählen, sondern es so einzurichten, dass alle Pfade zu J. K. Rowling führen.
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-Hermine Granger hatte sich gesorgt, dass sie böse würde.
+Ein kleines Studierzimmer, nicht im Ravenclaw-Turn doch in der Nähe, einer der vielen ungenutzten Räume von Hogwarts. Der Boden aus grauem Stein, die Wände aus roten Ziegeln, die Decke aus dunkel geflecktem Holz, vier schimmernde Glaskugeln in die vier Wände des Zimmers eingelassen. Ein runder Tisch, der aussah wie eine breite runde Platte aus schwarzem Marmor, ruhend auf starken Beinen aus schwarzem Marmor als Stützen, der sich jedoch als sehr leicht herausgestellt hatte (sowohl was Gewicht als auch Masse anging) und falls nötig nicht besonders schwer hoch zu heben und herum zu tragen war. Zwei bequem gepolsterte Stühle, die zunächst gewirkt hatten, als seien sie an unvorteilhaften Orten am Boden verankert, jedoch wie sie beide schließlich herausfanden, zu einem herüber rutschten, sobald man eine Position einnahm, als wolle man sich hinsetzen.
 
-Der Unterschied zwischen Gut und Böse war üblicherweise einfach zu erkennen, sie hatte nie verstanden warum andere Leute solche Schwierigkeiten damit hatten. In Hogwarts waren "Gut" Professor Flitwick und Professor McGonagall und Professor Sprout. "Böse" waren Professor Snape und Professor Quirrell und Draco Malfoy. Harry Potter... war einer jener unüblichen Fälle, bei denen man es nicht auf den ersten Blick sagen konnte. Sie versuchte noch immer herauszufinden, wo er hingehörte.
+Außerdem flatterten offenbar einige Fledermäuse im Zimmer herum.
 
-Doch wenn es um sie selbst ging...
+Dies war der Ort an dem, wie zukünftige Historiker eines Tages niederschreiben würden - falls das ganze Projekt jemals tatsächlich zu irgendetwas führte - die wissenschaftliche Erforschung der Magie begonnen hatte, mit zwei jungen Hogwarts-Schülern in ihrem ersten Jahr.
 
-Hermine hatte zu viel Spaß daran, Harry Potter vernichtend zu schlagen.
+Harry James Potter-Evans-Verres, Theoretiker.
 
-Sie hatte sich in jedem einzelnen Unterricht, den sie belegten, besser gemacht als er. (Außer Besenstiel-Reiten, was wie Sportunterricht war, es zählte nicht.) Sie hatte an fast jedem Tag ihrer ersten Woche echte Hauspunkte bekommen, nicht für merkwürdige heldenhafte Dinge, sondern schlaue Dinge, wie Zauber schnell zu lernen und anderen Schülern zu helfen. Sie wusste, Hauspunkte dieser Art waren besser und das beste war, Harry Potter wusste es auch. Sie konnte es in seinen Augen sehen, jedes mal wenn sie einen echten Hauspunkt gewann.
+Und Hermine Jean Granger, Experimentatorin und Testsubjekt.
 
-Wenn man Gut war, sollte man das Gewinnen nicht so genießen.
+Harry machte sich jetzt besser im Unterricht, zumindest in den Fächern, die ihn interessierten. Er hatte noch mehr Bücher gelesen und es waren keine Bücher für Elfjährige. Er hatte sich in einer seiner zwei täglichen extra Stunden immer und immer wieder in Transfiguration geübt und die zweite dafür verwendet, mit Okklumentik zu beginnen. Er nahm die wertvollen Fächer ernst, reichte nicht nur jeden Tag seine Hausaufgaben ein, sondern nutzte seine Freizeit, um noch mehr zu lernen als verlangt wurde, andere Bücher zu lesen, die über seinen Lehrstoff hinausgingen, in dem Bestreben, das Thema zu meistern und sich nicht nur ein paar Testantworten einzuprägen, um sich hervor zu tun. Das sah man außerhalb Ravenclaws nicht oft. Und nun waren selbst in Ravenclaw seine einzigen verbleibenden Konkurrenten Padma Patil (deren Eltern aus einer nicht-englischsprachigen Kultur stammten und sie daher zu einer echten Arbeitsethik erzogen hatten), Anthony Goldstein (aus einer bestimmten kleinen ethnischen Gruppe, die 25% der Nobelpreise gewann) und natürlich, wie eine Titanin durch ein Rudel Welpen streifend, Hermine Granger.
 
-Es hatte am Tag der Zugfahrt begonnen, doch es hatte eine Weile gedauert bis der Wirbelwind sich gelegt hatte. Erst später in jener Nacht war Hermine langsam klar geworden, wie sehr sie sich von diesem Jungen hatte überrumpeln lassen.
+Um dieses bestimmte Experiment durchzuführen, musste das Testsubjekt sechzehn neue Zauber lernen, allein, ohne Hilfestellungen. Was bedeutete, das Testsubjekt war Hermine. Punkt.
 
-Bevor sie Harry Potter getroffen hatte, hatte sie niemanden, den sie besiegen wollte. Wenn jemand im Unterricht nicht so gut zurechtkam wie sie, war es ihr Job ihm zu helfen, nicht es ihm unter die Nase zu reiben. Das bedeutete es, Gut zu sein.
+An diesem Punkt sollte darauf hingewiesen werden, dass die durch den Raum flatternden Fledermäuse nicht glühten.
 
-Und jetzt...
+Harry hatte Schwierigkeiten, die Bedeutung dessen zu akzeptieren.
 
-...jetzt gewann sie, Harry Potter zuckte jedes mal zusammen, wenn sie einen Hauspunkt bekam und es war so ein Spaß, ihre Eltern hatten sie vor Drogen gewarnt und sie vermutete dies hier machte mehr Spaß.
+"Oogely boogely!" sagte Hermine erneut.
 
-Sie hatte immer das Lächeln gemocht, das Lehrer ihr zuwarfen wenn sie etwas richtig machte. Sie hatte es immer gemocht die lange Reihe von Häkchen auf einem perfekt beantworteten Test zu sehen. Doch wenn sie jetzt gut im Unterricht war, sah sie sich unauffällig um und erhaschte einen Blick auf Harry Potter, der mit den Zähnen knirschte und dann war es als wollte sie in Gesang ausbrechen wie in einem Disney-Film.
+Erneut, an der Spitze von Hermines Zauberstab, erschien übergangslos eine Fledermaus. Im einen Moment, leere Luft. Im nächsten Moment, Fledermaus. Ihre Flügel schienen sich bereits zu bewegen, in dem Augenblick als sie auftauchte.
 
-Das war Böse, oder nicht?
+Und sie glühte immer noch nicht.
 
-Hermine hatte sich gesorgt, dass sie Böse wurde.
+"Kann ich jetzt aufhören?" sagte Hermine.
 
-Und dann war ihr ein Gedanke gekommen, der all ihre Ängste hinweg gewischt hatte.
+"Bist du sicher," sagte Harry, durch etwas, das sich anfühlte wie ein Kloß in seinem Hals, "dass du sie nicht vielleicht mit ein wenig mehr Übung zum Glühen bringen könntest?" Er verletzte gerade das experimentelle Prozedere, dass er im Vorhinein ausgearbeitet hatte, was eine Sünde war und er tat es, weil ihm seine Ergebnisse nicht gefielen, was eine Todsünde war, dafür konnte man in die Wissenschafts-Hölle kommen, doch es schien ohnehin keine Rolle zu spielen.
 
-Sie und Harry verliebten sich! Natürlich! Jeder wusste, was es hieß, wenn ein Junge und ein Mädchen anfingen, die ganze Zeit zu streiten. Sie machten sich den Hof! Daran war nichts Böses.
+"Was hast du diesmal verändert?" sagte Hermine und klang ein wenig erschöpft.
 
-Es konnte nicht sein, dass es ihr einfach gefiel dem berühmtesten Schüler der Schule in den schulischen Hintern zu treten, jemanden, der in Büchern war und wie Bücher sprach, der Junge der den Dunklen Lord bezwungen und selbst Professor Snape wie einen lausigen kleinen Käfer zerquetscht hatte, den Jungen der, wie Professor Quirrell es ausgedrückt hätte, dominant war über jeden Ravenclaw im ersten Jahr außer Hermine Granger, die den Jungen-der-überlebt-hatte vollkommen platt machte in jedem Unterrichtsfach außer Besenstiel-Reiten.
+"Die Dauer der uu-, eh- und ii-Laute. Sie sollte 3 zu 2 zu 2 sein, nicht 3 zu 1 zu 1."
 
-Denn das wäre Böse gewesen.
+"Oogely boogely!" sagte Hermine.
 
-Nein. Es war eine Romanze. Das war es. Deshalb stritten sie sich.
+Die Fledermaus materialisierte mit nur einem Flügel und segelte erbärmlich zu Boden, flappte dann auf dem grauen Stein im Kreis herum.
 
-Hermine war froh, dass sie das rechtzeitig zum heutigen Tag herausgefunden hatte, an dem Harry ihren Buch-lese-Wettstreit verlieren würde, über den die ganze Schule Bescheid wusste und sie wollte vor schierer überschäumender Freude darüber tanzen.
+"Wie sind sie nun wirklich?" sagte Hermine.
 
-Es war 2:45 Uhr am Samstag Nachmittag und Harry Potter hatte noch die Hälfte von Bathilda Bagshots Geschichte der Zauberei* vor sich und sie starrte auf ihre Taschenuhr, die mit verhängnisvoller Langsamkeit auf 2:47 Uhr zu tickte.
+"3 zu 2 zu 1."
 
-Und der gesamte Ravenclaw-Gemeinschaftsraum sah zu.
+"Oogely boogely!"
 
-Es waren nicht nur die Erstklässler, die Nachricht hatte sich wie ein Lauffeuer verbreitet und halb Ravenclaw drängte sich in dem Raum zusammen, auf Sofas gequetscht, an Bücherschränke gelehnt und auf Armlehnen von Stühlen sitzend. Alle sechs Vertrauensschüler waren da, einschließlich der Schulsprecherin von Hogwarts. Jemand hatte einen Lufterfrischungs-Zauber wirken müssen, nur damit es genug Sauerstoff gab. Und das Getöse der Gespräche war zu einem Flüstern und nun zu völliger Stille verstummt.
+Dieses mal hatte die Fledermaus überhaupt keine Flügel und fiel mit einem Plopp zu Boden wie eine tote Maus.
 
-2:46 Uhr.
+"3 zu 1 zu 2."
 
-Die Spannung war unerträglich. Wenn es irgendwer sonst, irgendjemand anders gewesen wäre, seine Niederlage wäre bereits Gewissheit gewesen.
+Und siehe da, die Fledermaus materialisierte sich und flog sofort zur Decke empor, gesund und in einem hellen Grün glühend.
 
-Doch dies war Harry Potter und man konnte die Möglichkeit nicht ausschließen, dass er, irgendwann in den nächsten paar Sekunden, eine Hand heben und mit den Fingern schnipsen würde.
+Hermine nickte zufrieden. "Okay, was als nächstes?"
 
-Mit plötzlichem Schrecken wurde ihr klar, dass Harry Potter vielleicht genau das tun könnte. Es würde genau zu ihm passen, die zweite Hälfte des Buches bereits vorher fertig gelesen zu haben...
+Eine lange Pause entstand.
 
-Hermines Sicht begann zu verschwimmen. Sie versuchte, sich zum Atmen zu zwingen und stellte fest, dass sie es nicht konnte.
+"Ernsthaft? Man muss ernsthaft so Oogely boogely sagen, dass die uu-, eh- und ii-Laute ein Verhältnis von 3 zu 1 zu 2 haben oder die Fledermaus glüht nicht? Warum? Warum? Bei allem was heilig ist, warum?"
 
-Zehn Sekunden blieben und noch immer hatte er seine Hand nicht gehoben.
+"Warum nicht?"
 
-Noch fünf Sekunden.
+"AAAAAAAAARRRRRRGHHHH!"
 
-2:47 Uhr.
+Bumpf. Bumpf. Bumpf.
 
-Harry Potter steckte sorgsam ein Lesezeichen in sein Buch, klappte es zu und legte es beiseite.
+Harry hatte eine Weile über die Natur der Magie nachgedacht und dann eine Reihe von Experimenten entworfen, basierend auf der Annahme, dass so ziemlich alles, was Zauberer über Magie zu wissen glaubten, falsch war.
 
-"Ich würde gern für die Nachwelt festhalten," sagte der Junge-der-überlebt-hat mit klarer Stimme, "dass ich nur noch ein halbes Buch übrig hatte und mit ein paar unerwarteten Verspätungen zu kämpfen hatte -"
+Man konnte nicht wirklich 'Wingardium Leviosa' auf exakt die richtige Weise sagen müssen, um etwas zum Schweben zu bringen, denn, mal ehrlich, 'Wingardium Leviosa'? Das Universum sollte prüfen, ob man 'Wingardium Leviosa' auf exakt die richtige Weise sagte und ansonsten würde es die Feder nicht schweben lassen?
 
-"Du hast verloren!" kreischte Hermine. "Das hast du! Du hast unseren Wettstreit verloren!"
+Nein. Offensichtlich nein, wenn man ernsthaft darüber nachdachte. Irgendjemand, ziemlich wahrscheinlich buchstäblich ein Vorschulkind, doch in jedem Fall ein englischsprachiger Magie-Anwender, der fand, dass 'Wingardium Leviosa' ganz luftig-leicht klang, hatte diese Worte als erster gesprochen, als er den Zauber zum ersten mal wirkte. Und dann allen anderen erzählt, es sei notwendig.
 
-Ein kollektives Ausatmen war zu vernehmen, als alle wieder anfingen zu atmen.
+Aber (hatte Harry gefolgert) es musste nicht so sein, es war nicht in das Universum eingeschrieben, sondern in einen selbst.
 
-Harry Potter schoss ihr einen Feurig Lodernden Blick zu, doch sie schwebte in einer Aura reinster weißer Glückseligkeit und nichts konnte ihr etwas anhaben.
+Es gab eine alte Geschichte, die unter Wissenschaftlern weitergegeben wurde, eine mahnende Erzählung, die Geschichte von Blondlot und den N-Strahlen.
 
-"Ist dir klar, was ich für eine Woche hatte?" sagte Harry Potter. "Jedem geringeren Wesen wäre es schwer gefallen auch nur acht Dr.-Suess-Bücher zu lesen!"
+Kurz nach der Entdeckung der Röntgenstrahlen hatte ein bedeutender französischer Physiker namens Prosper-René Blondlot - der als einer der ersten die Geschwindigkeit von Radiowellen gemessen und gezeigt hatte, dass sie sich mit Lichtgeschwindigkeit fortbewegten - die Entdeckung eines aufregenden neuen Phänomens verkündet, den N-Strahlen, die eine Bildfläche kaum merklich erleuchten würden. Man musste genau hinsehen, um es zu erkennen, aber es war da. N-Strahlen hatten allerhand interessante Eigenschaften. Sie konnten von Aluminium gebeugt und sogar durch ein Aluminium-Prisma auf einen Faden aus Cadmiumsulfid gelenkt werden, der dann schwach im Dunkeln leuchtete...
 
-"Du hast das Zeitlimit festgelegt."
+Bald hatten dutzende von anderen Wissenschaftlern Blondlots Ergebnisse bestätigt, insbesondere in Frankreich.
 
-Harrys Blick Lodernden Feuers wurde noch heißer. "Es gab keinen logischen Weg für mich zu erahnen, dass ich die ganze Schule vor Professor Snape würde retten müssen oder im Verteidigungs-Unterricht augemischt würde und wenn ich dir sagen würde, wie ich all die Zeit zwischen 5 Uhr nachmittags und dem Abendessen am Donnerstag verloren habe, hieltest du mich für verrückt -"
+Doch es gab noch immer einige Wissenschaftler, die sagten, sie seien nicht ganz sicher, das schwache Glühen erkennen zu können.
 
-"Oooh, klingt als wäre da jemand dem Planungs-Fehlschluss zum Opfer gefallen."
+Blondlot hatte erwidert, ihr Versuchsaufbau sei wahrscheinlich nicht richtig.
 
-Der blanke Schock zeigte sich auf Harry Potters Gesicht.
+Eines Tages hatte Blondlot eine Demonstration der N-Strahlen durchgeführt. Man hatte die Lichter gelöscht und sein Assistent hatte verkündet, wie das Erhellen und Verdunkeln vor sich ging, während Blondlot seine Handgriffe vollzog.
 
-"Oh, das erinnert mich daran, ich habe den ersten Stapel Bücher, die du mir geliehen hast, fertig gelesen," sagte Hermine mit ihrer besten Unschuldsmiene. Ein paar von denen waren auch noch ziemlich schwer gewesen. Sie fragte sich wie lange er gebraucht hatte, um sie zu lesen.
+Es war eine normale Demonstration gewesen, alle Ergebnisse wie erwartet.
 
-"Eines Tages," sagte der Junge-der-überlebt-hat, "wenn die fernen Nachfahren des Homo sapiens auf die Geschichte der Galaxis zurückblicken und sich fragen, wie alles so schief gehen konnte, werden sie zu dem Schluss kommen, dass der ursprüngliche Fehler war, dass jemand Hermine Granger das Lesen beigebracht hat."
+Obwohl ein Amerikanischer Wissenschaftler namens Robert Wood heimlich das Aluminium-Prisma aus dem Zentrum von Blondlots Mechanismus entfernt hatte.
 
-"Doch du hast trotzdem verloren," sagte Hermine. Sie hielt sich mit einer Hand das Kinn und blickte nachdenklich drein. "Nun, was genau solltest du verlieren, frage ich mich?"
+Und das war das Ende der N-Strahlen.
 
-"Was?"
+Realität, hatte Philip K. Dick einst gesagt, ist das, was sich weigert zu verschwinden, wenn man nicht mehr daran glaubt.
 
-"Du hast die Wette verloren," erklärte Hermine, "also musst du einen Preis zahlen."
+Im Rückblick war Blondlots Sünde offensichtlich gewesen. Er hätte seinem Assistenten nicht sagen dürfen, was er tat. Blondlot hätte sicherstellen sollen, dass sein Assistent nicht wusste, was er versuchen würde oder wann er es versuchen würde, bevor er ihn bat, die Helligkeit der Bildfläche zu beschreiben. Es hätte so einfach sein können.
 
-"Ich kann mich nicht erinnern, dem zugestimmt zu haben!"
+Heutzutage nannte man das "Blindstudie" und für moderne Wissenschaftler war es selbstverständlich. Wenn man ein psychologisches Experiment durchführte, um herauszufinden ob Leute wütender wurden, wenn man ihnen mit roten Gummiknüppeln eins überzog als mit grünen Gummiknüppeln, sah man sich die Testsubjekte nicht selbst an und entschied, wie "wütend" sie waren. Man schoss Fotos von ihnen, nachdem sie mit dem Knüppel geschlagen worden waren und schickte sie an eine Jury, die dann auf einer Skala von 1 bis 10 bewertete, wie wütend jede Person aussah, selbstverständlich ohne zu wissen, welche Farbe der Knüppel hatte, mit dem sie getroffen wurden. Eigentlich gab es keinen guten Grund, den Bewertern überhaupt zu sagen, worum es bei dem Experiment ging. Man erzählte den Testsubjekten ganz sicher nicht, dass man annahm sie sollten wütender sein, wenn sie mit roten Knüppeln geschlagen wurden. Man bot ihnen einfach 20 Pfund, lockte sie in einen Testraum, schlug sie mit einem Knüppel, Farbe natürlich zufällig zugewiesen und machte das Foto. Genau genommen würde das Knüppel-Schlagen und Foto-Machen von einem Assistenten erledigt, dem man nichts von der Hypothese erzählt hatte, damit er nicht erwartungsvoll dreinschauen, härter zuschlagen oder das Foto genau im richtigen Moment schießen konnte.
 
-"Wirklich?" sagte Hermine Granger. Sie setzte einen nachdenklichen Gesichtsausdruck auf. Dann, als sei ihr die Idee gerade erst gekommen, "Dann stimmen wir doch ab. Alle die glauben, Harry Potter muss einen Preis zahlen, hebt die Hand!"
+Blondlot hatte seine Reputation mit einem Fehler zunichte gemacht, der einem eine schlechte Beurteilung und wahrscheinlich höhnisches Gelächter vom Tutor in einem Studienanfänger-Kurs über Versuchsanordnungen einbrächte... 1991.
 
-"Was?" kreischte Harry Potter erneut.
+Doch das war vor etwas längerer Zeit gewesen, 1904 und daher hatte es Monate gedauert, bis Robert Wood die offensichtliche Alternativ-Hypothese formuliert und herausgefunden hatte, wie man sie testen konnte und dutzende andere Wissenschaftler hatten sich mitreißen lassen.
 
-Er wirbelte herum und sah, dass er von einem Meer erhobener Hände umgeben war.
+Mehr als zwei Jahrhunderte, nachdem die Wissenschaft ihren Anfang genommen hatte. So spät in der Geschichte der Wissenschaft war es noch immer nicht offensichtlich gewesen.
 
-Und hätte Harry Potter genauer hingesehen, hätte er bemerkt, dass verdammt viele der Zuschauer Mädchen zu sein schienen und praktisch jede weibliche Person im Raum die Hand gehoben hatte.
+Was es vollkommen plausibel machte, dass in der winzigen Zauberwelt, wo Wissenschaft an sich keine große Bekanntheit zu genießen schien, niemand das erste und offensichtlichste versucht hatte, was jeder moderne Wissenschaftler prüfen würde.
 
-"Stop!" klagte Harry Potter. "Ihr wisst gar nicht, was sie fordern wird! Merkt ihr nicht, was sie tut? Sie lässt euch jetzt eine Vorverpflichtung eingehen und dann wird der Druck dem zu entsprechen euch dazu bringen, dem zuzustimmen, was immer sie auch sagt!"
+Die Bücher waren voller komplizierter Anweisungen für all die Dinge, die man auf exakt die richtige Weise tun musste, um einen Zauber zu wirken. Und, lautete Harrys Hypothese, der Prozess, diese Anweisungen zu befolgen, sicherzustellen dass man sie korrekt ausführte, bewirkte wahrscheinlich durchaus etwas. Es zwang einen, sich auf den Zauber zu konzentrieren. Gesagt zu bekommen, man solle nur mit dem Zauberstab herumwedeln und sich etwas wünschen, würde wahrscheinlich nicht so gut funktionieren. Und sobald man glaubte, der Zauber funktioniere auf eine bestimmte Art und Weise, sobald man ihn so geübt hatte, mochte man sich nicht mehr davon überzeugen können, dass es auch anders klappen könnte...
 
-"Keine Sorge," sagte die Vertrauensschülerin Penelope Clearwater. "Wenn sie etwas unvernünftiges fordert, können wir unsere Meinung einfach ändern. Oder, Leute?"
+...wenn man die einfache aber falsche Vorgehensweise wählte und selbst versuchte, andere Formen auszuprobieren.
 
-Und es folgte eifriges Nicken von allen Mädchen, denen Penelope von Hermines Plan erzählt hatte.
+Aber was, wenn man gar nicht wusste, wie der ursprüngliche Zauber gewesen war?
+
+Was wenn man Hermine eine Liste von Zaubern gab, die sie noch nicht gelernt hatte, aus einem Buch über dumme Scherz-Zauber aus der Hogwarts-Bibliothek und einige dieser Zauber hatten die korrekten und ursprünglichen Anweisungen, während andere eine veränderte Geste, ein geändertes Wort hatten? Was wenn man die Anweisungen unverändert ließ, ihr aber sagte, ein Zauber der einen roten Wurm erschaffen sollte, solle stattdessen einen blauen Wurm hervorbringen?
+
+Nun, in diesem Fall hatte sich herausgestellt...
+
+...Harry fiel es schwer, seinen Resultaten Glauben zu schenken...
+
+...wenn man Hermine sagte, sie solle "Oogely boogely" mit einer Dauer der Vokale im Verhältnis 3 zu 1 zu 1 sagen, statt dem korrekten Verhältnis von 3 zu 1 zu 2, bekam man noch immer die Fledermaus, doch sie glühte nicht mehr.
+
+Nicht, dass Überzeugung hier irrelevant wäre. Nicht, dass nur die Worte und Bewegungen des Zauberstabs eine Rolle spielten.
+
+Wenn man Hermine völlig falsche Informationen darüber gab, was ein Zauber tun sollte, funktionierte er nicht mehr.
+
+Wenn man ihr gar nichts darüber erzählte, was der Zauber tun sollte, funktionierte er nicht mehr.
+
+Wenn man ihr nur mit sehr vagen Begriffen beschrieb, was der Zauber tun sollte oder sie nur teilweise daneben lag, funktionierte der Zauber wie im Buch beschrieben, nicht wie man es ihr gesagt hatte.
+
+Harry schlug, in diesem Augenblick, buchstäblich mit dem Kopf gegen die Ziegelmauer. Nicht hart. Er wollte sein wertvolles Hirn nicht beschädigen. Doch wenn er kein Ventil für seine Frustration fand, würde er spontan in Flammen aufgehen.
+
+Bumpf. Bumpf. Bumpf.
+
+Es schien als wolle das Universum tatsächlich, dass man 'Wingardium Leviosa' sagte und es wollte, dass man es auf exakt die richtige Art und Weise sagte und es scherte sich nicht mehr darum, was man selbst dachte, wie die Aussprache sein sollte, als darum, was man von der Schwerkraft hielt.
+
+WAAAAAAAAAAAAAAAARUM?
+
+Das schlimmste daran war der selbstzufriedene, belustigte Ausdruck auf Hermines Gesicht.
+
+Hermine war nicht damit einverstanden gewesen, herum zu sitzen und brav Harrys Anweisungen zu folgen, ohne zu wissen warum.
+
+Also hatte Harry ihr erklärt, was sie testen würden.
+
+Harry hatte erklärt, warum sie es testeten.
+
+Harry hatte erklärt, warum es wahrscheinlich noch kein Zauberer vor ihnen versucht hatte.
+
+Harry hatte erklärt, dass er tatsächlich sehr zuversichtlich war, was seine Vorhersage betraf.
+
+Denn, hatte Harry gesagt, es war unmöglich, dass das Universum tatsächlich wollte, dass man 'Wingardium Leviosa' sagte.
+
+Hermine hatte ausgeführt, dass ihre Bücher etwas anderes besagten. Hermine hatte gefragt, ob Harry wirklich dachte, er sei, mit nur elf Jahren und kaum mehr als einem Monat Unterricht in Hogwarts, bereits schlauer als all die anderen Zauberer auf der Welt, die ihm widersprachen.
+
+Harry hatte exakt die folgenden Worte gesprochen:
+
+"Aber natürlich."
+
+Jetzt starrte Harry den roten Ziegel direkt vor sich an und sann darüber nach, wie hart er sich wohl den Kopf stoßen müsse, um sich eine Gehirnerschütterung zu holen, die sein Langzeitgedächtnis beeinträchtigen würde, damit er sich später an nichts davon erinnern musste. Hermine lachte nicht, doch er konnte das drohende Gelächter, das sie ausstrahlte, hinter sich spüren, wie ein verhängnisvoller Druck auf seiner Haut, etwa als wisse man, dass man von einem Serienmörder verfolgt wurde, nur schlimmer.
+
+"Sag es," sagte Harry.
+
+"Das wollte ich gar nicht," sagte die freundliche Stimme von Hermine Granger. "Es schien nicht nett zu sein."
+
+"Bring's einfach hinter dich," sagte Harry.
+
+"Okay! Du hast mir also diesen ganzen langen Vortrag darüber gehalten, wie schwer es sei, wissenschaftliche Grundlagenforschung zu betreiben und wie wir an dem Problem vielleicht fünfunddreißig Jahre dran bleiben müssten und dann erwartest du einfach so, dass wir in der ersten Stunde, die wir zusammenarbeiten, die größte Entdeckung in der Geschichte der Magie machen würden. Du hast nicht nur darauf gehofft, du hast es wirklich erwartet. Du bist doof."
+
+"Danke. Jetzt -"
+
+"Ich habe all die Bücher gelesen, die du mir gegeben hast und weiß immer noch nicht, wie man das nennt. Selbstüberschätzung? Planungs-Fehlschluss? Super-duper-Lake-Wobegon-Effekt?* Sie werden es nach dir benennen müssen. Der Harry-Fehlschluss."
+
+"Schon gut!"
+
+"Aber es ist süß. Ist sowas jungshaftes."
+
+"Fall doch tot um."
+
+"Oh, du sagst die romantischsten Sachen."
+
+Bumpf. Bumpf. Bumpf.
+
+"Also, was kommt als nächstes?" sagte Hermine.
+
+Harry ließ den Kopf auf den Ziegeln ruhen. Seine Stirn begann zu schmerzen, wo er sie gegen die Wand gehauen hatte. "Nichts. Ich muss nochmal von vorn anfangen und neue Experimente entwerfen."
+
+Den letzten Monat über hatte Harry sorgfältig, im Voraus, einen Ablauf von Experimenten ausgearbeitet, der sie bis Dezember beschäftigt gehalten hätte.
+
+Es wäre eine großartige Serie von Experimenten gewesen, wenn nicht gleich der erste Test die Grundprämisse falsifiziert hätte.
+
+Harry konnte nicht glauben, dass er so dämlich gewesen war.
+
+"Lass mich das korrigieren," sagte Harry. "Ich werde ein neues Experiment entwerfen müssen. Ich lasse dich wissen, wenn wir es haben und wir werden es durchführen und dann entwerfe ich das nächste. Wie klingt das?"
+
+"Klingt als hätte sich da jemand eine ganze Menge Aufwand umsonst gemacht."
+
+Bumpf. Au. Das war etwas härter gewesen, als er beabsichtigt hatte.
+
+"Also," sagte Hermine. Sie lehnte sich in ihrem Stuhl zurück und der selbstzufriedene Ausdruck war zurück auf ihrem Gesicht. "Was haben wir heute entdeckt?"
+
+"Ich habe entdeckt," sagte Harry durch zusammengebissene Zähne, "dass wenn es darum geht, echte Grundlagenforschung bei einem wahrhaft verwirrenden Problem durchzuführen, bei dem man keine Ahnung hat, was überhaupt vor sich geht, meine ganzen Bücher über wissenschaftliche Vorgehensweise für den Arsch sind -"
+
+"Sprache, Mr. Potter! Einige von uns sind unschuldige junge Mädchen!"
+
+"Fein. Doch wären meine Bücher nicht für den Barsch, was eine Art Fisch ist und nicht irgendwas schlimmes, hätten sie mir den folgenden Rat gegeben: Wenn du ein verwirrendes Problem hast und du fängst gerade erst an und du hast eine falsifizierbare Hypothese, dann teste sie. Finde einen simplen, einfachen Weg einen ersten Check durchzuführen und mach es gleich. Mach dir keine Mühe, einen ehrgeizigen Ablauf von Experimenten zu entwerfen, der eine große Präsentation vor Geldgebern eindrucksvoll wirken ließe. Teste einfach so schnell wie möglich, ob deine Ideen falsch sind, bevor du anfängst einen Riesenaufwand dafür zu betreiben. Wie klingt das als Moral der Geschichte?"
+
+"Mmm... okay," sagte Hermine. "Aber ich habe eher auf was gehofft, wie 'Hermines Bücher sind nicht wertlos. Sie wurden von weisen, alten Zauberern geschrieben, die sehr viel mehr über Magie wissen, als ich es tue. Ich sollte dem, was Hermines Bücher sagen, Beachtung schenken.' Können wir diese Moral auch nehmen?"
+
+Harrys Kiefer schien sich zu sehr verkrampft zu haben, um irgendwelche Worte durchzulassen, also nickte er nur.
+
+"Großartig!" sagte Hermine. "Das war ein tolles Experiment. Wir haben eine Menge daraus gelernt und ich habe dafür nur etwa eine Stunde gebraucht."
+
+"AAAAAAAAAAAAAAHHHHHHHHHHHHHHH!"
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-Eine stille Gestalt schlüpfte leise durch die kühlen Hallen der Verliese von Hogwarts. Er sollte um 6:00 Uhr nachmittags in einem bestimmten Raum sein, um eine bestimmte Person zu treffen und wenn irgend möglich war es besser früh dran zu sein, um Respekt zu zeigen.
+In den Verliesen von Slytherin.
 
-Doch als seine Hand den Türknauf drehte und die Tür dieses finsteren, stillen, ungenutzten Klassenraumes öffnete, stand dort bereits eine Silhouette inmitten der Reihen staubiger alter Pulte. Eine Silhouette, die einen kleinen grün-glühenden Stab hielt, der fahles Licht verströmte welches ihn, der sie hielt, kaum zu erleuchten vermochte, geschweige denn das umgebende Zimmer.
+Ein ungenutzter Klassenraum, erhellt von unheimlichem grünem Licht, viel heller als beim letzten mal und verströmt von einer kleinen Kristallkugel mit einer temporären Verzauberung, doch trotzdem unheimliches grünes Licht, dass staubige Pulte seltsame Schatten werfen ließ.
 
-Das Licht des Korridors erstarb als die Tür hinter ihm ins Schloss fiel und Dracos Augen begannen, sich an das dämmerige Glühen zu gewöhnen.
+Zwei Gestalten in Jungengröße, mit grauen Kapuzenmänteln (ohne Masken) waren leise eingetreten und setzten sich auf zwei gegenüber liegende Stühle am selben Pult.
 
-Die Silhouette drehte sich langsam, um ihn zu betrachten, enthüllte dabei ein überschattetes Gesicht, nur zum Teil erhellt von dem unheimlichen grünen Licht.
+Es war das zweite Treffen der Verschwörung von Bayes.
 
-Draco gefiel dieses Treffen bereits. Behielte man das kalte grüne Licht, machte sie beide größer, gäbe ihnen Kutten und Masken, versetzte sie vom Klassenzimmer auf einen Friedhof und es wäre genau so wie die Hälfte der Geschichten, die Freunde seines Vaters über die Todesser erzählten.
+Draco Malfoy war nicht sicher gewesen, ob er dem freudig entgegenblicken sollte oder nicht.
 
-"Ich will, dass du weißt, Draco Malfoy," sagte die Silhouette mit tödlicher Ruhe in der Stimme, "dass ich dir für meine jüngste Niederlage nicht die Schuld gebe."
+Harry Potter, seinem Gesichtsausdruck nach zu urteilen, schien keine Zweifel hinsichtlich der angemessenen Stimmung zu haben.
 
-Draco öffnete ohne Nachdenken protestierend den Mund, es gab keinen Grund ihm die Schuld zu geben -
+Harry Potter sah aus, als könnte er gleich jemanden umbringen.
 
-"Der Grund war, mehr als alles andere, meine eigene Dummheit," fuhr die schattenhafte Gestalt fort. "Ich hätte viele Dinge anders machen können, an jedem Punkt des Weges. Du hast mich nicht gebeten, genau das zu tun was ich tat. Du hast nur um Hilfe gebeten. Ich war derjenige, der unklugerweise diese bestimmte Vorgehensweise gewählt hat. Doch der Fakt bleibt, dass ich den Wettstreit um ein halbes Buch verloren habe. Die Handlungen deines idiotischen Domestiken und der Gefallen, den du erbeten hast und, ja, meine eigene Dummheit haben mich Zeit gekostet. Mehr Zeit als du ahnst. Zeit die sich, letztendlich, als entscheidend herausgestellt hat. Der Fakt bleibt, Draco Malfoy, dass, hättest du jenen Gefallen nicht erbeten, ich gewonnen hätte. Und nicht... stattdessen... verloren."
+"Hermine Granger," sagte Harry Potter, als Draco gerade den Mund aufmachte. "Frag nicht."
 
-Draco hatte bereits von Harrys Niederlage gehört und dem Preis, den Granger ihm abverlangt hatte. Die Neuigkeiten hatten sich schneller verbreitet als Eulen sie hätten tragen können.
+Er konnte nicht auf ein weiteres Date gegangen sein, oder doch? dachte Draco, doch das machte keinen Sinn.
 
-"Ich verstehe," sagte Draco. "Es tut mir leid." Er konnte nichts anderes sagen, wenn er Harry Potter zum Freund haben wollte.
+"Harry," sagte Draco, "Tut mir leid, aber ich muss einfach fragen, hast du wirklich dem Schlammblut-Mädchen einen teuren Eselsfell-Beutel zum Geburtstag gekauft?"
 
-"Ich bitte nicht um Verständnis oder Sorge," sagte die dunkle Silhouette, noch immer mit tödlicher Ruhe. "Doch ich habe gerade zwei volle Stunden in der Gegenwart von Hermine Granger verbracht, in der Kleidung, die mir dargereicht wurde, während des Besuchs solch faszinierender Orte in Hogwarts wie einem kleinen gluckernden Wasserfall aus etwas, das für mich aussah wie Rotz, begleitet von einer Anzahl weiterer Mädchen, die auf solch hilfreiche Maßnahmen bestanden, wie unseren Weg mit transfigurierten Rosenblüten zu bestreuen. Ich war bei einem Date, Spross von Malfoy. Mein erstes Date. Und wenn ich diesen Gefallen einfordere, wirst du dafür bezahlen müssen."
+"Ja, habe ich. Dir ist natürlich schon klar geworden, wieso."
 
-Draco nickte ernsthaft. Vor seinem Erscheinen hatte er in weiser Voraussicht jedes verfügbare Detail über Harrys Date in Erfahrung gebracht, damit er all sein hysterisches Gelächter vor ihrem vereinbarten Treffen hinter sich bringen konnte und ihm kein Fauxpas unterlief, indem er die ganze Zeit kicherte, bis er ohnmächtig wurde.
+Draco fuhr sich frustriert mit den Fingern durch die Haare, wobei die Kapuze seinen Handrücken streifte. Er war nicht ganz sicher gewesen wieso, doch jetzt konnte er das nicht sagen. Und Slytherin wusste, er wollte sich mit Harry Potter gut stellen, dass hatte er im Verteidigungs-Unterricht klar genug gemacht. "Harry," sagte Draco, "die Leute wissen, ich bin mit dir befreundet, sie wissen natürlich nichts über die Verschwörung, doch sie wissen, wir sind Freunde und es lässt mich schlecht dastehen, wenn du so etwas tust."
 
-"Glaubst du," sagte Draco, "dem Granger-Mädchen sollte etwas trauriges zustoßen -"
+Harry Potters Gesicht verzog sich. "Jeder in Slytherin, der nicht begreift, wieso man Leuten Nettigkeit vorspielt, die man nicht mag, sollte zu Staub zermahlen und an die Schlangen verfüttert werden."
 
-"Verbreite in Slytherin, dass das Granger-Mädchen mir gehört und alle, die sich in meine Angelegenheiten einmischen, ihre Überreste über ein Gebiet verteilt finden werden, in dem zwölf verschiedene Sprachen gesprochen werden. Und da ich kein Gryffindor bin und auf List statt offenen Angriff setze, sollte man sich nichts dabei denken, wenn man sehen sollte, wie ich sie anlächle."
+"Es gibt viele in Slytherin, die es nicht tun," sagte Draco mit ernster Stimme. "Die meisten Leute sind dämlich und trotzdem muss man vor ihnen das Gesicht wahren." Harry Potter musste das verstehen, wenn er es im Leben je zu etwas bringen wollte.
 
-"Oder wenn du auf einem zweiten Date gesehen wirst?" sagte Draco und erlaubte sich nur einen kleinen Hauch von Skepsis in der Stimme.
+"Was schert es dich, was andere Leute denken? Wirst du wirklich dein Leben danach ausrichten, alles was du tust den dümmsten Idioten in Slytherin zu erklären, sie über dich urteilen zu lassen? Tut mir leid, Draco, aber ich werde meine Ränkespiele nicht auf ein Niveau absenken, das der dümmste Slytherin verstehen kann, nur weil es dich sonst vielleicht schlecht aussehen ließe. Nicht einmal deine Freundschaft ist das wert. Es würde mir allen Spaß am Leben nehmen. Sag mir, dass du nicht schon einmal dasselbe gedacht hast, wenn jemand in Slytherin zu blöd zum Atmen ist, dass es unter der Würde eines Malfoy ist, sich bei ihm anzubiedern."
 
-"Es wird kein zweites Date geben," sagte die grün-erleuchtete Silhouette mit einer so beängstigenden Stimme, dass sie nicht nur wie bei einem Todesser klang, sondern wie Amycus Carrow das eine mal kurz bevor ihm Vater sagte, er solle aufhören, er sei nicht der Dunkle Lord.
+Hatte Draco ehrlich nicht. Niemals. Idioten gefällig zu sein, war wie atmen, man tat es ohne nachzudenken.
 
-Natürlich war es immer noch die hohe ungebrochene Stimme eines kleinen Jungen und in Verbindung mit den tatsächlichen Worten, nun, es funktionierte einfach nicht. Wenn Harry Potter eines Tages der Dunkle Lord wurde, würde Draco ein Denkarium verwenden, um eine Kopie dieser Erinnerung an einem sicheren Ort zu verwahren und Harry Potter würde es niemals wagen ihn zu verraten.
+"Harry," sagte Draco schließlich. "Einfach zu tun, was immer du willst, ohne dich darum zu kümmern, wie es aussieht, ist nicht schlau. Der Dunkle Lord machte sich Gedanken, wie man ihn wahrnahm! Er wurde gefürchtet und gehasst und er wusste genau welche Art von Angst und Hass er hervorrufen wollte. Jeder muss sich darum kümmern, was andere Leute denken."
 
-"Doch sprechen wir von fröhlicheren Dingen," sagte die grün-beschattete Gestalt. "Sprechen wir über Wissen und über Macht. Draco Malfoy, sprechen wir über Wissenschaft."
+Die Gestalt unter der Kapuze zuckte mit den Schultern. "Vielleicht. Erinnere mich daran, dir einmal von etwas namens Konformitätsexperiment von Asch zu erzählen, du dürftest es ziemlich amüsant finden. Für den Moment möchte ich nur bemerken, dass es gefährlich ist, sich instinktiv darum zu kümmern, was andere Leute denken, weil es dich wirklich interessiert, nicht aus kaltblütiger Berechnung. Denk daran, ich wurde von älteren Slytherins fünfzehn Minuten lang aufgemischt und gemobbt und hinterher stand ich auf und habe ihnen großherzig vergeben. Genau wie der gute und tugendhafte Junge-der-überlebt-hat es tun sollte. Doch meine kaltblütige Berechnung, Draco, sagt mir, dass ich keine Verwendung habe für die dümmsten Idioten in Slytherin, da ich mir keine Schlange als Haustier halte. Daher sehe ich keinen Grund, wieso es mich kümmern sollte, was sie davon halten, wie ich mein Duell mit Hermine Granger bestreite."
 
-"Ja," sagte Draco. "Reden wir."
+Draco ballte nicht vor Frustration die Fäuste. "Sie ist nur irgendein Schlammblut," sagte Draco mit ruhiger Stimme, anstatt zu schreien. "Wenn du sie nicht magst, schubs sie die Treppe runter."
 
-Draco fragte sich wie viel von seinem eigenen Gesicht zu sehen war und wie viel im Schatten lag, in jenem unheimlichen grünen Licht.
+"Ravenclaw würde es wissen -"
 
-Und obwohl Dracos Gesichtsausdruck ernst blieb, war ein Lächeln in seinem Herzen.
+"Lass Pansy Parkinson sie die Treppe runter schubsen! Du müsstest sie nicht mal manipulieren, biete ihr einen Sickel und sie macht es!"
 
-Er führte endlich eine richtige erwachsene Unterhaltung.
+"Ich würde es wissen! Hermine hat mich in einem Buch-lese-Wettstreit geschlagen, sie kriegt bessere Noten als ich; ich muss sie mit Köpfchen besiegen oder es zählt nicht!"
 
-"Ich biete dir Macht," sagte die schattenhafte Gestalt, "und ich werde dir berichten von dieser Macht und ihrem Preis. Die Macht stammt aus dem Wissen um die Beschaffenheit der Realität, mit dem man die Kontrolle über sie erlangt. Was man versteht, kann man beherrschen und das ist Macht genug, um auf dem Mond zu spazieren. Der Preis dieser Macht ist, dass man lernen muss, der Natur Fragen zu stellen und sehr viel schwieriger, die Antworten der Natur zu akzeptieren. Du wirst experimentieren, Tests durchführen und sehen was passiert. Und du musst die Bedeutung dieser Ergebnisse akzeptieren, wenn sie dir sagen, dass du falsch liegst. Du wirst lernen müssen, wie man verliert, nicht gegen mich, gegen die Natur. Wenn du mit der Realität im Streit liegst, wirst du die Realität gewinnen lassen müssen. Du wirst dies schmerzhaft finden, Draco Malfoy und ich weiß nicht ob du in dieser Hinsicht die nötige Stärke besitzt. Im Wissen um den Preis, ist es noch immer dein Wunsch, von der Macht des Menschen zu erfahren?"
+"Sie ist nur ein Schlammblut! Warum respektierst du sie so sehr?"
 
-Draco nahm einen tiefen Atemzug. Er hatte darüber nachgedacht. Und er konnte schwerlich etwas anderes antworten. Er war angewiesen worden, jeden Weg zur Freundschaft mit Harry Potter zu nutzen. Er lernte nur, er versprach nicht irgendetwas zu tun. Er konnte die Lektionen zu jedem beliebigen Zeitpunkt beenden...
+"Sie stellt eine Macht unter Ravenclaws dar! Warum schert es dich, was irgendein machtloser Idiot in Slytherin denkt?"
 
-Es gab sicherlich eine Anzahl von Aspekten dieser Situation, die es wie eine Falle wirken ließen, doch ganz ehrlich, Draco sah nicht wie das schief gehen konnte.
+"Das nennt man Politik! Und wenn man sie nicht beherrscht, kann man keine Macht erlangen!"
 
-Außerdem wollte Draco schon irgendwie die Welt regieren.
+"Auf dem Mond zu spazieren ist Macht! Ein großer Zauberer zu sein ist Macht! Es gibt Arten von Macht, die mir nicht abverlangen, mich mein Leben lang mit Hohlköpfen abzugeben!"
 
-"Ja," sagte Draco.
+Beide hielten inne und, in fast perfektem Einklang, begannen sie tief durchzuatmen, um sich zu beruhigen.
 
-"Exzellent," sagte die schattenhafte Gestalt. Ich hatte eine etwas vollgestopfte Woche und es wird Zeit in Anspruch nehmen, deinen Lehrplan auszuarbeiten -"
+"Tut mir leid," sagte Harry Potter einige Augenblicke später und wischte sich Schweiß von der Stirn. "Tut mir leid, Draco. Du hast eine Menge politische Macht und es macht Sinn für dich, sie zu behalten. Du solltest einberechnen, was Slytherin denkt. Es ist ein wichtiges Spiel und das hätte ich nicht in den Dreck ziehen dürfen. Doch du kannst mich nicht bitten, mein Spiel in Ravenclaw abzuwerten, nur damit du nicht schlecht dastehst, wenn du dich mit mir gemein machst. Sag Slytherin, du beißt die Zähne zusammen, während du vorgibst mein Freund zu sein."
 
-"Ich muss selbst so einige Dinge erledigen, um meine Macht in Slytherin zu festigen," sagte Draco, "ganz zu schweigen von Hausaufgaben. Vielleicht sollten wir einfach im Oktober beginnen?"
+Das war exakt das, was Draco Slytherin erzählt hatte und er war noch immer nicht sicher, ob es die Wahrheit war.
 
-"Klingt vernünftig," sagte die schattenhafte Gestalt, "doch was ich sagen wollte war, um deinen Lehrplan auszuarbeiten, muss ich wissen, was ich dich lehren werde. Drei Möglichkeiten drängen sich auf. Die erste ist, dass ich dich über den menschlichen Geist und das Gehirn unterweisen werde. Die zweite Option ist, dass ich dir vom physikalischen Universum erzähle, jene Künste die den Pfad zu einem Besuch auf dem Mond ebnen. Dafür sind sehr viele Zahlen von Nöten, doch für bestimmte Geister sind diese Zahlen so wunderschön wie nichts anderes, das die Wissenschaft zu bieten hat. Magst du Zahlen, Draco?"
+"Jedenfalls," sagte Draco. "Da wir von deinem Image sprechen. Ich fürchte, ich habe schlechte Nachrichten. Rita Kimmkorn hat einige der Geschichten über dich gehört und angefangen, Fragen zu stellen."
 
-Draco schüttelte den Kopf.
+Harry Potter hob die Augenbrauen. "Wer?"
 
-"Dann soviel dazu. Du wirst trotzdem deinen Teil Mathematik erlernen, doch nicht sofort, denke ich. Die dritte Möglichkeit ist, ich unterrichte dich in Genetik, Evolution und Vererbung, was du als Blut bezeichnen würdest -"
+"Sie schreibt für den Tagespropheten," sagte Draco. Er versuchte, nicht allzu besorgt zu klingen. Der Tagesprophet war eines von Vaters wichtigsten Werkzeugen, er benutzte ihn wie einen Zauberstab. "Das ist die Zeitung, der die Leute tatsächlich Beachtung schenken. Rita Kimmkorn schreibt über Berühmtheiten und benutzt, wie sie es ausdrückt, ihren Federkiel, um ihren übermäßig aufgeblasenen Ruf zu durchlöchern. Wenn sie keine Gerüchte über dich finden kann, wird sie sich einfach eigene ausdenken."
 
-"Das," sagte Draco.
+"Ich verstehe," sagte Harry Potter. Sein grün-beleuchtetes Gesicht sah sehr nachdenklich aus unter der Kutte.
 
-Die Gestalt nickte. "Ich dachte mir, du würdest das sagen. Doch ich denke, dies wird der schmerzhafteste Pfad für dich sein, Draco. Was wenn deine Familie und Freunde, die Blutreinheits-Verfechter, das eine sagen und du feststellst, das Experiment sagt etwas anderes?"
+Draco zögerte vor dem, was er als nächstes sagen musste. Mittlerweile hatte gewiss jemand Vater berichtet, dass er um Harrys Gunst buhlte und Vater würde ebenfalls wissen, dass Draco darüber noch nichts nach Hause geschrieben hatte und Vater würde klar sein, dass Draco nicht glaubte, es tatsächlich geheim halten zu können, was ihm eine deutliche Botschaft wäre, dass Draco jetzt sein eigenes Spiel spielte, doch noch immer auf Vaters Seite, denn wäre Draco anderweitig in Versuchung geraten, hätte er falsche Berichte geschickt.
 
-"Dann finde ich heraus, wie ich das Experiment dazu bringe, die richtige Antwort zu geben!"
+Woraus folgte, dass Vater wahrscheinlich erwartet hatte, was Draco als nächstes sagen würde.
 
-Es entstand eine Pause, während die schattenhafte Gestalt kurz mit offen stehendem Mund dastand.
+Das Spiel tatsächlich mit Vater zu spielen war eine ziemlich verunsichernde Erfahrung. Selbst wenn sie auf der selben Seite waren. Es war, einerseits, aufregend, doch Draco wusste auch, am Ende würde sich herausstellen, dass Vater das Spiel besser beherrschte. Es konnte einfach nicht anders sein.
 
-"Ähm," sagte die schattenhafte Gestalt. "So funktioniert es aber nicht. Davor habe ich dich zu warnen versucht, Draco. Du kannst nicht dafür sorgen, dass die Antwort immer so lautet, wie es dir gefällt."
+"Harry," sagte Draco schließlich. "Dies ist kein Vorschlag. Es ist kein Rat. Sondern einfach, wie es ist. Mein Vater könnte diesen Artikel fast sicher zurückhalten. Doch das würde dich einiges kosten."
 
-"Man kann immer dafür sorgen, dass die Antwort im eigenen Sinne ist," sagte Draco. Das war praktisch das erste gewesen, was seine Privatlehrer ihm beigebracht hatten. "Es geht nur darum, die richtigen Argumente zu finden."
+Dass Vater von Draco erwartet hatte, genau das zu sagen, würde Draco nicht laut aussprechen. Harry Potter würde es sich selbst zusammenreimen oder eben nicht.
 
-"Nein," sagte die schattenhafte Gestalt zunehmend frustrierter, "nein, nein, nein! Dann bekommst du die falsche Antwort und so kannst du nicht zum Mond fliegen! Die Natur ist keine Person, du kannst sie nicht durch Tricks dazu bringen, etwas anderes zu glauben; wenn du versuchst dem Mond zu erzählen, dass er aus Käse gemacht ist, kannst du tagelang argumentieren, doch das verändert nicht den Mond! Wovon du sprichst, ist Rationalisierung, als würdest du ein Stück Papier nehmen, direkt bis zur letzten Zeile springen und mit Tinte hinschreiben 'und deshalb ist der Mond aus Käse gemacht' und dann wieder nach oben springen um alle möglichen cleveren Argumente darüber zu schreiben. Aber entweder ist der Mond aus Käse gemacht oder er ist es nicht. In dem Moment, als du die Schlusszeile geschrieben hast, war sie bereits wahr oder bereits falsch. Ob das ganze Blatt Papier mit der richtigen Schlussfolgerung oder der falschen endet, steht bereits fest in dem Moment, wenn du die Schlusszeile schreibst. Wenn du versuchst zwischen zwei teuren Koffern zu wählen und du magst den glänzenden, spielt es keine Rolle welche cleveren Argumente dir dafür einfallen, ihn zu kaufen; die wirkliche Regel nach der du den Koffer, für den du argumentieren wolltest, ausgewählt hast, war 'nimm den glänzenden' und ob diese Regel effektiv ist um gute Koffer auszuwählen oder nicht, das ist der Koffer, den du bekommst. Rationalität kann man nicht benutzen, um für eine feste Seite zu argumentieren, man kann sie nur dafür benutzen zu entscheiden, für welche Seite man streiten soll. Wissenschaft ist nicht dazu da, irgendwen davon zu überzeugen, dass die Blutreinheits-Verfechter recht haben. Das ist Politik! Die Macht der Wissenschaft ist, das durch Argumente unveränderbare wahre Wesen der Natur zu ergründen! Was die Wissenschaft kann, ist uns zu sagen, wie Blut wirklich funktioniert, wie Zauberer wirklich ihre Kräfte von ihren Eltern erben und ob Muggelgeborene wirklich schwächer oder stärker sind -"
+Doch stattdessen schüttelte Harry Potter den Kopf, lächelte unter der Kapuze. "Ich habe nicht die Absicht, Rita Kimmkorn zurückzuhalten."
 
-"Stärker!" sagte Draco. Er hatte versucht, dem zu folgen, mit Verwirrung auf dem Gesicht, er konnte sehen, dass es irgendwie Sinn machte, doch es war definitiv anders als alles von dem er je zuvor gehört hatte. Und dann hatte Harry Potter etwas gesagt, das Draco unmöglich durchgehen lassen konnte. "Du denkst Schlammblüter sind stärker?"
+Draco versuchte nicht einmal, den Unglauben aus seiner Stimme zu verbannen. "Du kannst mir doch nicht erzählen, es interessiert dich nicht, was die Zeitung über dich sagt!"
 
-"Ich denke gar nichts," sagte die schattenhafte Gestalt. "Ich weiß nichts. Ich glaube nichts. Meine Schlusszeile ist noch nicht geschrieben. Ich werde herausfinden, wie sich die magische Kraft von Muggelgeborenen und die magische Kraft von Reinblütern testen lassen. Wenn meine Tests mir sagen Muggelgeborene sind schwächer, werde ich glauben sie sind schwächer. Wenn meine Tests mir sagen Muggelgeborene sind stärker, werde ich glauben sie sind stärker. Durch das Wissen um diese und andere Wahrheiten, werde ich ein gewisses Maß an Macht erlangen -"
+"Es interessiert mich weniger als du vielleicht glaubst," sagte Harry Potter. "Doch ich habe meinen eigenen Methoden, mit Kimmkorn und ihresgleichen fertig zu werden. Ich brauche Lucius Hilfe nicht."
 
-"Und du erwartest von mir, zu glauben was immer du sagst?" verlangte Draco hitzig.
+Ein besorgter Ausdruck zeigte sich auf Dracos Gesicht, bevor er es verhindern konnte. Was immer Harry Potter als nächstes täte, es wäre etwas, was Vater nicht erwarten würde und Draco war sehr beunruhigt, wo das hinführen mochte.
 
-"Ich erwarte von dir, die Tests persönlich auszuführen," sagte die schattenhafte Gestalt leise. "Fürchtest du das, was du erfahren wirst?"
+Draco bemerkte außerdem, dass sein Haar unter der Kapuze schwitzig zu werden begann. Er hatte noch nie zuvor tatsächlich einen von diesen getragen und nicht erkannt, dass die Umhänge der Todesser wahrscheinlich so etwas wie eingebaute Kühlzauber besaßen.
 
-Draco starrte die schattenhafte Gestalt eine Weile an, seine Augen verengten sich. "Nette Falle, Harry," sagte er. "Die werde ich mir merken müssen, sie ist neu."
+Harry Potter wischte sich erneut etwas Schweiß von der Stirn, zog eine Grimasse, nahm seinen Zauberstab heraus, richtete ihn nach oben, holte tief Luft und sagte "Frigideiro!"
 
-Die schattenhafte Gestalt schüttelte den Kopf. "Es ist keine Falle, Draco. Denk daran - ich weiß nicht, was wir herausfinden werden. Doch man kann das Universum nicht verstehen, indem man mit ihm streitet oder ihm sagt, es solle beim nächsten mal mit einer anderen Antwort kommen. Wenn du den Umhang eines Wissenschaftlers anlegst, musst du all deine Politik und Argumente und Fraktionen und Seiten vergessen, von dem ablassen, woran dein Geist sich verzweifelt klammert und nur den Wunsch verspüren, die Antwort der Natur zu hören." Die schattenhafte Gestalt hielt inne. "Die meisten Menschen können es nicht. Deshalb ist es schwierig. Bist du sicher, du würdest nicht lieber nur etwas über das Gehirn lernen?"
+Augenblicke später fühlte Draco die kühle Brise.
 
-"Und wenn ich dir sagte, ich würde lieber etwas über das Gehirn lernen," sagte Draco, nun mit Härte in der Stimme, "wirst du herum erzählen, dass ich Angst vor dem hatte, was ich erfahren würde."
+"Frigideiro! Frigideiro! Frigideiro! Frigideiro! Frigideiro!"
 
-"Nein," sagte die schattenhafte Gestalt. "So etwas werde ich nicht tun."
+Dann senkte Harry den Zauberstab, obwohl seine Hand etwas zittrig schien und steckte ihn zurück in seinen Umhang.
 
-"Aber du könntest die gleichen Tests selbst durchführen und wenn du die falsche Antwort hättest, wäre ich nicht da um irgendetwas zu sagen, bevor du es jemandem zeigst." Dracos Stimme war noch immer hart.
+Der gesamte Raum schien bemerkenswert kühler. Draco hätte das ebenfalls tun können, aber trotzdem, nicht schlecht.
 
-"Ich würde dich noch immer vorher fragen, Draco," sagte die schattenhafte Gestalt leise.
+"Also," sagte Draco. "Wissenschaft. Du wirst mir etwas über Blut erzählen."
 
-Draco hielt inne. Das hatte er nicht erwartet, er hatte gedacht er sähe die Falle, doch... "Würdest du?"
+"Wir werden etwas über Blut herausfinden," sagte Harry Potter. "Durch Experimente."
 
-"Natürlich. Woher wüsste ich, wen wir erpressen sollten oder was wir von ihm verlangen können? Draco, noch einmal, ich habe dir damit keine Falle gestellt. Nicht dir persönlich zumindest. Wenn deine politischen Ansichten anders wären, würde ich sagen, was wenn die Tests zeigten, dass Reinblüter stärker sind."
+"Alles klar," sagte Draco. "Was für Experimente?"
 
-"Wirklich."
-
-"Ja! Das ist der Preis, den jeder zahlen muss, um ein Wissenschaftler zu werden!"
-
-Draco hob eine Hand. Er musste nachdenken.
-
-Die schattenhafte, grün-erleuchtete Gestalt wartete.
-
-Er musste allerdings nicht lange darüber nachdenken. Wenn man all die verwirrenden Teile beiseite ließ... dann plante Harry Potter mit etwas herum zu spielen, was eine gewaltige politische Bombe platzen lassen konnte und es wäre wahnsinnig, sich einfach abzuwenden und es ihn allein tun zu lassen. "Wir studieren Blut," sagte Draco.
-
-"Exzellent," sagte die Gestalt und lächelte. "Glückwunsch, dass du die Frage stellen möchtest."
-
-"Danke," sagte Draco und konnte die Ironie nicht ganz aus seiner Stimme verbannen.
-
-"Hey, denkst du zum Mond zu fliegen war einfach? Sei froh, dass man hierfür nur ab und an seine Meinung ändern muss und keinen Menschen opfern!"
-
-"Ein Menschenopfer wäre viel einfacher!"
-
-Eine kleine Pause entstand, dann nickte die Gestalt. "Guter Punkt."
-
-"Sieh mal, Harry," sagte Draco ohne große Hoffnung, "ich dachte, die Idee wäre alles zu nehmen, was Muggel wissen, es mit dem zu kombinieren was Zauberer wissen und beide Welten zu meistern. Wäre es nicht viel einfacher nur all die Sachen zu lernen, die Muggel bereits herausgefunden haben, wie das Mond-Zeugs und diese Macht zu nutzen -"
-
-"Nein," sagte die Gestalt mit energischem Kopfschütteln, ließ dabei grüne Schatten um seine Nase und Augen wandern. Seine Stimme hatte sich sehr verdüstert. "Wenn du nicht die Kunst des Wissenschaftlers erlernen kannst, die Realität zu akzeptieren, dann darf ich dir nicht sagen, was durch diese Akzeptanz entdeckt wurde. Es wäre als erzählte dir ein mächtiger Zauberer von jenen Toren, die nicht geöffnet und Siegeln, die nicht gebrochen werden dürfen, bevor du deine Intelligenz und Disziplin durch das Überleben der geringeren Gefahren unter Beweis gestellt hast."
-
-Ein Schauer lief Draco über den Rücken und er erzitterte unwillkürlich. Er wusste, es war sichtbar gewesen, selbst in dem gedämpften Licht. "In Ordnung," sagte Draco. "Ich verstehe." Vater hatte es ihm oft gesagt. Wenn ein mächtigerer Zauberer einem sagte, man sei nicht bereit, sollte man nicht weiter drängen, wenn man leben wollte.
-
-Die Gestalt neigte den Kopf. "In der Tat. Doch es gibt noch etwas, das du verstehen solltest. Die ersten Wissenschaftler, da sie Muggel waren, hatten nicht eure Traditionen. Am Anfang war ihnen die Vorstellung gefährlichen Wissens einfach nicht vertraut und sie dachten, über alles was man wisse, solle frei gesprochen werden. Als ihre Suche gefährliches zutage brachte, berichteten sie ihren Politikern von Dingen, die hätten geheim bleiben sollen - schau nicht so, Draco, sie waren nicht einfach dämlich. Immerhin mussten sie schlau genug sein, das Geheimnis überhaupt erst zu entdecken. Doch sie waren Muggel, es war das erste mal, dass sie etwas wahrhaft gefährliches entdeckt hatten und sie besaßen nicht von Beginn an eine Tradition der Geheimhaltung. Es war ein Krieg im Gange und die Wissenschaftler auf einer Seite sorgten sich, dass wenn sie nicht redeten, die Wissenschaftler des feindlichen Landes es ihren Politikern zuerst sagen würden..." Die Stimme verklang bedeutungsvoll. "Sie haben nicht die Welt zerstört. Doch es war knapp. Und wir werden diesen Fehler nicht wiederholen."
-
-"Richtig," sagte Draco, seine Stimme nun sehr fest. "Werden wir nicht. Wir sind Zauberer und Wissenschaft zu erlernen macht uns nicht zu Muggeln."
-
-"Du sagst es," sagte die grün-erleuchtete Silhouette. "Wir werden unsere eigene Wissenschaft etablieren, eine magische Wissenschaft und jene Wissenschaft wird von Beginn an schlauere Traditionen haben." Die Stimme wurde hart. "Das Wissen, das ich mit dir teile wird zusammen gelehrt mit der Disziplin, die Wahrheit zu akzeptieren, der Grad dieses Wissens wird an deinen Fortschritt in jener Disziplin gebunden sein und du wirst dieses Wissen mit niemandem teilen, der diese Disziplin nicht gemeistert hat. Akzeptierst du das?"
-
-"Ja," sagte Draco. Was sollte er schon tun, nein sagen?
-
-"Gut. Und was du selbst entdeckst, wirst du für dich behalten, es sei denn du denkst, dass andere Wissenschaftler für das Wissen bereit sind. Was wir untereinander teilen, werden wir der Welt nicht verraten, es sei denn wir stimmen überein, dass das Wissen für die Welt sicher ist. Und wie auch immer unsere eigenen politischen Ansichten und Loyalitäten beschaffen sind, wir alle werden jeden aus unserer Mitte bestrafen, der gefährliche Magie oder Waffen weitergibt, egal was für ein Krieg gerade vor sich geht. Von diesem Tage an wird dies die Tradition und das Gesetz der Wissenschaft unter Zauberern sein. Stimmen wir darin überein?"
-
-"Ja," sagte Draco. Tatsächlich hörte sich das langsam ziemlich attraktiv an. Die Todesser hatten versucht, die Macht zu ergreifen, indem sie furchterregender als alle anderen waren und sie hatten noch nicht wirklich gewonnen. Vielleicht war es Zeit für den Versuch, stattdessen durch Geheimnisse zu regieren. "Und unsere Gruppe bleibt so lange wie möglich im Verborgenen und jedes Mitglied wird unseren Regeln zustimmen müssen."
-
-"Natürlich. Definitiv."
-
-Eine kurze Pause entstand.
-
-"Wir werden bessere Umhänge brauchen," sagte die schattenhafte Gestalt, "mit Kapuzen und so weiter -"
-
-"Das habe ich auch gerade gedacht," sagte Draco. Wir brauchen allerdings keine völlig neuen Umhänge, nur Mäntel mit Kapuzen zum Überstreifen. Ich habe eine Freundin in Slytherin, sie nimmt deine Maße -"
-
-"Sag ihr aber nicht wofür -"
-
-"Ich bin nicht blöd!"
-
-"Und noch keine Masken, nicht wenn es nur wir beide sind -" sagte die schattenhafte Gestalt.
-
-"Stimmt! Doch später dann sollten wir eine Art spezielles Mal haben, dass all unsere Diener tragen, das Mal der Wissenschaft, wie eine Schlange, die den Mond frisst auf dem rechten Arm -"
-
-"Das nennt man einen Doktortitel und könnte man unsere Leute damit nicht zu einfach identifizieren?"
-
-"Häh?"
-
-"Ich meine, was wenn jemand sowas sagt wie 'okay, jetzt krempeln mal alle den rechten Ärmel hoch' und unser Kerl so 'uups, sorry, sieht aus als wäre ich ein Spion' -"
-
-"Vergiss dass ich was gesagt habe," sagte Draco, dem plötzlich der Schweiß am ganzen Körper ausbrach. Er brauchte eine Ablenkung, schnell - "Und wie nennen wir uns? Die Wissenschaftesser?"
-
-"Nein," sagte die schattenhafte Gestalt langsam. "Das klingt nicht richtig..."
-
-Draco fuhr sich mit dem Ärmel seines Umhangs über die Stirn, wischte kleine Perlen aus Flüssigkeit davon. Was hatte sich der Dunkle Lord nur gedacht? Vater hatte gesagt, der Dunkle Lord war schlau!
-
-"Ich hab's!" sagte die schattenhafte Gestalt plötzlich. "Du wirst noch nicht verstehen, aber vertrau mir, es passt."
-
-In jenem Moment hätte Draco auch 'Malfoy-Mampfer' akzeptiert, solange sie nur das Thema wechselten. "Was ist es?"
-
-Und zwischen den staubigen Pulten in einem ungenutzten Klassenzimmer in den Verliesen von Hogwarts stehend, breitete die grün-erleuchtete Silhouette dramatisch die Arme aus und sagte, "Dieser Tag markiert den Aufstieg der... Verschwörung von Bayes."
+Harry Potter lächelte bösartig unter seiner Kapuze und sagte, "Sag du's mir."
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-Eine leise Gestalt schleppte sich erschöpft durch die Gänge von Hogwarts in Richtung von Ravenclaw.
+Draco hatte schon einmal von der Sokratischen Methode gehört, was hieß, zu lehren, durch Fragen stellen (benannt nach einem Philosophen der Antike, der zu schlau gewesen war, um ein echter Muggel zu sein und daher ein verkappter reinblütiger Zauberer). Einer seiner Privatlehrer hatte Sokratisches Lehren sehr oft angewandt. Es war nervig doch effektiv gewesen.
 
-Harry war direkt von dem Treffen mit Draco aus zum Abendessen gegangen und gerade lang genug dort geblieben um ein paar schnelle Bissen herunter zu schlingen bevor er sich ins Bett aufmachte.
+Dann gab es noch die Potter-Methode, die einfach nur wahnsinnig war.
 
-Es war noch nicht einmal 7 Uhr abends, doch für Harry bereits weit nach Schlafenszeit. Ihm war letzte Nacht klar geworden, dass er den Zeitumkehrer am Samstag, bis der Buch-lese-Wettstreit bereits vorüber war, nicht würde benutzen können. Doch er konnte den Zeitumkehrer noch immer Freitag nachts benutzen und auf diese Weise Zeit gewinnen. Also hatte sich Harry gezwungen am Freitag bis 9 Uhr abends wach zu bleiben, wenn die Schutzhülle sich öffnete und dann die verbleibenden vier Stunden auf dem Zeitumkehrer genutzt, um bis 5 Uhr abends zurück zu gehen und vor Müdigkeit zusammenzubrechen. Er war Samstag um 2 Uhr morgens aufgewacht, genau wie geplant und hatte die nächsten zwölf Stunden hindurch gelesen... und es hatte trotzdem nicht gereicht. Und nun würde Harry die nächsten paar Tage ziemlich früh ins Bett gehen, bis sein Schlafrythmus wieder aufgeholt hatte.
+Um fair zu sein, musste Draco zugeben, dass Harry Potter es zunächst mit der Sokratischen Methode versucht hatte und es hatte nicht allzu gut funktioniert.
 
-Das Porträt an der Tür stellte ihm irgendein dummes Rätsel für Elfjährige, das er löste, ohne dass die Worte überhaupt sein Bewusstsein passierten und dann stolperte Harry die Treppenstufen zu seinem Schlafsaal hinauf, schlüpfte in seinen Pyjama und ließ sich aufs Bett fallen.
+Harry Potter hatte gefragt, wie Draco vorgehen würde, um die Hypothese der Blutreinheits-Verfechter, dass Zauberer die tollen Sachen, die sie acht Jahrhunderte zuvor getan hatten, nicht mehr konnten, weil sie sich mit Muggelgeborenen und Squibs paarten, zu widerlegen.
 
-Und stellte fest, dass sein Kissen sich ziemlich klumpig anfühlte.
+Draco hatte erwidert, dass er nicht verstand, wie Harry Potter dort ohne eine Miene zu verziehen sitzen und behaupten konnte, dass dies keine Falle sei.
 
-Harry ächzte. Er setzte sich widerstrebend auf, drehte sich im Bett und hob sein Kissen an.
+Harry Potter hatte geantwortet, noch immer mit unbewegter Miene, dass wenn dies eine Falle wäre, sie so jämmerlich offensichtlich sei, dass er zu Staub zermahlen und an die Schlangen verfüttert werden sollte, doch es sei keine Falle, es sei einfach eine Regel, nach der Wissenschaftler vorgingen, dass man versuchen müsse, seine eigenen Theorien zu widerlegen und wenn man es ehrlich versuche und versage, sei das ein Sieg.
 
-Dieses enthüllte eine Notiz, zwei goldene Galleonen und ein Buch mit dem Titel Okklumentik: Die Verborgene Chunst.**
+Draco hatte versucht, auf die erschütternde Dummheit dessen hinzuweisen, indem er andeutete, der Schlüssel zum Sieg in einem Duell sei es, mit Avada Kedavra auf den eigenen Fuß zu zielen und daneben zu schießen.
 
-Harry nahm die Notiz und las:
+Harry Potter hatte genickt.
 
-Meine Güte, hast du dir einen Ärger eingehandelt und auch noch so schnell. Dein Vater konnte dir nicht das Wasser reichen.
+Draco hatte den Kopf geschüttelt.
 
-Du hast dir einen mächtigen Feind gemacht. Snape verfügt über Treue, Bewunderung und Furcht des gesamten Hauses Slytherin. Du kannst jetzt niemandem in diesem Haus mehr trauen, ob sie dir nun freundlich oder furchterregend scheinen.
+Harry Potter hatte es daraufhin mit dem Gedanken versucht, dass Wissenschaftler Ideen gegeneinander antreten ließen, um zu sehen, welche gewannen und man konnte nicht ohne einen Gegner kämpfen, also müsse Draco sich Gegner für die Hypothese der Blutreinheits-Verfechter einfallen lassen, damit die Blutreinheitslehre gewinnen könne, was Draco etwas besser verstand, obwohl Harry es mit eher bitterem Gesichtsausdruck gesagt hatte. Als ginge man davon aus, dass wenn die Blutreinheitslehre das wahre Wesen der Welt beschrieb, der Himmel einfach blau sein müsse und wenn eine andere Theorie wahr wäre, der Himmel einfach grün sein müsse und dass bis jetzt noch niemand den Himmel gesehen habe und dann ging man hinaus und schaute nach und die Blutreinheits-Verfechter gewannen und nachdem das sechs mal in Folge passiert war, würden die Leute erkennen, wie sich ein Trend abzeichnete.
 
-Von nun an darfst du Snapes Blick nicht begegnen. Er ist ein Legilimentor und kann anderenfalls deinen Geist lesen. Ich habe ein Buch beigefügt, welches dir helfen mag, dich zu verteidigen, obwohl die Fortschritte, die man ohne einen Privatlehrer machen kann, ihre Grenzen haben. Dennoch darfst du hoffen, ein Eindringen zumindest zu bemerken.
+Harry Potter hatte dann weiterhin behauptet, dass all die Gegner, die Draco erfand, zu schwach seien, daher brächte es der Blutreinheitslehre keinen Ruhm ein, sie zu besiegen, denn der Kampf wäre nicht eindrucksvoll genug. Das hatte Draco ebenfalls verstanden. Die Zauberer werden schwächer, weil Hauselfen unsere Magie stehlen, war auch ihm nicht wirklich eindrucksvoll vorgekommen.
 
-Damit du etwas extra Zeit findest, in der du Okklumentik studieren kannst, habe ich 2 Galleonen beigelegt, was der Preis für die Antwortbögen und Hausaufgaben der ersten Klasse in Geschichte der Magie ist (da Professor Binns die selben Tests und Aufgaben ausgibt, seit dem Jahr in dem er starb). Deine neuen Freunde, die Weasley-Zwillinge sollten dir eine Kopie verkaufen können. Es braucht wohl nicht erwähnt zu werden, dass du dich damit in deinem Besitz nicht erwischen lassen darfst.
+(Obwohl Harry Potter gesagt hatte, dass dies sich immerhin überprüfen ließ, da sie zu testen versuchen könnten, ob Hauselfen über die Zeit stärker geworden waren und sogar eine Grafik zeichnen konnten, welche die steigende Kraft der Hauselfen und eine weitere, die die schwindende Kraft der Zauberer darstellte und stimmten die beiden Grafiken überein, würde das auf die Hauselfen hindeuten; alles in so vollkommen ernsthaftem Ton, dass Draco den Drang verspürt hatte, Dobby ein paar gezielte Fragen unter Veritaserum zu stellen, ehe er wieder zu sich kam.)
 
-Über Professor Quirrell ist mir nur wenig bekannt. Er ist ein Slytherin und ein Verteidigungs-Professor und das sind zwei Punkte, die gegen ihn sprechen. Überdenke sorgfältig jeden Rat, den er dir gibt und erzähle ihm nichts, das du nicht bekannt werden lassen willst.
+Und schließlich hatte Harry Potter noch gesagt, dass Draco den Kampf nicht manipulieren könne, Wissenschaftler waren nicht blöd, es wäre offensichtlich wenn man den Kampf manipulierte, es musste ein echter Kampf zwischen zwei verschiedenen Theorien sein, die beide tatsächlich wahr sein könnten, mit einem Test, den nur die wahre Hypothese bestehen würde, etwas dessen Ausgang sich tatsächlich unterscheiden würde, je nach dem welche Theorie tatsächlich korrekt war und es würden erfahrene Wissenschaftler zusehen, um sicherzustellen, dass genau das geschah. Harry Potter hatte behauptet, dass er selbst nur wissen wolle, wie Blut wirklich funktionierte und dafür müsse er die Blutreinheitslehre wirklich gewinnen sehen und Draco würde ihn nicht mit Theorien täuschen, die nur Pappfiguren waren.
 
-Dumbledore gibt nur vor, verrückt zu sein. Er ist extrem intelligent und wenn du weiterhin in Schränke steigst und dann verschwindest, wird er sicherlich darauf schließen, dass du einen Unsichtbarkeitsumhang besitzt, wenn er es nicht bereits getan hat. Meide ihn, soweit es möglich ist, verstecke den Unsichtbarkeitsumhang an einem sicheren Ort (NICHT dein Beutel), wenn du ihn nicht meiden kannst und gehe in seiner Gegenwart mit äußerster Vorsicht vor.
+Auch nachdem er den Sinn verstand, war Draco nicht imstande gewesen, irgendwelche "plausiblen Alternativen", wie Harry Potter es ausgedrückt hatte, zu der Theorie zu entwickeln, dass Zauberer schwächer wurden, weil sie ihr Blut mit Schlamm vermischten. Es war zu offensichtlich die Wahrheit.
 
-Bitte sei in Zukunft vorsichtiger, Harry Potter.
+Daraufhin hatte Harry Potter, ziemlich frustriert, erwidert, er könne sich nicht vorstellen, dass Draco wirklich so schlecht darin sei, verschiedene Blickwinkel einzunehmen, ganz sicher habe es Todesser gegeben, die sich als Feinde der Blutreinheitslehre ausgegeben hatten und denen glaubwürdiger klingende Argumente gegen ihre eigene Seite eingefallen waren, als Draco sie anbot. Hätte Draco versucht als Mitglied von Dumbledores Seite aufzutreten und sich nichts besseres als die Hauselfen-Hypothese einfallen lassen, hätte er niemanden auch nur eine Sekunde lang getäuscht.
 
-- Santa Claus
+Draco hatte zugeben müssen, dass er nicht ganz unrecht hatte.
 
-Harry starrte die Notiz an.
+Daher die Potter-Methode.
 
-Es schien in der Tat ein ziemlich guter Rat zu sein. Natürlich würde Harry im Geschichtsunterricht nicht betrügen, auch wenn man ihm einen toten Affen als Professor vorsetzte. Doch Severus Legilimentik... wer immer die Notiz geschickt hatte, wusste eine Menge wichtiger, geheimer Dinge und war willens, sie Harry mitzuteilen. Die Notiz warnte ihn noch immer davor, Dumbledore könne den Umhang stehlen, doch an diesem Punkt hatte Harry ehrlich keine Ahnung ob das ein schlechtes Zeichen war, es könnte auch nur ein verständlicher Irrtum sein.
+"Bitte, Dr. Malfoy," jammerte Harry Potter, "warum nehmen sie meine Arbeit nicht an?"
 
-Irgendeine Art von Intrige schien in Hogwarts vor sich zu gehen. Vielleicht konnte Harry, wenn er die Geschichten von Dumbledore und dem Notizen-Schreiber miteinander abglich, ein kombiniertes Bild ermitteln, das Klarheit brachte? Etwa, wenn sie beide bei etwas übereinstimmten, dann...
+Harry Potter hatte die Phrase "gib einfach vor, dass du vorgibst, dass du ein Wissenschaftler bist" dreimal wiederholen müssen, bevor Draco verstanden hatte.
 
-...was auch immer...
+In diesem Augenblick war Draco klar geworden, dass in Harry Potters Hirn irgendetwas ganz grundsätzlich falsch lief und jeder, der sich mit Legilimentik daran versuchen würde, wahrscheinlich niemals wieder heraus käme.
 
-Harry stopfte alles in seinen Beutel, drehte den Ruhezauber auf, zog sich die Decke über den Kopf und fiel wie tot in den Schlaf.
+Dann war Harry Potter noch bedeutend weiter ins Detail gegangen: Draco sollte vorgeben ein Todesser zu sein, der als Redakteur eines wissenschaftlichen Journals, Dr. Malfoy, auftrat, der die Arbeit seines Gegners Dr. Potter "Über die Erblichkeit von Magischen Fähigkeiten" zurückweisen wollte und wenn der Todesser sich nicht wie ein echter Wissenschaftler präsentierte, würde er als Todesser entlarvt und hingerichtet, während Dr. Malfoy außerdem von seinen eigenen Rivalen beobachtet wurde und Dr. Potters Arbeit dem Anschein nach aus neutralen, wissenschaftlichen Gründen zurückweisen musste, sonst würde er seine Position als Redakteur des Journals verlieren.
 
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-Es war Sonntag morgens und Harry aß Pfannkuchen in der Großen Halle, mit schnellen kleinen Bissen, sah nervös alle paar Sekunden auf seine Armbanduhr.
+Es war ein Wunder, dass der Sprechende Hut nicht im Delirium brabbelnd im St. Mungo's lag.
 
-Es war 8:02 am Morgen und in exakt zwei Stunden und einer Minute wäre es genau eine Woche her, seit er die Weasleys getroffen hatte und auf das Gleis Neundreiviertel hinüber gewechselt war.
+Es war außerdem das komplizierteste, was vorzuspielen jemals irgendwer von Draco verlangt hatte und er konnte unmöglich diese Herausforderung ablehnen.
 
-Und ihm war der Gedanke gekommen... Harry wusste nicht, ob es zulässig war in dieser Weise über das Universum zu denken, er wusste eigentlich gar nichts mehr, aber es schien möglich...
+Sie kamen jetzt gerade, wie Harry Potter es ausgedrückt hatte, richtig in Stimmung.
 
-Dass...
+"Ich fürchte, Dr. Potter, dass sie dies in der falschen Tintenfarbe geschrieben haben," sagte Draco. "Nächster!"
 
-Ihm während der letzten Woche noch nicht genug interessante Dinge widerfahren waren.
+Dr. Potters Gesicht verzog sich sehr überzeugend vor Verzweiflung und Draco konnte nicht anders, als einen kleinen Anflug von Dr. Malfoys Schadenfreude zu empfinden, obwohl der Todesser nur vorgab Dr. Malfoy zu sein.
 
-Als er mit dem Frühstück fertig war, wollte Harry direkt hinauf auf sein Zimmer gehen, sich in der Keller-Etage seines Koffers verstecken und bis 10:03 Uhr mit niemandem reden.
+Dieser Teil machte Spaß. Das hätte er den ganzen Tag machen können.
 
-Und da sah Harry die Weasley-Zwillinge auf sich zukommen. Einer von ihnen hielt etwas hinter seinen Rücken versteckt.
+Dr. Potter erhob sich vom Stuhl, sackte vor Bestürzung vornüber und trottete davon, wurde zu Harry Potter, der Draco ein Daumen-hoch-Zeichen gab und wurde dann wieder zu Dr. Potter, der ihm nun mit eifrigem Lächeln entgegen schritt.
 
-Er sollte schreiend weg rennen.
+Dr. Potter setzte sich und präsentierte Dr. Malfoy ein Stück Pergament, auf dem geschrieben stand:
 
-Er sollte schreiend weg rennen.
+Über die Erblichkeit von Magischen Fähigkeiten
+Dr. H. J. Potter-Evans-Verres, Institut für Hinreichend Fortgeschrittene Wissenschaft
+Meine Beobachtung:
+Heutige Zauberer können nicht so beeindruckende Dinge tun, wie Zauberer noch 800 Jahre zuvor.
+Meine Schlussfolgerung:
+Die Zaubererschaft ist schwächer geworden, weil sie ihr Blut mit Muggelgeborenen und Squibs vermischt.
+"Dr. Malfoy," sagte Dr. Potter mit hoffnungsvollem Blick, "ich habe mich gefragt, ob das Journal für Nichtreproduzierbare Ergebnisse wohl meine Arbeit mit dem Titel 'Über die Erblichkeit von Magischen Fähigkeiten' zur Veröffentlichung in Betracht ziehen könnte."
 
-Was immer das war... es konnte durchaus...
+Draco blickte auf das Pergament und lächelte, während er mögliche Ablehnungsgründe durchspielte. Wäre er ein Professor, hätte er den Aufsatz als zu kurz zurückgewiesen, also -
 
-...das große Finale sein...
+"Sie ist zu lang, Dr. Potter," sagte Dr. Malfoy.
 
-Er sollte wirklich einfach schreiend weg rennen.
+Einen Moment lang lag echter Unglauben auf Dr. Potters Gesicht.
 
-Das Universum würde ihn so oder so erwischen, dachte Harry schicksalsergeben und zerschnitt weiter seinen Pfannkuchen mit Messer und Gabel. Er konnte die Energie nicht aufbringen. Das war die traurige Wahrheit. Harry wusste jetzt, wie sich Leute fühlten, wenn sie es leid waren wegzulaufen, ihrer Bestimmung zu entfliehen und sich einfach zu Boden fallen und von den entsetzlichen klauen- und tentakel-bewehrten Dämonen in den dunkelsten Abgrund ziehen ließen, wo sie ihr unaussprechliches Schicksal erwartete.
+"Ah..." sagte Dr. Potter. "Wie wäre es, wenn ich die zwei separaten Zeilen für Beobachtungen und Schlussfolgerungen weg ließe und stattdessen ein daher einfüge -"
 
-Die Weasley-Zwillinge kamen näher.
+"Dann ist es zu kurz. Nächster!"
 
-Und immer näher.
+Dr. Potter trottete davon.
 
-Harry biss noch einmal von seinem Pfannkuchen ab.
+"Okay," sagte Harry Potter, "du wirst zu gut darin. Noch zweimal zur Übung, dann beim dritten mal wirklich, keine Unterbrechungen zwischendurch, ich komme einfach direkt auf dich zu und dann wirst du die Arbeit aufgrund des tatsächlichen Inhalts zurückweisen, denk daran, deine wissenschaftlichen Rivalen sehen zu."
 
-Die Weasley-Zwillinge erreichten ihn mit breitem Grinsen.
+Dr. Potters nächste Arbeit war perfekt in jeder Hinsicht, ein echtes Meisterwerk, musste jedoch unglücklicherweise zurückgewiesen werden, weil Dr. Malfoys Journal Schwierigkeiten mit dem Buchstaben E hatte. Dr. Potter bot an, sie ohne diese Worte neu zu schreiben und Dr. Malfoy erklärte, es sei eigentlich mehr ein Vokal-Problem.
 
-"Hallo, Fred," sagte Harry dumpf. Einer der Zwillinge nickte. "Hallo, George." Der andere Zwilling nickte.
+Die Arbeit danach wurde abgelehnt, weil Dienstag war.
 
-"Du klingst müde," sagte George.
+Es war, tatsächlich, Samstag.
 
-"Kopf hoch," sagte Fred.
+Dr. Potter wollte darauf hinweisen, worauf er zur Antwort bekam "Nächster!"
 
-"Sieh mal, was wir für dich haben!"
+(Draco verstand langsam, warum Snape sein Druckmittel gegen Dumbledore nur dazu genutzt hatte, eine Stellung zu bekommen, in der er ekelhaft zu Schülern sein konnte.)
 
-Und George zog hinter Freds Rücken -
+Und dann -
 
-Einen Kuchen mit zwölf flammenden Kerzen hervor.
+Dr. Potter näherte sich mit einem überlegenen Grinsen auf dem Gesicht.
 
-Eine Pause entstand, als der Ravenclaw-Tisch sie anstarrte.
+"Dies ist meine neueste Arbeit, Über die Erblichkeit von Magischen Fähigkeiten," konstatierte Dr. Potter zuversichtlich und stieß ihm das Pergament entgegen. "Ich habe entschieden, ihrem Journal zu gestatten, es zu veröffentlichen und habe es in perfekter Übereinstimmung mit ihren Richtlinien angefertigt, damit sie es unverzüglich herausgeben können."
 
-"Das stimmt nicht," sagte jemand. "Harry Potter wurde am einunddreißigsten Jul-"
+Der Todesser beschloss, Dr. Potter aufzuspüren und zu töten, nachdem seine Mission beendet war. Dr. Malfoy behielt ein höfliches Lächeln bei, da seine Rivalen zusahen und sagte...
 
-"ER WIRD KOMMEN," ertönte eine gewaltige hohle Stimme, die durch alle Gespräche fuhr wie ein Schwert aus Eis. "ER ZERSTÖRT DIE -"
+(Die Pause dehnte sich aus, während Dr. Potter ihn ungeduldig anblickte.)
 
-Dumbledore war von seinem Thron aufgesprungen und quer über den Lehrertisch gerannt und ergriff nun die Frau, die jene entsetzlichen Worte sprach, Fawkes war mit einem Aufleuchten erschienen und alle drei verschwanden in einem feurigen Spalt.
+..."Lassen Sie mich das sehen, bitte."
 
-Eine schockierte Pause entstand...
+Dr. Malfoy nahm das Pergament und prüfte es sorgfältig.
 
-...gefolgt von Köpfedrehen in Richtung von Harry Potter.
+Der Todesser begann nervös zu werden, da er kein richtiger Wissenschaftler war und Draco versuchte sich zu erinnern, wie man wie Harry Potter sprach.
 
-"Ich war's nicht," sagte Harry mit müder Stimme.
+"Sie, ah, müssen noch andere mögliche Erklärungen für Ihre, ähm, Beobachtung in Betracht ziehen, als nur diese eine -"
 
-"Das war eine Prophezeiung!" zischte jemand am Tisch. "Und ich wette, es geht um dich!"
+"Wirklich?" unterbrach Dr. Potter. "Wie was genau? Hauselfen stehlen unsere Magie? Meine Daten lassen nur eine mögliche Schlussfolgerung zu, Dr. Malfoy. Es gibt keine anderen plausiblen Hypothesen."
 
-Harry seufzte.
+Draco versuchte aufgebracht sein Gehirn zum Denken zu bewegen, was würde er sagen, wenn er sich als Mitglied von Dumbledores Seite ausgäbe, was behaupteten sie, was die Erklärung für den Niedergang der Zaubererschaft war, Draco hatte nie wirklich danach gefragt...
 
-Er erhob sich von seinem Platz, hob die Stimme und übertönte laut die Unterhaltungen, die gerade einsetzten, "Es geht nicht um mich! Offensichtlich! Ich komme nicht her, ich bin bereits hier!"
+"Wenn Ihnen keinerlei andere Erklärung für meine Daten einfällt, werden Sie meine Arbeit veröffentlichen müssen, Dr. Malfoy."
 
-Harry setzte sich wieder hin.
+Es war das höhnische Grinsen auf Dr. Potters Gesicht, dass das Fass zum Überlaufen brachte.
 
-Die Leute, die zu ihm hin gesehen hatten, drehten sich wieder weg.
+"Ach ja?" schnappte Dr. Malfoy. "Woher wissen Sie, dass die Magie selbst nicht einfach verschwindet?"
 
-Jemand anders am Tisch sagte, "Um wen ging es dann?"
+Die Zeit stand still.
 
-Und mit einem dumpfen, bleiernen Gefühl wurde Harry klar, wer nicht bereits in Hogwarts war.
+Draco und Harry Potter tauschten entsetzte Blicke aus.
 
-Man mochte es eine vage Vermutung nennen, doch Harry hatte das Gefühl, der untote Dunkle Lord würde sich demnächst blicken lassen.
+Dann spuckte Harry Potter etwas aus, dass wahrscheinlich ein extrem schlimmes Wort war, wenn man von Muggeln aufgezogen worden war. "Daran habe ich nicht gedacht!" sagte Harry Potter. "Und das hätte ich müssen. Die Magie verschwindet. Verdammt, verdammt, verdammt!"
 
-Die Gespräche um ihn herum gingen weiter.
+Die Unruhe in Harrys Stimme war ansteckend. Unwillkürlich glitt Dracos Hand in seinen Umhang und umklammerte seinen Zauberstab. Er hatte geglaubt, das Haus Malfoy sei sicher, solange man nur in Familien einheiratete, die ihre Blutlinien vier Generationen weit zurückverfolgen konnten, sollte man sicher sein, es war ihm nie zuvor in den Sinn gekommen, dass es nichts geben könnte, das irgendjemand tun konnte, um das Ende der Magie zu verhindern. "Harry, was machen wir jetzt?" Dracos Stimme schwoll an vor Panik. "Was machen wir jetzt?"
 
-"Nicht zu vergessen, die was zerstören?"
+"Lass mich nachdenken!"
 
-"Ich glaube, ich hörte Trelawney etwas sagen, das mit 'S' anfing, bevor der Schulleiter sie geschnappt hat."
+Nach ein paar Augenblicken schnappte Harry sich von einem nahen Schreibpult den selben Federkiel und das Pergament, die er benutzt hatte, um seine vorgebliche Arbeit zu schreiben und begann etwas zu kritzeln.
 
-"Wie... Seele? Sonne?"
+"Wir werden es rausfinden," sagte Harry mit angespannter Stimme, "wenn die Magie aus der Welt verschwindet, werden wir herausfinden, wie schnell sie verblasst und dann werden wir etwas dagegen unternehmen. Draco, haben die Kräfte der Zauberer konstant nachgelassen oder sind sie in plötzlichen Schüben zurückgegangen?"
 
-"Wenn jemand die Sonne zerstören wird, sitzen wir wirklich in der Tinte!"
+"Ich... ich weiß nicht..."
 
-Das schien Harry eher unwahrscheinlich, es sei denn es gab ein paar beängstigende Dinge in der Welt, die von David Criswells Ideen über Star Lifting gehört hatten.***
+"Du hast mir erzählt, dass niemand den vier Gründern von Hogwarts gleichkam. Also dann läuft es schon seit mindestens acht Jahrhunderten? Du kannst dich nicht an irgendwas darüber erinnern, dass die Probleme vor fünf Jahrhunderten plötzlich anfingen oder sowas?"
 
-"Also," sagte Harry in müdem Tonfall, "das passiert jeden Sonntag beim Frühstück, oder?"
+Draco versuchte krampfhaft zu denken. "Ich habe immer gehört, dass niemand so gut war wie Merlin und danach war niemand so gut wie die Gründer von Hogwarts."
 
-"Nein," sagte ein Schüler, der in seinem siebten Jahr sein mochte mit grimmigem Stirnrunzeln. "Tut es nicht."
+"Alles klar," sagte Harry. Er kritzelte immer noch. "Denn es war vor drei Jahrhunderten, dass die Muggel aufhörten an Magie zu glauben, wovon ich dachte, es könnte etwas damit zu tun haben. Und vor etwa anderthalb Jahrhunderten fingen Muggel an, eine Art von Technologie zu nutzen, die in Gegenwart von Magie nicht mehr funktioniert und ich fragte mich, ob es auch anders herum so sein mag."
 
-Harry zuckte mit den Schultern. "Wie auch immer. Möchte jemand Geburtstagskuchen?"
+Draco fuhr aus seinem Stuhl hoch, so wütend, dass er kaum sprechen konnte. "Es sind die Muggel -"
 
-"Aber du hast nicht Geburtstag!" sagte der selbe Schüler, der schon beim letzten mal Einwände hatte.
+"Verdammt nochmal!" grollte Harry. "Hast du dir nicht mal selbst zugehört? Es geht schon seit mindestens acht Jahrhunderten so und damals haben die Muggel überhaupt nichts interessantes getan! Wir müssen herausfinden, was wirklich die Wahrheit ist! Die Muggel könnten etwas damit zu tun haben, doch wenn nicht und du schiebst ihnen für alles die Schuld in die Schuhe und deshalb finden wir nicht heraus, was wirklich vor sich geht, dann wirst du eines Tages morgens aufwachen und feststellen, dass dein Zauberstab nur ein Stück Holz ist!"
 
-Das war für Fred und George natürlich das Stichwort, um in Gelächter auszubrechen.
+Draco stockte der Atem. Sein Vater hatte oft in seinen Reden davon gesprochen, die Zauberstäbe würden in unseren Händen zerbrechen, doch Draco hatte nie zuvor darüber nachgedacht, was das bedeutete, es würde ihm ja nicht passieren. Und jetzt schien es plötzlich sehr real. Nur ein Stück Holz. Draco konnte sich genau ausmalen, wie es wäre, seinen Zauberstab zu zücken und einen Zauber zu versuchen und festzustellen, dass nichts geschah...
 
-Selbst Harry brachte ein müdes Lächeln zustande.
+Das konnte jedem passieren.
 
-Als ihm das erste Stück gereicht wurde, sagte Harry, "Ich hatte eine echt lange Woche."
+Es würde keine Zauberer mehr geben, auch keine Magie, niemals wieder. Nur Muggel, mit ein paar Legenden über das, wozu ihre Vorfahren einst in der Lage waren. Einige der Muggel würden Malfoy heißen und das wäre alles, was von dem Namen blieb.
 
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-Und nun saß Harry in der Keller-Etage seines Koffers, zugeschoben und verschlossen, damit niemand herein konnte, ein Laken über den Kopf gezogen und wartete darauf, dass die Woche vorbei sein würde.
+Zum ersten mal in seinem Leben wurde Draco klar, warum es Todesser gab.
 
-10:01.
+Er hatte es immer als selbstverständlich gesehen, dass man ein Todesser wurde, wenn man erwachsen wurde. Jetzt verstand Draco, er wusste, wieso Vater und seine Freunde geschworen hatten, ihr Leben dafür zu geben, den Alptraum zu verhindern, es gab Dinge denen man nicht tatenlos zusehen konnte. Doch was wenn es trotz allem passierte, was wenn all die Opfer, all die Freunde, die sie an Dumbledore verloren hatten, die Familie, die sie verloren hatten, was wenn alles das umsonst gewesen war...
 
-10:02.
+"Die Magie kann nicht verschwinden," sagte Draco. Seine Stimme versagte. "Es wäre nicht fair."
 
-10:03, aber nur um sicher zu gehen...
+Harry hörte auf zu kritzeln und blickte auf. Sein Gesichtsausdruck zornig. "Hat dein Vater dir nie gesagt, das Leben ist nicht fair?"
 
-10:04 und die erste Woche war um.
+Vater hatte das jedes einzelne mal gesagt, wenn Draco das Wort benutzt hatte. "Aber, aber, das zu glauben ist einfach zu furchtbar -"
 
-Harry entließ einen Seufzer der Erleichterung und zog zögerlich das Laken von seinem Kopf.
+"Draco, ich möchte dir etwas beibringen, das ich die Litanei von Tarski** nenne. Sie ändert sich jedesmal, wenn man sie benutzt. In diesem Fall geht sie folgendermaßen: Wenn die Magie aus der Welt verschwindet, will ich glauben, dass die Magie aus der Welt verschwindet. Wenn die Magie nicht aus der Welt verschwindet, will ich glauben, dass die Magie nicht aus der Welt verschwindet. Möge ich mich nicht an Überzeugungen klammern, die ich nicht will. Wenn wir in einer Welt leben, aus der die Magie verschwindet, ist es das, was wir glauben müssen, wir müssen wissen, was kommen wird, damit wir es aufhalten können oder uns im schlimmsten Fall vorbereiten, in der Zeit, die uns bleibt. Es nicht zu glauben, verhindert nicht, dass es geschieht. Daher ist die einzige Frage, die wir uns stellen müssen, ob die Magie tatsächlich verschwindet und wenn das die Welt ist, in der wir leben, ist es das, was wir glauben wollen. Litanei von Gendlin**: Die Wahrheit steht bereits fest. Sie anzunehmen, macht sie nicht schlimmer. Verstanden, Draco? Ich sorge später dafür, dass du es dir einprägst. Man wiederholt sie jedes mal, wenn man sich fragt, ob es eine gute Idee ist, etwas zu glauben, dass nicht wirklich wahr ist. Eigentlich will ich, dass du es gleich jetzt sagst. Die Wahrheit steht bereits fest. Sie anzunehmen, macht sie nicht schlimmer. Sag es."
 
-Einige Augenblicke später war er hinaus getreten in die klare, sonnendurchflutete Luft seines Schlafsaals.
+"Die Wahrheit steht bereits fest," wiederholte Draco mit zittriger Stimme, "Sie anzunehmen, macht sie nicht schlimmer."
 
-Kurz darauf war er im Ravenclaw-Gemeinschaftsraum. Ein paar Leute sahen ihn an, doch niemand sagte etwas oder versuchte mit ihm zu reden.
+"Wenn die Magie verschwindet, will ich glauben, dass die Magie verschwindet. Wenn die Magie nicht verschwindet, will ich glauben, dass die Magie nicht verschwindet. Sag es."
 
-Harry fand ein nettes breites Schreibpult, zog sich einen bequemen Stuhl heran und setzte sich. Aus seinem Beutel zog er ein Blatt Papier und einen Bleistift.
+Draco gab die Worte wieder, mit einem sauren Gefühl in der Magengrube.
 
-Mum und Dad hatten Harry deutlich zu verstehen gegeben, dass obwohl sie Verständnis hatten für seine Begeisterung, von zu Hause und seinen Eltern wegzukommen, er dennoch keinesfalls versäumen dürfe, ihnen jede Woche zu schreiben, nur damit sie wussten, dass er am Leben, unverletzt und nicht im Gefängnis war.
+"Gut," sagte Harry, "denk daran, es passiert vielleicht nicht und dann wirst du es auch nicht glauben müssen. Zunächst wollen wir nur wissen, was wirklich vor sich geht, in welcher Welt wir tatsächlich leben." Harry wandte sich wieder seiner Arbeit zu, kritzelte noch etwas mehr und drehte dann das Pergament, so dass Draco es sehen konnte. Draco lehnte sich über das Pult und Harry rückte das grüne Licht näher heran.
 
-Harry starrte auf das leere Blatt Papier hinab. Mal sehen...
+Beobachtung:
 
-Nachdem er seine Eltern am Bahnhof verlassen hatte, hatte er...
+Die Zauberei ist nicht so mächtig, wie damals als Hogwarts gegründet wurde.
 
-...Bekanntschaft mit einem Jungen geschlossen, der von Darth Vader erzogen worden war, sich mit den drei berüchtigtsten Tunichtguten von Hogwarts angefreundet, Hermine getroffen, dann war da noch der Vorfall mit dem Sprechenden Hut... Am Montag hatte er eine Zeitmaschine bekommen, um seine Schlafstörung zu behandeln, den legendären Unsichtbarkeitsumhang von einem unbekannten Wohltäter erhalten, sieben Hufflepuffs gerettet, indem er fünf ältere Slytherins in die Knie gezwungen hatte, von denen einer gedroht hatte, ihm seinen Finger zu brechen, erkannt dass er eine mysteriöse dunkle Seite besaß, im Zauberkunst-Unterricht den Frigideiro-Spruch gelernt und seine Rivalität mit Hermine begonnen... Am Dienstag hatte er mit Astronomie bei Professor Aurora Sinistra begonnen, die nett war und mit Geschichte der Magie, unterrichtet von einem Geist, der exorziert und durch einen Kassetten-Rekorder ersetzt werden sollte... Mittwoch war er zum Gefährlichsten Schüler im Klassenraum erklärt worden... Donnerstag, gar nicht erst nachdenken über Donnerstag... Freitag, der Vorfall im Zaubertränke-Unterricht, gefolgt von seiner Erpressung des Schulleiters, gefolgt davon, dass der Verteidigungs-Professor ihn im Unterricht aufmischen ließ, gefolgt davon, dass der Verteidigungs-Professor sich als das umwerfendste menschliche Wesen herausstellte, das noch immer auf Erden wandelte... Samstag hatte er eine Wette verloren und war auf seinem ersten Date gewesen und hatte angefangen Draco zur Umkehr zu bewegen... und heute morgen dann mochte Professor Trelawneys ungehörte Prophezeiung darauf hindeuten oder auch nicht, dass ein unsterblicher Dunkler Lord im Begriff war Hogwarts anzugreifen.
+Hypothesen:
 
-Harry ordnete im Geiste sein Material und begann zu schreiben.
+1. Die Magie selbst verschwindet.
+2. Zauberer paaren sich mit Muggeln und Squibs.
+3. Das Wissen um mächtige Zauber geht verloren.
+4. Zauberer essen als Kinder die falsche Nahrung oder etwas anderes außer Blut lässt sie schwächer werden.
+5. Muggel-Technologie beeinträchtigt die Magie. (Seit 800 Jahren?)
+6. Stärkere Zauberer haben weniger Kinder. (Draco = Einzelkind? Prüfen ob 3 mächtige Zauberer, Quirrell / Dumbledore / Dunkler Lord, irgendwelche Kinder hatten.)
 
-Liebe Mum und Dad:
+Tests:
 
-Hogwarts macht eine Menge Spaß. Ich habe im Zauberkunst-Unterricht gelernt, wie man das Zweite Gesetz der Thermodynamik verletzt und ein Mädchen namens Hermine Granger getroffen, das schneller liest als ich.
+"Alles klar," sagte Harry. Sein Atem ging jetzt ein wenig ruhiger. "Nun, wenn man es mit einem wirklich verwirrenden Problem zu tun hat und man keine Ahnung hat, was vor sich geht, ist es das Schlauste, ein paar wirklich einfache Tests auszutüfteln, Sachen die man sofort nachprüfen kann. Wir brauchen Schnelltests, die zwischen diesen Hypothesen unterscheiden. Beobachtungen, die für zumindest eine von ihnen anders ausfallen als für alle anderen."
 
-Ich belasse es lieber dabei.
+Draco starrte die Liste schockiert an. Ihm wurde plötzlich klar, dass er furchtbar viele Reinblüter kannte, die Einzelkinder waren. Er selbst, Vincent, Gregory, praktisch jeder. Die zwei mächtigsten Zauberer, von denen jeder sprach, waren Dumbledore und der Dunkle Lord und keiner von beiden hatte irgendwelche Kinder, genau wie Harry vermutet hatte...
 
-Euer euch liebender Sohn,
+"Es wird wirklich schwer werden zwischen 2 und 6 zu unterscheiden," sagte Harry, "es liegt in jedem Fall im Blut, man müsste versuchen den Verfall der Zauberei zu messen und mit der Zahl der Kinder verschiedener Zauberer vergleichen und die Fähigkeiten von Muggelgeborenen im Vergleich zu Reinblütern ermitteln..." Harrys Finger tippten nervös auf dem Pult herum. "Fassen wir 6 einfach mit 2 zusammen und nennen sie für den Moment die Blut-Hypothese. 4 ist unwahrscheinlich, denn dann hätte jeder einen plötzlichen Abfall bemerkt, beim Wechsel zu neuen Nahrungsmitteln, schwer zu erkennen, was sich über 800 Jahre hinweg stetig verändert haben könnte. 5 ist, aus dem selben Grund, unwahrscheinlich, kein plötzlicher Abfall, Muggel haben vor 800 Jahren gar nichts getan. Außerdem sieht 4 wie 2 und 5 wie 1 aus. Wir sollten uns also hauptsächlich auf die Unterscheidung zwischen 1, 2 und 3 konzentrieren." Harry drehte das Pergament wieder zu sich, zeichnete eine Ellipse um diese drei Zahlen, drehte es zurück. "Magie verschwindet, Blut wird schwächer, Wissen geht verloren. Welcher Test fällt unterschiedlich aus, je nachdem was davon wahr ist? Was könnten wir feststellen, das uns sagt, eines davon ist falsch?"
 
-Harry James Potter-Evans-Verres.
+"Weiß ich doch nicht!" platzte Draco heraus. "Was fragst du mich? Du bist der Wissenschaftler!"
 
+"Draco," sagte Harry, mit einem Anflug flehender Verzweiflung in der Stimme, "ich weiß nur, was Muggel-Wissenschaftler wissen! Du bist in der Zauberwelt aufgewachsen, ich nicht! Du kennst mehr Magie als ich und du weißt mehr über Magie als ich und überhaupt war das ganze deine Idee, also fang an zu denken wie ein Wissenschaftler und lass dir was einfallen!"
 
+Draco schluckte schwer und starrte auf die Arbeit.
 
-* engl.: A History of Magic
-** engl.: Occlumency: The Hidden Arte; es schien mir als solle der Titel mit dem zusätzlichen "e" bewusst altertümlich klingen, daher habe ich hierfür eine laut Wiktionary althochdeutsche Form des Wortes Kunst verwendet (vielleicht schon etwas zu alt).
-*** Unter star lifting versteht man verschiedene Technologien, die eine fortschrittliche raumfahrende Zivilisation nutzen könnte, um einem Stern bedeutende Teile seiner Masse zu entziehen, etwa als Quelle von Rohmaterialien.
+Magie verschwindet... Zauberer paaren sich mit Muggeln... Wissen geht verloren...
+
+"Wie sieht die Welt aus, wenn die Magie verschwindet?" sagte Harry Potter. "Du weißt mehr über Magie, du solltest Vermutungen anstellen, nicht ich! Stell dir vor, du erzählst eine Geschichte darüber, was passiert in der Geschichte?"
+
+Draco stellte es sich vor. "Zauber die früher funktionierten, tun es nicht mehr." Zauberer wachen auf und stellen fest, dass ihre Zauberstäbe nur ein Stück Holz sind...
+
+"Wie sieht die Welt aus, wenn das Zauberer-Blut schwächer wird?"
+
+"Leute können nicht mehr tun, was ihre Vorfahren konnten."
+
+Wie sieht die Welt aus, wenn Wissen verloren geht?"
+
+"Leute wissen nicht, wie sie die Zauber überhaupt wirken sollten..." sagte Draco. Er hielt inne, von sich selbst überrascht. "Das ist ein Test, oder nicht?"
+
+Harry nickte entschieden. "Das ist einer." Er schrieb ihn auf das Pergament unter Tests:
+
+A. Gibt es Zauber, die wir kennen, aber nicht wirken können (1 oder 2) oder sind die verlorenen Zauber nicht mehr bekannt (3)?
+
+"Also, das unterscheidet zwischen 1 und 2 auf der einen und 3 auf der anderen Seite," sagte Harry. "Jetzt brauchen wir einen Weg zwischen 1 und 2 zu unterscheiden. Magie verschwindet, Blut wird schwächer, wie können wir den Unterschied feststellen?"
+
+"Was für Zauber wirkten Schüler früher in ihrem ersten Jahr in Hogwarts?" sagte Draco. "Wenn sie einmal viel stärkere Zauber wirken konnten, war das Blut stärker -"
+
+Harry Potter schüttelte den Kopf. "Oder die Magie selbst war stärker. Wir müssen uns einen Weg einfallen lassen, den Unterschied festzustellen." Harry erhob sich von seinem Stuhl, begann nervös durch den Klassenraum zu wandern. Nein warte, das könnte trotzdem gehen. Nehmen wir an, verschiedene Zauber verbrauchen verschieden viel magische Energie. Wenn dann die umgebende Magie schwächer wird, würden die mächtigen Zauber zuerst verschwinden, aber die Zauber, die jeder im ersten Jahr lernt, würden gleich bleiben..." Harrys nervöse Wanderung wurde schneller. "Es ist kein sehr guter Test, mehr wie mächtige Zauberei geht verloren gegen alle Zauberei geht verloren, jemandes Blut könnte zu schwach für mächtige Magie sein, aber stark genug für einfache Zauber... Draco, weißt du ob mächtigere Zauberer innerhalb einer Ära, wie etwa mächtige Zauberer nur aus diesem Jahrhundert, schon als Kinder mächtiger sind? Wenn der Dunkle Lord den Kühlzauber gewirkt hat als er elf war, hätte er den ganzen Raum einfrieren können?"
+
+Dracos Gesicht verzog sich, als er sich zu sammeln versuchte. "Ich kann mich nicht erinnern, irgendwas über den Dunklen Lord gehört zu haben, aber ich glaube Dumbledore soll etwas tolles bei seinen Transfigurations-ZAGs im fünften Jahr gemacht haben... ich denke, andere mächtige Zauberer waren auch gut in Hogwarts..."
+
+Harry blickte finster drein, noch immer umher wandernd. "Sie könnten einfach nur viel gelernt haben. Trotzdem, wenn Erstklässler die gleichen Zauber lernten und etwa so mächtig schienen wie jetzt, könnten wir das als schwachen Beleg für 1 über 2 sehen... halt, warte mal." Harry stoppte auf der Stelle. "Ich habe noch einen Test, der zwischen 1 und 2 unterscheiden könnte. Es würde eine Weile dauern, ihn zu erklären, er macht Gebrauch von einigem, was Wissenschaftler über Blut und Vererbung wissen, doch die Frage ist einfach zu stellen. Wenn wir meinen Test und deinen Test kombinieren und sie beide zum selben Ergebnis kommen, ist das ein starker Hinweis auf die Antwort." Harry rannte beinahe zurück zum Schreibpult, ergriff das Pergament und schrieb:
+
+B. Wirkten antike Erstklässler dieselbe Art von Zaubern, mit der selben Stärke, wie heute? (Schwacher Beleg für 1 über 2, aber Blut könnte auch nur mächtige Magie verlieren.)
+
+C. Zusätzlicher Test durch wissenschaftliches Wissen über Blut, der zwischen 1 und 2 unterscheidet, Erklärung später.
+
+"Okay," sagte Harry, "wir können zumindest versuchen, den Unterschied zwischen 1 und 2 und 3 herauszufinden, also lass es uns gleich tun, wir können uns mehr Tests einfallen lassen, nachdem wir mit denen fertig sind, die wir schon haben. Nun, es wird etwas seltsam aussehen, wenn Draco Malfoy und Harry Potter zusammen losziehen und Fragen stellen, also hier ist mein Plan. Du durchkämmst Hogwarts und suchst alte Porträts und fragst sie, welche Zauber sie in ihrem ersten Schuljahr gelernt haben. Sie sind Porträts, also werden sie nicht wissen, dass es seltsam ist, dass Draco Malfoy das tut. Ich werde neuere Porträts und lebende Menschen nach Zaubern fragen, die wir kennen, aber nicht wirken können, niemand wird sich irgendwas dabei denken, wenn Harry Potter komische Fragen stellt. Und ich werde einige komplizierte Nachforschungen über vergessene Zauber anstellen müssen, daher möchte ich, dass du die Daten für meinen wissenschaftlichen Test sammelst. Es ist eine einfache Frage und du solltest die Antworten bekommen, indem du Porträts befragst. Du willst dir das vielleicht aufschreiben, bereit?"
+
+Draco setzte sich wieder und kramte in seiner Schultasche nach Pergament und Feder. Als sie auf dem Tisch lagen, blickte Draco auf, mit entschlossenem Gesichtsausdruck. "Leg los."
+
+"Suche Porträts, die ein verheiratetes Squib-Paar kannten - mach nicht so ein Gesicht, Draco, es sind wichtige Informationen. Frag einfach neuere Porträts, die Gryffindors sind oder so. Such nach Porträts, die ein verheiratetes Squib-Paar gut genug kannten, um die Namen aller ihrer Kinder zu wissen. Schreib den Namen jedes Kindes auf und ob das Kind ein Zauberer, ein Squib oder ein Muggel war. Wenn sie nicht wissen, ob das Kind ein Squib oder ein Muggel war, schreib 'Nicht-Zauberer' auf. Notier das für alle Kinder dieses Paares, lass keine aus. Wenn das Porträt nur die Namen der Zauberer-Kinder kennt, nicht die Namen aller Kinder, dann notiere keine Daten für jenes Paar. Es ist sehr wichtig, dass du mir nur Daten von jemandem bringst, der die Namen von allen Kindern eines Squib-Paares kennt, gut genug um sie beim Namen zu nennen. Versuche, insgesamt wenigstens vierzig Namen zu bekommen, wenn du kannst und hast du noch Zeit für mehr, umso besser. Hast du das alles?"
+
+"Wiederhol's nochmal," sagte Draco als er mit Schreiben fertig war und Harry wiederholte.
+
+"Ich hab's," sagte Draco, "aber warum -"
+
+"Es hat mit einem der Geheimnisse des Blutes zu tun, die Wissenschaftler bereits entdeckt haben. Ich erklär's, wenn du zurück bist. Teilen wir uns auf und treffen uns hier in einer Stunde wieder, das sollte 6:22 Uhr sein. Können wir los?"
+
+Draco nickte entschlossen. Es war alles sehr überstürzt, doch man hatte ihm schon früh beigebracht, sich zu beeilen.
+
+"Dann los!" sagte Harry Potter und riss sich den Kapuzenmantel herunter, schob ihn in seinen Beutel, der ihn in sich aufzunehmen begann und ohne auch nur zu warten bis sein Beutel fertig wurde, wirbelte er herum und näherte sich mit großen Schritten der Tür des Klassenzimmers, lief dabei gegen ein Schreibpult und fiel fast hin in seiner Eile.
+
+Als Draco es schließlich geschafft hatte, seinen eigenen Umhang abzunehmen und in seiner Schultasche zu verstauen, war Harry Potter verschwunden.
+
+Draco raste fast aus der Tür.
+
+
+
+* Der Lake-Wobegon-Effekt - benannt nach einer fiktiven Kleinstadt in Minnesota in der "alle Frauen stark, alle Männer gutaussehend und alle Kinder überdurchschnittlich" sind, erfunden von Garrison Keillor für seine Radiosendung A Prairie Home Companion - beschreibt die Tendenz von Menschen, ihre eigenen Qualitäten und Fähigkeiten gegenüber denen anderer Menschen fälschlich als überdurchschnittlich einzuschätzen.
+** engl.: Litany of Tarski und Litany of Gendlin; beide könnten als eine Art "rationalistisches Mantra" angesehen werden, da es oft ein großer Unterschied ist, zu wissen wie man rational denkt und es in realen Situationen auch tatsächlich anzuwenden. Sie sind im Community-Wiki des rationalistischen Blogs LessWrong*** zu finden und wurden offenbar nach dem Logiker, Mathematiker und Philosophen Alfred Tarski und dem Philosophen und Psychologen Eugene Gendlin benannt; in Gendlins Fall scheint es sich um ein Zitat aus seinem Werk Focusing zu handeln, die Verbindung zu Tarski bleibt vorerst unklar.
+*** Die Seite, auf der "man alles lernt, was Harry weiß und mehr."
 
