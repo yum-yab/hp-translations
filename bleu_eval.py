@@ -44,23 +44,11 @@ def calculate_bleu(results_mapping, target_file):
 
     authors, files = zip(*results_mapping.items())
 
-    # results = file_bleu(files, target_file)
-
-    # author_results = zip(authors, results)
-
-    # print(json.dumps(author_results, indent=4))
-
     chencherry = SmoothingFunction()
 
     references = [get_file_content(path) for path in files]
 
-    with open("reference.json", "w+") as output_file:
-        json.dump(references[0], output_file, indent=4)
-
     target_content = get_file_content(target_file)
-
-    with open("hypothesis.json", "w+") as output_file:
-        json.dump(target_content, output_file, indent=4)
 
     for i, r in enumerate(references):
         bleu = corpus_bleu([[r]], [target_content], smoothing_function=chencherry.method1)

@@ -10,9 +10,7 @@ All data stem from https://harry-potter.fandom.com/de/wiki/Originalnamen_und_-be
 - activate virtual environment
     - `source env/bin/activate`
 - download required packages
-    - `pip3 -r requirements.txt`
-- download spacy german core:
-    - `python -m spacy download de_core_news_sm`
+    - `pip install -r requirements.txt`
 
 ## Translations
 
