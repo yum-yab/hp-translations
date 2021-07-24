@@ -86,7 +86,9 @@ def rawparse_fanfiction(uri, start_number=1, end_number=10, chapter_offset=1, sk
 
         chapter_id = chapter_offset + counter
 
-        if i in skiplist: continue
+        if i in skiplist: 
+            counter += 1
+            continue
 
         chapter_url = base_uri + hash_string + str(i) + title
 
