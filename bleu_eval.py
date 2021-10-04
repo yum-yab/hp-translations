@@ -69,6 +69,10 @@ def calculate_bleu(results_mapping, target_file):
 
     target_content = get_file_content(target_file)
 
+    bleu = corpus_bleu([references], [target_content])
+
+    print("All BLEU: ", bleu)
+
     for i, r in enumerate(references):
         bleu = corpus_bleu([[r]], [target_content],
                            smoothing_function=chencherry.method1)
